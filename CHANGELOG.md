@@ -1,6 +1,10 @@
 # Changelog
 
 #### 0.0.1.1 - MAU `2024-01-28`
+1. Added Empty AEON Timeline 
+----
+
+#### 0.0.1.1 - MAU `2024-01-28`
 
 **Initial Version** 
 
