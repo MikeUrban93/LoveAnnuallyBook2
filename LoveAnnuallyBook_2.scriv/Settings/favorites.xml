@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Favorites Version="1.0">
+    <MoveTo>
+        <Recent>
+            <UUID Date="2023-08-30 10:25:36 -0500">BC65B638-A3AE-433B-81E3-0806088794BA</UUID>
+        </Recent>
+        <Popular>
+            <UUID Used="8" Date="2023-08-30 10:25:36 -0500">BC65B638-A3AE-433B-81E3-0806088794BA</UUID>
+            <UUID Used="1" Date="2023-08-28 09:31:11 -0500">F299D9FD-60C1-40F0-9147-DA51CCA25CFF</UUID>
+        </Popular>
+    </MoveTo>
+    <Append>
+        <Recent/>
+        <Popular/>
+    </Append>
+</Favorites>

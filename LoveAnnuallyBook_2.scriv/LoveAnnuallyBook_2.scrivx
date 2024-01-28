@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-01-28 04:01:21 -0500" ModID="7FBFF847-B979-4880-A822-59C200DB2B74">
+    <Binder>
+        <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2023-08-23 17:56:51 -0500">
+            <Title>Novel Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-11-06 11:57:53 -0500" Modified="2024-01-28 03:56:34 -0500">
+            <Title>Manuscript</Title>
+            <MetaData/>
+        </BinderItem>
+        <BinderItem UUID="DF178785-3F71-42E5-99CC-BC7514AFA5D5" Type="Folder" Created="2023-08-04 10:18:00 -0500" Modified="2024-01-28 03:56:34 -0500">
+            <Title>Prepped Scenes</Title>
+            <MetaData>
+                <NotesTextSelection>14,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="418398EA-F176-415C-BC6C-38E9BB53EEF3" Type="Folder" Created="2023-08-09 16:01:53 -0500" Modified="2024-01-28 03:56:34 -0500">
+            <Title>Sandbox</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Blackboard</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="0A3F7359-8A82-4DD5-BE8F-A8FC14CCCD2B" Type="Text" Created="2023-08-12 18:34:45 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>Sandbox 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C63C3AC8-F09A-4549-AC9B-F896A5C0DA1E" Type="Text" Created="2024-01-28 03:48:16 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>Sandbox 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BCE954BA-B698-4DBB-BC16-043C3CB680A0" Type="Text" Created="2024-01-28 03:48:19 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>Sandbox 3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EF61C5A4-93D6-4BEA-B7FC-6BA1C3200AFB" Type="Text" Created="2024-01-28 03:48:24 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>Sandbox 4</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="1D90DF7D-B181-4F80-A856-9962BD3FAC7E" Type="Folder" Created="2023-08-06 04:50:38 -0500" Modified="2024-01-28 03:56:34 -0500">
+            <Title>Overview</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="5A1AC7AB-8E65-49A8-933B-0C9A3DA3E76A" Type="Folder" Created="2023-08-04 13:02:02 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>Plot Summaries</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="BC65B638-A3AE-433B-81E3-0806088794BA" Type="Folder" Created="2023-08-07 13:33:54 -0500" Modified="2024-01-28 03:56:34 -0500">
+            <Title>Preserve</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="691BCF72-AE0F-40E2-8E6B-D0947A2CE885" Type="Folder" Created="2023-08-27 05:22:38 -0500" Modified="2023-08-29 06:22:52 -0500">
+            <Title>AI Related</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="EA9D28EE-64B4-4CA1-ABDE-991EA211A583" Type="Text" Created="2023-08-27 05:22:57 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>Prompts</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1298,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="69822417-D015-4BDD-90BD-18AAA6198D15" Type="Folder" Created="2018-11-06 11:57:53 -0500" Modified="2023-08-29 06:22:52 -0500">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Green Notepad)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="3BCB4715-6846-428A-89F0-052ED72FA5C3" Type="Text" Created="2023-08-05 07:30:07 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>Tones</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="302">249,53</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="680C9302-A82C-4619-9BA4-A4A3DD0CC804" Type="Text" Created="2023-08-05 21:48:20 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>chatGPT: Special Instructions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2077,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A8CF9D51-0CED-490F-A80F-DDD905D05AF3" Type="Text" Created="2023-08-06 05:49:26 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>AI: Custom Instructions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>639,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="04D6EFEE-2303-4677-979A-525D2F2E721A" Type="Folder" Created="2023-07-29 11:31:55 -0500" Modified="2023-08-29 06:22:52 -0500">
+            <Title>FromPhone</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Red Notepad)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="576483EE-4602-404E-B886-4C1460EB798B" Type="Folder" Created="2021-07-08 10:41:41 -0500" Modified="2024-01-28 03:56:34 -0500">
+            <Title>Todo</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>To Do (Ticked)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="ED39391F-AD4F-4070-9A5D-D6BDAC3C0515" Type="Folder" Created="2021-07-02 11:30:29 -0500" Modified="2023-08-29 06:22:52 -0500">
+            <Title>Ideas</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Light Bulb</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5" Type="Folder" Created="2018-11-06 11:57:53 -0500" Modified="2023-08-29 06:22:52 -0500">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo)</IconFileName>
+                <NotesTextSelection>182,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="683248C0-095C-4943-9C2A-3481DFF3870C" Type="Text" Created="2023-08-25 10:14:20 -0500" Modified="2024-01-28 03:58:35 -0500">
+                    <Title>Main Characters and close secondary characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>562,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="57ECC98D-8199-4935-B5F1-D1F7A2D60646" Type="Folder" Created="2018-11-06 11:57:53 -0500" Modified="2023-08-29 06:22:52 -0500">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter</IconFileName>
+                <SectionType ChildDefault="C256170C-9607-4380-B84A-86A34F8D32A4"/>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="3E5B46A7-2D74-46C0-9C84-D3D1B9EB378E" Type="Folder" Created="2018-11-06 11:57:53 -0500" Modified="2021-07-13 14:52:36 -0500">
+                    <Title>Manuscript Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="684ADA52-4D45-48D2-B03D-5ECB784963EE" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2021-06-21 00:07:16 -0500">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>615,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="4D01D8EC-C1C3-427E-88C0-602D9158FC95" Type="Folder" Created="2018-11-06 11:57:53 -0500" Modified="2021-07-13 14:52:36 -0500">
+                    <Title>Paperback</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="486D874A-7589-4C1E-BECE-40B465746BA1" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2021-07-17 22:41:25 -0500">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>23,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="21506607-96CA-4FB1-8B5F-A1859F4DCEDE" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2021-07-17 22:20:47 -0500">
+                            <Title>Copyright</Title>
+                            <MetaData/>
+                            <TextSettings>
+                                <TextSelection>73,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="874592F5-2256-46A1-8434-432743846FB8" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2021-07-17 22:20:48 -0500">
+                            <Title>Dedication</Title>
+                            <MetaData/>
+                            <TextSettings>
+                                <TextSelection>34,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EAED9F93-2779-4184-82E8-30D27307C6AC" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2021-07-17 22:20:49 -0500">
+                            <Title>Blank Page</Title>
+                            <MetaData>
+                                <NotesTextSelection>8,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="4C4363AD-1F58-4140-A55F-DEE1298CA1C4" Type="Folder" Created="2018-11-06 11:57:53 -0500" Modified="2021-07-13 14:52:36 -0500">
+                    <Title>Ebook</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="C88ACCC3-4FDB-4952-80E1-177623CDE141" Type="Image" Created="2018-11-06 11:57:53 -0500" Modified="2024-01-28 03:56:33 -0500">
+                            <Title>Cover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>png</FileExtension>
+                                <ShowSynopsisImage Fit="h" Align="br">Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="98EA5CEF-B7B1-468C-83CD-9AB24AFAFDF3" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2019-08-27 08:22:38 -0500">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="6830B6AC-686B-4370-A979-2FD1D7288BDA" Type="Folder" Created="2018-11-06 11:57:53 -0500" Modified="2024-01-28 03:56:34 -0500">
+            <Title>Locations</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="4E16C9ED-B285-4910-8ABF-760D80C2C737" Type="Folder" Created="2024-01-28 03:51:32 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>Cities</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0964B2EA-1B45-4DEF-AF94-06489CB9D8F4" Type="Folder" Created="2024-01-28 03:51:44 -0500" Modified="2024-01-28 03:56:34 -0500">
+                    <Title>Places</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="669D7B65-8096-4EFD-A0E2-6BDE8C1E3585" Type="ResearchFolder" Created="2018-11-06 11:57:53 -0500" Modified="2024-01-28 03:56:33 -0500">
+            <Title>Research</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem UUID="9A470BDE-CF2B-4872-97C6-74F19BC90197" Type="Folder" Created="2018-11-06 11:57:53 -0500" Modified="2021-07-23 14:04:25 -0500">
+                    <Title>Sample Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="https://prowritingaid.com/art/432/How-to-Use-the-Combo-Report.aspx">Pro Writing Combo Report</Bookmark>
+                    </Bookmarks>
+                    <Children>
+                        <BinderItem UUID="3576ECDA-9163-49A7-9805-B115100A5C8C" Type="PDF" Created="2021-03-11 23:20:41 -0500" Modified="2024-01-28 03:56:33 -0500">
+                            <Title>Standard Manuscript</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="30F57C96-1A26-4107-B9AA-58F1730085BA" Type="PDF" Created="2021-02-24 03:27:44 -0500" Modified="2024-01-28 03:56:33 -0500">
+                            <Title>Paperback Novel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="5547CAD9-D832-489A-9EDF-6C23F3F9C2CC" Type="Folder" Created="2021-07-25 13:03:58 -0500" Modified="2021-07-25 13:23:05 -0500">
+                    <Title>Writer Tips</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="https://www.youtube.com/playlist?list=PLJctcoQLpndb-uJ32YP4vnl0nHkgi_QsL">YT: Show dont tell - Writing Tips for Beginners</Bookmark>
+                        <Bookmark Destination="https://youtu.be/pHdzv1NfZRM">YT: Improve your Writing: Show, Not Tell</Bookmark>
+                    </Bookmarks>
+                    <Children>
+                        <BinderItem UUID="DD603D73-930B-4258-A37A-4DCD4404A087" Type="WebArchive" Created="2021-07-25 12:58:49 -0500" Modified="2024-01-28 03:56:34 -0500">
+                            <Title>Show Don't Tell+ book series</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>mht</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://www.amazon.com/gp/product/B07ZH6WS6C?ref_=dbs_p_mng_rwt_ser_shvlr&amp;storeType=ebooks</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="54A4F833-F86D-40DA-8FDF-A37493502D38" Type="WebArchive" Created="2021-07-25 13:03:36 -0500" Modified="2024-01-28 03:56:33 -0500">
+                            <Title>Understanding Show, Don't Tell (Book 1)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>mht</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://www.amazon.com/dp/B01M0BE4UP/?coliid=I1CXMJMZUD44MX&amp;colid=2LUQ2IXD2SF2J&amp;psc=0&amp;ref_=lv_ov_lig_dp_it</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="5C03DE09-C285-48ED-827F-78E62B7D0F72" Type="Folder" Created="2018-11-06 11:57:53 -0500" Modified="2024-01-28 03:56:34 -0500">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="C5607F01-2008-4A48-BBEA-D88EFA1A14CD" Type="Folder" Created="2023-08-21 20:03:02 -0500" Modified="2023-08-29 06:22:52 -0500">
+                    <Title>Scene Templates</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="69CAD51B-D351-4DE0-9A99-DFFE2A48A114" Type="Text" Created="2023-08-16 19:05:27 -0500" Modified="2023-08-27 03:41:47 -0500">
+                            <Title>Scene Template: AI Create</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>320,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2390,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0AFF3326-D881-412A-849E-F28276648EA7" Type="Text" Created="2023-08-24 10:02:31 -0500" Modified="2023-08-29 06:22:52 -0500">
+                            <Title>AI  Fast Draft</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>526,938</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C439BB9D-D778-4E35-A428-365FF89181D8" Type="Folder" Created="2023-08-24 03:48:35 -0500" Modified="2023-08-29 06:22:52 -0500">
+                            <Title>Scene In Parts</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="7EF2ED7F-D31E-4D93-9FFA-AF8B639D7143" Type="Folder" Created="2023-08-24 03:48:59 -0500" Modified="2023-08-29 06:22:52 -0500">
+                                    <Title>AI Template</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,172</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="67B9C551-981F-4876-A159-B6FD6915764B" Type="Text" Created="2023-08-24 03:49:59 -0500" Modified="2023-08-29 06:22:52 -0500">
+                                            <Title>Part 1 : The Beginning</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>291,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="37B9691F-7982-4142-964A-6C5950D6FC7A" Type="Text" Created="2023-08-24 06:33:30 -0500" Modified="2023-08-29 06:22:52 -0500">
+                                            <Title>Part 2 : The Middle</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>68,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="416A9877-E36B-4E9B-8D6C-EAD4FF0424A3" Type="Text" Created="2023-08-24 06:34:36 -0500" Modified="2023-08-29 06:22:52 -0500">
+                                            <Title>Part 3 : The Ending</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>180,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="DA7DDA37-1BE5-4AF0-96D5-919B6151C55D" Type="Text" Created="2023-08-12 10:09:46 -0500" Modified="2023-08-29 06:22:52 -0500">
+                            <Title>Scene Template: AI Original</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>789,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="664168EF-A63F-4FE1-806C-05A0BD6D6620" Type="Folder" Created="2023-08-26 10:18:31 -0500" Modified="2023-08-26 10:18:40 -0500">
+                    <Title>Character Templates</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="1406B9FA-5CDA-4299-A0DA-4ECCCBE0F343" Type="Text" Created="2023-08-10 18:31:52 -0500" Modified="2024-01-28 03:56:33 -0500">
+                            <Title>Character Sketch New: Full</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>632,169</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>186,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2D0077F8-7819-4409-8E9B-3C702169BC73" Type="Text" Created="2023-08-02 20:21:35 -0500" Modified="2023-08-24 05:40:54 -0500">
+                            <Title>Character Sketch: Short</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>19,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="85C5A3DF-C3C1-45BA-AD2C-6C42B69EF072" Type="Text" Created="2023-08-02 08:08:34 -0500" Modified="2023-08-26 14:43:49 -0500">
+                            <Title>Character Narratives</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>68,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="3918480C-A36C-40B1-B95A-F8347761B0DF" Type="Folder" Created="2023-08-26 10:16:10 -0500" Modified="2023-08-26 10:16:25 -0500">
+                    <Title>Location Templates</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D139FABC-E4D3-4E8C-BA5F-DB7046AAD9B1" Type="Text" Created="2023-08-02 20:10:13 -0500" Modified="2023-08-26 10:26:57 -0500">
+                            <Title>Setting Sketch: Full</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>65,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DE296554-CFDD-4CBF-BE58-A881CB704FF9" Type="Text" Created="2023-08-02 20:19:03 -0500" Modified="2023-08-24 05:40:54 -0500">
+                            <Title>Setting Sketch: Basic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>18,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="B8F85F0F-B032-445B-AF0D-23A98D7A6001" Type="Folder" Created="2023-08-26 06:48:45 -0500" Modified="2023-08-26 06:57:37 -0500">
+                    <Title>ToDo</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="B9935A66-0C2E-41FD-B02F-1C444731A4C4" Type="Text" Created="2023-08-26 06:56:21 -0500" Modified="2023-08-26 08:58:09 -0500">
+                            <Title>Session Start Checklist</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>To Do (Unticked)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>397,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F299D9FD-60C1-40F0-9147-DA51CCA25CFF" Type="Folder" Created="2023-08-23 16:12:51 -0500" Modified="2024-01-28 03:56:34 -0500">
+            <Title>Cutting Room</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Scissors</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="F2DF7FDE-46C4-4962-97F3-128A46433573" Type="TrashFolder" Created="2018-11-06 11:57:53 -0500" Modified="2024-01-28 03:56:33 -0500">
+            <Title>Trash</Title>
+            <MetaData/>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.941176 0.937255 0.956863">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">omeone on my side</SearchSettings>
+        </Collection>
+        <Collection Type="Arbitrary" ID="84A7B044-F30D-4580-B1B2-0214DB9D304D" Color="0.841505 0.920714 0.990005">
+            <Title>New Collection</Title>
+        </Collection>
+        <Collection Type="SavedSearch" ID="4FA1A755-B524-4F55-BC29-D5FBA9655DEA" Color="0.839216 0.949020 0.768627">
+            <Title>Kissing</Title>
+            <SearchSettings Operator="Any" Type="Keywords" Scope="Draft" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">Kissing</SearchSettings>
+        </Collection>
+        <Collection Type="SavedSearch" ID="1769DBE9-3703-416B-9D0F-ED9339D213D6" Color="1.000000 0.831373 0.780392">
+            <Title>Cursing</Title>
+            <SearchSettings Operator="Any" Type="Keywords" Scope="Draft" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">Cursing</SearchSettings>
+        </Collection>
+        <Collection Type="SavedSearch" ID="9D1E4E05-F30C-4BBC-9089-4F914C27278B" Color="0.990005 0.841505 0.871214">
+            <Title>End in Preposition</Title>
+            <SearchSettings Operator="Any" Type="Text" Scope="Draft" CompileSetting="All" CaseSensitive="Yes" IgnoreDiacritics="No">with. to.</SearchSettings>
+        </Collection>
+        <Collection Type="SavedSearch" ID="21DB3EF4-0F79-477F-87EF-485FCE7A1EE5" Color="1.000000 0.847059 0.815686">
+            <Title>Potential Unclear antecedent</Title>
+            <SearchSettings Operator="Any" Type="Text" Scope="Draft" CompileSetting="All" CaseSensitive="Yes" IgnoreDiacritics="No">&quot;This &quot;</SearchSettings>
+        </Collection>
+        <Collection Type="Arbitrary" ID="6D6214AB-63DF-4206-80B6-4F52E855CDB0" Color="0.908339 0.990005 0.841505">
+            <Title>New Collection</Title>
+        </Collection>
+        <Collection Type="SavedSearch" ID="EB128D8F-D8AD-4F8D-9CB0-1856C48AE0C5" Color="1.000000 0.831373 0.780392">
+            <Title>Capitlization Issues</Title>
+            <SearchSettings Operator="Any" Type="Text" Scope="Draft" CompileSetting="All" CaseSensitive="Yes" IgnoreDiacritics="No">Asked Said Replied Festival Answered Questioned</SearchSettings>
+        </Collection>
+        <Collection Type="SavedSearch" ID="83F52E12-639D-4093-900C-6259250C3ECD" Color="1.000000 0.831373 0.780392">
+            <Title>Potential Misspellings</Title>
+            <SearchSettings Operator="Any" Type="Text" Scope="Draft" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">Vaugn</SearchSettings>
+        </Collection>
+    </Collections>
+    <Keywords>
+        <Keyword ID="60">
+            <Title>Cleanup</Title>
+            <Color>0.333333 0.000000 0.498039</Color>
+            <Children>
+                <Keyword ID="59">
+                    <Title>Master Copy Here</Title>
+                    <Color>0.333333 0.000000 0.498039</Color>
+                </Keyword>
+                <Keyword ID="61">
+                    <Title>Cln &quot;That&quot;</Title>
+                    <Color>0.333333 0.000000 0.498039</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="41">
+            <Title>Checklist</Title>
+            <Color>0.666667 0.000000 0.000000</Color>
+            <Children>
+                <Keyword ID="42">
+                    <Title>Chk TOC</Title>
+                    <Color>0.666667 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="43">
+                    <Title>Chk Timeline</Title>
+                    <Color>0.666667 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="45">
+                    <Title>Chk Metadata</Title>
+                    <Color>0.666667 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="46">
+                    <Title>Chk Readback</Title>
+                    <Color>0.666667 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="47">
+                    <Title>Chk Set Status</Title>
+                    <Color>0.666667 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="48">
+                    <Title>Chk Remove End Lines</Title>
+                    <Color>0.666667 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="50">
+                    <Title>Chk Notes</Title>
+                    <Color>0.666667 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="52">
+                    <Title>Chk Formatting</Title>
+                    <Color>0.666667 0.000000 0.000000</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="34">
+            <Title>Special Formatting</Title>
+            <Color>1.000000 0.537255 0.560784</Color>
+            <Children>
+                <Keyword ID="44">
+                    <Title>Titles</Title>
+                    <Color>1.000000 0.537255 0.560784</Color>
+                </Keyword>
+                <Keyword ID="37">
+                    <Title>Verse</Title>
+                    <Color>1.000000 0.537255 0.560784</Color>
+                </Keyword>
+                <Keyword ID="35">
+                    <Title>Timestamped</Title>
+                    <Color>1.000000 0.537255 0.560784</Color>
+                </Keyword>
+                <Keyword ID="38">
+                    <Title>Thinking</Title>
+                    <Color>1.000000 0.537255 0.560784</Color>
+                </Keyword>
+                <Keyword ID="39">
+                    <Title>Texting</Title>
+                    <Color>1.000000 0.537255 0.560784</Color>
+                </Keyword>
+                <Keyword ID="57">
+                    <Title>Format &quot;As Is&quot;</Title>
+                    <Color>1.000000 0.537255 0.560784</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="32">
+            <Title>Character</Title>
+            <Color>1.000000 1.000000 1.000000</Color>
+            <Children>
+                <Keyword ID="12">
+                    <Title>New Character</Title>
+                    <Color>1.000000 1.000000 1.000000</Color>
+                </Keyword>
+                <Keyword ID="33">
+                    <Title>Character Description</Title>
+                    <Color>1.000000 1.000000 1.000000</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="22">
+            <Title>Food</Title>
+            <Color>1.000000 0.839216 0.709804</Color>
+        </Keyword>
+        <Keyword ID="24">
+            <Title>Date</Title>
+            <Color>0.670588 0.549020 0.988235</Color>
+        </Keyword>
+        <Keyword ID="23">
+            <Title>Alchohol</Title>
+            <Color>0.941176 0.541176 0.988235</Color>
+        </Keyword>
+        <Keyword ID="49">
+            <Title>Coffee</Title>
+            <Color>0.596078 0.282353 0.023529</Color>
+        </Keyword>
+        <Keyword ID="17">
+            <Title>Sexual</Title>
+            <Color>0.639216 0.949020 0.839216</Color>
+            <Children>
+                <Keyword ID="1">
+                    <Title>Sex</Title>
+                    <Color>0.909804 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="2">
+                    <Title>Implied Sex</Title>
+                    <Color>0.831373 0.415686 0.388235</Color>
+                </Keyword>
+                <Keyword ID="3">
+                    <Title>Kissing</Title>
+                    <Color>1.000000 0.666667 1.000000</Color>
+                </Keyword>
+                <Keyword ID="36">
+                    <Title>First Kiss</Title>
+                    <Color>1.000000 0.666667 1.000000</Color>
+                </Keyword>
+                <Keyword ID="4">
+                    <Title>Nudity</Title>
+                    <Color>0.776471 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="58">
+                    <Title>Sex Talk</Title>
+                    <Color>1.000000 0.537255 0.560784</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="16">
+            <Title>Emotions</Title>
+            <Color>0.709804 0.800000 0.988235</Color>
+            <Children>
+                <Keyword ID="51">
+                    <Title>Stress</Title>
+                    <Color>1.000000 0.470588 0.419608</Color>
+                </Keyword>
+                <Keyword ID="5">
+                    <Title>Humorous</Title>
+                    <Color>0.333333 1.000000 1.000000</Color>
+                </Keyword>
+                <Keyword ID="14">
+                    <Title>Anticipatory</Title>
+                    <Color>0.960784 0.729412 0.988235</Color>
+                </Keyword>
+                <Keyword ID="10">
+                    <Title>Romantic</Title>
+                    <Color>1.000000 0.729412 0.709804</Color>
+                </Keyword>
+                <Keyword ID="13">
+                    <Title>Sad</Title>
+                    <Color>0.500008 0.500008 0.500008</Color>
+                </Keyword>
+                <Keyword ID="6">
+                    <Title>Comical</Title>
+                    <Color>0.282353 0.850980 0.850980</Color>
+                </Keyword>
+                <Keyword ID="7">
+                    <Title>Dramatic</Title>
+                    <Color>0.176471 0.533333 0.533333</Color>
+                </Keyword>
+                <Keyword ID="18">
+                    <Title>Sentimental</Title>
+                    <Color>0.749020 0.941176 0.639216</Color>
+                </Keyword>
+                <Keyword ID="19">
+                    <Title>Excitement</Title>
+                    <Color>0.639216 0.890196 0.949020</Color>
+                </Keyword>
+                <Keyword ID="20">
+                    <Title>Surprised</Title>
+                    <Color>0.890196 0.941176 0.639216</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="8">
+            <Title>Argument</Title>
+            <Color>0.086275 0.262745 0.262745</Color>
+        </Keyword>
+        <Keyword ID="9">
+            <Title>Cursing</Title>
+            <Color>1.000000 0.000000 0.000000</Color>
+        </Keyword>
+        <Keyword ID="11">
+            <Title>Informational</Title>
+            <Color>0.854902 0.854902 0.854902</Color>
+        </Keyword>
+        <Keyword ID="15">
+            <Title>Gifts</Title>
+            <Color>0.800000 0.729412 0.988235</Color>
+        </Keyword>
+        <Keyword ID="29">
+            <Title>Need Expert Review</Title>
+            <Color>0.039216 0.870588 0.960784</Color>
+        </Keyword>
+        <Keyword ID="28">
+            <Title>Expert Review</Title>
+            <Color>0.509804 0.670588 0.988235</Color>
+        </Keyword>
+        <Keyword ID="25">
+            <Title>Revisit Reasons</Title>
+            <Color>1.000000 1.000000 0.498039</Color>
+            <Children>
+                <Keyword ID="21">
+                    <Title>Redundant</Title>
+                    <Color>1.000000 1.000000 0.498039</Color>
+                </Keyword>
+                <Keyword ID="26">
+                    <Title>Add Detail</Title>
+                    <Color>1.000000 1.000000 0.498039</Color>
+                </Keyword>
+                <Keyword ID="40">
+                    <Title>Posssible Rewrite</Title>
+                    <Color>1.000000 1.000000 0.498039</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="30">
+            <Title>Flashback</Title>
+            <Color>1.000000 1.000000 1.000000</Color>
+        </Keyword>
+    </Keywords>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">Part Heading</Type>
+            <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">Chapter Heading</Type>
+            <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">Scene</Type>
+            <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">Chapter</Type>
+            <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">Heading</Type>
+            <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">Section</Type>
+            <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">Front Matter</Type>
+            <Type ID="65D1D6C9-09DA-44D4-9379-DC47D8BEA312">Table of Contents</Type>
+            <Type ID="8CA56ABC-1675-44AC-B5C5-FCFBC0C6E87D">N/A</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>8CA56ABC-1675-44AC-B5C5-FCFBC0C6E87D</Type>
+                <Type>DA299D05-E212-41BE-A82B-88EA3A472C49</Type>
+                <Type>417A6CCE-D4E1-44BA-9A8D-038360B4B905</Type>
+            </Folders>
+            <Containers>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+            </Containers>
+            <Files>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="7" Color="0.993500 0.701213 0.732586">Red</Label>
+            <Label ID="8" Color="0.995422 0.790951 0.652384">Orange</Label>
+            <Label ID="9" Color="0.997726 0.892729 0.652567">Yellow</Label>
+            <Label ID="10" Color="0.715862 0.948714 0.697688">Green</Label>
+            <Label ID="11" Color="0.702312 0.888273 0.974258">Blue</Label>
+            <Label ID="12" Color="0.957565 0.766751 0.999619">Purple</Label>
+            <Label ID="0" Color="0.000000 0.545098 0.000000">Synopsis, Draft1, Scene Num Nixed</Label>
+            <Label ID="5" Color="0.000000 1.000000 0.498039">Synopsis, Blank Draft</Label>
+            <Label ID="13" Color="0.827451 0.000000 0.000000">Error</Label>
+            <Label ID="1" Color="0.701961 0.890196 0.972549">AI Drafted Scene</Label>
+            <Label ID="2" Color="0.619608 0.501961 0.650980">AI Evaluated Template</Label>
+            <Label ID="3" Color="0.862745 0.698039 0.898039">AI Template Stubbed Only</Label>
+            <Label ID="4" Color="0.000000 0.545098 0.000000">My Draft 1</Label>
+            <Label ID="6" Color="1.000000 0.000000 0.498039">Empty Scene</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="10">Template Completed</Status>
+            <Status ID="9">AI Draft</Status>
+            <Status ID="2">First Draft</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="Yes">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" ShowOverrun="Yes" Deadline="2024-01-28 04:01:19 -0500" IgnoreDeadline="Yes">385000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-01-28 04:01:21 -0500"/>
+    </ProjectTargets>
+    <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
+    <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
+    <RecentWritingHistory Date="2024-01-28 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <UserProjectData>
+		<AeonTimeline>
+			<UniqueSyncId>CC3968DA-F10E-4C60-93EA-E8220B81BA93</UniqueSyncId>
+			<LastSyncDate>2023-07-30 01:42:50 +0000</LastSyncDate>
+			<AeonSyncDate></AeonSyncDate>
+		</AeonTimeline>
+	</UserProjectData>
+</ScrivenerProject>
