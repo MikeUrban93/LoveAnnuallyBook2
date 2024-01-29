@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-01-28 20:24:37 -0500" ModID="EAB7323A-4F9C-44FE-BACC-741FD394ADE8">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-01-28 23:43:27 -0500" ModID="8CFA3736-77F5-41E1-919D-DA563A87B235">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2023-08-23 17:56:51 -0500">
             <Title>Novel Format</Title>
@@ -236,6 +236,101 @@ Sarah's Junior Attorney</Value>
                     <TextSettings>
                         <TextSelection>1298,0</TextSelection>
                     </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6BAC1030-5306-4B7E-898A-80850ACE9E87" Type="Text" Created="2024-01-28 20:50:03 -0500" Modified="2024-01-28 21:07:52 -0500">
+                    <Title>AI Intro</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1793,83</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E0C28DC4-BC04-4540-938B-6E694800E1C6" Type="Text" Created="2024-01-28 21:12:23 -0500" Modified="2024-01-28 21:12:40 -0500">
+                            <Title>char1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>646,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1A5EB98C-F345-4CC0-9048-A07CE913DA1B" Type="Text" Created="2024-01-28 21:14:26 -0500" Modified="2024-01-28 21:18:36 -0500">
+                            <Title>Liz</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1830,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="87F3FE84-5D60-427E-8C98-411583D5FC27" Type="Text" Created="2024-01-28 21:23:08 -0500" Modified="2024-01-28 21:25:55 -0500">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="2081">0,2081</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="9CEA50C9-BFB4-4613-89D8-66912336C4B9" Type="Text" Created="2024-01-28 21:28:39 -0500" Modified="2024-01-28 21:42:29 -0500">
+                    <Title>Love Annually concept</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="1823">0,1823</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BF4C82B6-47F1-4EF2-8FCC-00585CB2B533" Type="Folder" Created="2024-01-28 21:58:06 -0500" Modified="2024-01-28 21:58:13 -0500">
+                    <Title>Book Summaries</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A53E717E-4492-476A-9B05-0DAAA642B268" Type="Text" Created="2024-01-28 21:46:07 -0500" Modified="2024-01-28 21:58:38 -0500">
+                            <Title>Book 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,24</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="611A70DF-54A7-41F5-A865-1BCFC5195FEB" Type="Text" Created="2024-01-28 21:58:43 -0500" Modified="2024-01-28 22:37:00 -0500">
+                            <Title>Book 2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="3106">0,3106</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="6B2DFE13-DF37-4A03-8F50-9A0E17DA9D97" Type="Text" Created="2024-01-28 23:02:03 -0500" Modified="2024-01-28 23:37:43 -0500">
+                                    <Title>PArt 2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2797,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="D57829C6-7ADC-4425-BF6C-FB95E57FFBDB" Type="Text" Created="2024-01-28 23:38:00 -0500" Modified="2024-01-28 23:41:33 -0500">
+                                    <Title>PArt 2-2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1988,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -1469,13 +1564,13 @@ Sarah's Junior Attorney</Value>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="829" Characters="4783" Date="2024-01-28 20:24:37 -0500"/>
+        <PreviousSession Words="4066" Characters="24699" Date="2024-01-28 23:43:27 -0500"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-01-28 00:00:00 -0500">
         <DraftWordCount>829</DraftWordCount>
         <DraftCharCount>4783</DraftCharCount>
-        <OtherWordCount>-829</OtherWordCount>
-        <OtherCharCount>-4783</OtherCharCount>
+        <OtherWordCount>2408</OtherWordCount>
+        <OtherCharCount>15133</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
     <UserProjectData>
