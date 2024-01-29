@@ -5,8 +5,11 @@
             <Title>FromPhone</Title>
         </Document>
         <Document ID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5">
-            <Title>Characters</Title>
+            <Title>Character Information</Title>
             <Notes>*This scene will be tricky. In the process of Chloe and Evan Speaking, we hear banter of the poker gang interlaced with the long talk Chloe and Evan are having prior to the proposal.</Notes>
+        </Document>
+        <Document ID="08F4A677-5E29-4144-B664-FC7926579863">
+            <Title>Sarah's Junior Attorney</Title>
         </Document>
         <Document ID="0964B2EA-1B45-4DEF-AF94-06489CB9D8F4">
             <Title>Places</Title>
@@ -72,6 +75,9 @@ Do NOT use the word &quot;palpable&quot; when writing the scene.
 
 
 </Text>
+        </Document>
+        <Document ID="0B73045B-CCE5-49EC-A463-E35C5A7A155A">
+            <Title>Chapter - The Divorce</Title>
         </Document>
         <Document ID="1406B9FA-5CDA-4299-A0DA-4ECCCBE0F343">
             <Title>Character Sketch New: Full</Title>
@@ -222,8 +228,14 @@ Habits: If Evan engages in these activities regularly and they become a routine 
 
 In the words of your choosing, rewrite this section of this character profile. Ensure there are no grammatical errors and everything is written in the simple past tense.</Notes>
         </Document>
+        <Document ID="1ACB57B9-C3E8-4856-A5A6-CA984A621F5F">
+            <Title>Wisconsin</Title>
+        </Document>
         <Document ID="1D90DF7D-B181-4F80-A856-9962BD3FAC7E">
             <Title>Overview</Title>
+        </Document>
+        <Document ID="21451E3C-2445-46D7-92CD-A83EC45C6DBA">
+            <Title>Downtown Chicago</Title>
         </Document>
         <Document ID="21506607-96CA-4FB1-8B5F-A1859F4DCEDE">
             <Title>Copyright</Title>
@@ -249,6 +261,12 @@ All rights reserved.
 ISBN:
 ISBN-13:</Text>
             <Notes>Feel free to delete this document if you don’t need it, or edit it for your needs.</Notes>
+        </Document>
+        <Document ID="2456DC58-660D-4893-B876-BBF5B374B7D1">
+            <Title>Sarah's Lead Attorney</Title>
+        </Document>
+        <Document ID="2616C04A-1ACB-4E06-92DB-915172D78C76">
+            <Title>Attorney's Office</Title>
         </Document>
         <Document ID="2D0077F8-7819-4409-8E9B-3C702169BC73">
             <Title>Character Sketch: Short</Title>
@@ -995,6 +1013,9 @@ dis parturient montes, nascetur ridiculus mus.
                                             25
 </Text>
         </Document>
+        <Document ID="33B27832-DD9E-4E80-8A6B-4F03ED714FD3">
+            <Title>Liz's Infertility</Title>
+        </Document>
         <Document ID="3576ECDA-9163-49A7-9805-B115100A5C8C">
             <Title>Standard Manuscript</Title>
             <Text>Andrew Nonymous                   700 words.
@@ -1177,6 +1198,9 @@ Place the happenings of the Middle of the scene in this paragraph. Use brackets 
 
 Remember, tones can be mixed and matched to best suit the context and intended effect of the scene. For example, a scene might be written in a humorous yet suspenseful tone, or a romantic yet melancholic tone, depending on what emotions the author wishes to evoke from the reader.</Text>
         </Document>
+        <Document ID="3C4C17A6-E432-403A-A51F-A7B02B67839C">
+            <Title>Joe</Title>
+        </Document>
         <Document ID="3E5B46A7-2D74-46C0-9C84-D3D1B9EB378E">
             <Title>Manuscript Format</Title>
         </Document>
@@ -1216,7 +1240,7 @@ Place the happenings of the Ending of the scene in this paragraph. Use brackets 
             <Title>Paperback</Title>
         </Document>
         <Document ID="4E16C9ED-B285-4910-8ABF-760D80C2C737">
-            <Title>Cities</Title>
+            <Title>Locations</Title>
         </Document>
         <Document ID="54A4F833-F86D-40DA-8FDF-A37493502D38">
             <Title>Understanding Show, Don't Tell (Book 1)</Title>
@@ -1240,6 +1264,9 @@ During compile, documents assigned the “Front Matter” section type will be l
         </Document>
         <Document ID="5C03DE09-C285-48ED-827F-78E62B7D0F72">
             <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="60472065-8538-4F97-95CA-57EA426163FE">
+            <Title>Downtown Chicago</Title>
         </Document>
         <Document ID="664168EF-A63F-4FE1-806C-05A0BD6D6620">
             <Title>Character Templates</Title>
@@ -1279,7 +1306,7 @@ Remove all speaker labels identified by the character name followed by a colon a
 Please prioritize 'showing' over 'telling' in this scene. I'd like the narrative to convey emotions, actions, and settings through descriptive language, character interactions, and dialogue, rather than directly stating them. Aim to make the scene vivid and immersive, allowing readers to infer and visualize details.&quot; </Text>
         </Document>
         <Document ID="6830B6AC-686B-4370-A979-2FD1D7288BDA">
-            <Title>Locations</Title>
+            <Title>Location Information</Title>
         </Document>
         <Document ID="683248C0-095C-4943-9C2A-3481DFF3870C">
             <Title>Main Characters and close secondary characters</Title>
@@ -1412,6 +1439,19 @@ In the words of your choosing, rewrite this section of the scene template. Ensur
 
 </Notes>
         </Document>
+        <Document ID="6FE17A83-444E-4649-A08D-09A07714B118">
+            <Title>Evan and Gabriella</Title>
+        </Document>
+        <Document ID="70C141C3-D6CB-4603-A148-FA07579E0DBE">
+            <Title>Chicagoland</Title>
+        </Document>
+        <Document ID="7ACB1E38-E710-4F0B-802C-80383FC9BB90">
+            <Title>Evan</Title>
+            <Synopsis>Male Love Interest</Synopsis>
+        </Document>
+        <Document ID="7EC3FA98-6064-4830-A103-00607F40043F">
+            <Title>Evan and Guido</Title>
+        </Document>
         <Document ID="7EF2ED7F-D31E-4D93-9FFA-AF8B639D7143">
             <Title>AI Template</Title>
             <Text>Scene Template:
@@ -1492,6 +1532,12 @@ Salad: prepped and waiting.
 Cooling apple pie: patiently awaiting its moment.
 </Notes>
         </Document>
+        <Document ID="7FFCBF44-FD7D-4665-A159-2FC92B0161EF">
+            <Title>Character Group</Title>
+        </Document>
+        <Document ID="82E59DE4-8271-4852-8F1C-E3ACD513BF34">
+            <Title>Bennett Residence</Title>
+        </Document>
         <Document ID="85C5A3DF-C3C1-45BA-AD2C-6C42B69EF072">
             <Title>Character Narratives</Title>
             <Text>Physical Description:
@@ -1515,6 +1561,10 @@ Information</Text>
 Insert dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
+        <Document ID="92DBF065-04ED-4589-BF93-A0739622DE57">
+            <Title>Sarah</Title>
+            <Synopsis>Sarah disappears until book 2</Synopsis>
+        </Document>
         <Document ID="98EA5CEF-B7B1-468C-83CD-9AB24AFAFDF3">
             <Title>Dedication</Title>
             <Text>
@@ -1525,10 +1575,11 @@ Insert dedication here.</Text>
 Your dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
+        <Document ID="9A22349F-6115-4763-881C-10595D9056FA">
+            <Title>Story Arcs</Title>
+        </Document>
         <Document ID="9A470BDE-CF2B-4872-97C6-74F19BC90197">
             <Title>Sample Output</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="A8CF9D51-0CED-490F-A80F-DDD905D05AF3">
             <Title>AI: Custom Instructions</Title>
@@ -1553,6 +1604,40 @@ Without writing the scene, please evaluate the following scene template. Note th
 * Please avoid meta-references to the author's name or any outside entities within the narrative itself.
 
 Making no mention of weather, please write the following scene in the styles of Danielle Steele, Nicholas Sparks, Abbie Jimenez, James Patterson, Mary Higgins Clark, Becky Wade, Rick Wright ordering, Suzanne Collins, Tamora Pierce</Text>
+        </Document>
+        <Document ID="A9162DD2-3C78-42F0-A443-E8535AEEC23C">
+            <Title>Evan And Sarah</Title>
+        </Document>
+        <Document ID="B2839424-059D-440D-A829-63B5E15FE05C">
+            <Title>Evan Ponders the Divorce</Title>
+            <Synopsis>Evan and Sarah Vaughn sat across from each other in Sarah’s high-priced attorney’s office. Evan flashed back and mentally replayed their first wonderful year together as a couple.</Synopsis>
+            <Text>Saturday, September 21, 2013
+DIVORCE. As Evan Vaughn looked at the document in front of him, he wondered how a romance with a storybook beginning could end here, like this. Evan knew the word “Divorce” was the same size as the other words in the document, but somehow this word stood out, bold and large. Evan was severely emotionally impacted by his parent’s divorce when he was 10. At a young age, Evan vowed he’d never get divorced – yet here he was.
+Evan had questions in his mind. Why are we here? I thought things were fine. Why didn’t she want to work it out? Evan had no desire to read this divorce document yet again. 
+The meeting was held at the Chicago branch of the law firm representing Evan’s soon-to-be ex-wife, Sarah. Divorce negotiations were taking place in a conference room overlooking Lake Michigan. Sarah’s two high-priced attorneys were debating trivial terms with Evan’s one, less expensive attorney. Evan assumed that was to make it look like they were earning their money.
+On Evan’s right was his sister, Liz Bennett. Liz was reviewing a corporate sales agreement. The terms of the divorce included the sale of Sarah’s half of the business to Liz. Sarah and Evan had built a successful marketing and website development firm, The Vaughn Group. The one good thing coming from this divorce was Liz would be getting half of the company.
+Liz was everything to Evan. Their mom worked long hours after a tumultuous divorce when Evan was ten years old. After the divorce, Evan’s father was out of the picture. Two years his elder, Liz, took on many roles during their childhood. At one time or another, Liz was his substitute mother, a big sister, a mentor, and a friend.
+Sarah sat across a wide conference room table with her back to Evan. As usual, Sarah was ahead of everyone else. She could read and write legalese with the skill of a lawyer, and Sarah was always the smartest person in the room – any room.
+Sarah had already read through and approved all the legal documents. She couldn’t get herself to look at Evan, so with her back to him, she tried to find solace in the majestic view of Lake Michigan.
+She was rubbing the pendant Evan had given her in college. This activity had become a habit of Sarah’s, serving as a stress relief device. She found her thoughts drifting back in time to the night of their first date – the night Evan gave her this pendant.
+Most people perceived Evan and Sarah as opposites. Evan was well-liked by everyone. His employees, who he called team members, adored both him and Liz. This sister-brother duo had not an enemy between them. Big sister Liz had managed to raise her rambunctious little brother into a respectful, good-natured, and generous young man.
+Sarah was considered cold as ice by her staff. She had a Type A personality, a genius IQ, and a mind built for business. Her father was a self-made millionaire entrepreneur that raised Sarah from childhood to follow in his footsteps. There were no hugs and no playdates in Sarah’s childhood. 
+Whether it was her genius IQ or her sterile upbringing, Sarah lacked people skills. She was considered unapproachable by her employees. The team members of The Vaughn Group couldn’t understand Evan and Liz’s love and affection for Sarah.
+What they didn’t know was Sarah had another side to her. A side of her she tried to deny – a side that laid dormant most of the time. Evan was the only one who could bring out Sarah’s more feminine qualities. He quite literally swept her off her feet in their senior year of college. Her love for him redirected her well-planned future. 
+Sarah and Evan did have some things in common. They were both 28 years old, wealthy, tall, and good-looking. However, they both considered their attractiveness inconsequential.
+Evan worked his way through college as a personal trainer, and he had remained fit and active. Evan was 6-foot 1-inch tall with short, easy-to-style medium brown hair and hazel eyes. His good looks were not dictated by vanity but by his desire to be fit and healthy combined with blessings from mother nature.
+Sarah had long blonde hair, silvery-blue eyes, and supermodel looks. While Sarah knew her beauty opened certain doors for her, she mostly considered beauty a burden for female executives. Sarah frequently attempted to hide her beauty behind business suits, eyeglasses, and bunned-up hair.
+However, today Sarah decided to wear contacts and let her hair down. Sarah’s fashion and hairstyle choices made little difference to Evan. He stared at her in a dream-like state. In Evan’s eyes, Sarah was as beautiful as the day they met – no matter her hairstyle or eyewear. Evan’s feelings of resentment and pain over the divorce in no way diminished his deep love for Sarah. He loved her now as much as he ever did.</Text>
+            <CustomMetaData>Evan And Sarah 3 2013-09-21 11:01:00 100 Evan
+Sarah
+Liz 12 Evan's Attorney
+Sarah's Lead Attorney
+Sarah's Junior Attorney Downtown Chicago 2 2013-09-21 11:00:00 10 Attorney's Office</CustomMetaData>
+        </Document>
+        <Document ID="B3993843-A51F-4D80-AE15-4953CD3E69E9">
+            <Title>Evan Demands Answers From Sarah</Title>
+            <Synopsis>Evan refused to sign the divorce papers until Sarah agreed to explain why she asked for the divorce. Evan’s sister Liz supported Evan on this point, and Sarah decided to speak to Evan in private after the paperwork was signed.</Synopsis>
+            <CustomMetaData>2024-01-12 23:59:59 2024-01-12 00:00:00</CustomMetaData>
         </Document>
         <Document ID="B8F85F0F-B032-445B-AF0D-23A98D7A6001">
             <Title>ToDo</Title>
@@ -1586,6 +1671,10 @@ Notes
 
 </Text>
         </Document>
+        <Document ID="BB7E0CB4-7B55-4CA0-BE21-3655A0FA066F">
+            <Title>The Kiss Flashback</Title>
+            <Synopsis>Kiss flashback</Synopsis>
+        </Document>
         <Document ID="BC65B638-A3AE-433B-81E3-0806088794BA">
             <Title>Preserve</Title>
         </Document>
@@ -1598,11 +1687,18 @@ Notes
         <Document ID="C5607F01-2008-4A48-BBEA-D88EFA1A14CD">
             <Title>Scene Templates</Title>
         </Document>
+        <Document ID="C5CFBE8C-ADEF-478E-9E40-2644B27FB43C">
+            <Title>Liz Asks Evan to Review Docs</Title>
+            <Synopsis>Liz interrupted Evan’s flashback daydream to ask him to review the documents that transferred Sarah’s ownership in the company to Liz.</Synopsis>
+        </Document>
         <Document ID="C63C3AC8-F09A-4549-AC9B-F896A5C0DA1E">
             <Title>Sandbox 2</Title>
         </Document>
         <Document ID="C88ACCC3-4FDB-4952-80E1-177623CDE141">
             <Title>Cover</Title>
+        </Document>
+        <Document ID="CE91A3E4-6042-4BA7-8ACF-890B7DE0BCDB">
+            <Title>Summary</Title>
         </Document>
         <Document ID="D139FABC-E4D3-4E8C-BA5F-DB7046AAD9B1">
             <Title>Setting Sketch: Full</Title>
@@ -1760,6 +1856,15 @@ If Sarah chose not to honor her agreement with her father and instead build a li
 Sarah knew of Evan’s close bond with Liz, and he wanted to live close to his sister, who lived in a suburb of Chicago, and she also didn't want to get in the way of Evan's excellent job opportunity that he was to start in a few weeks. She couldn’t ask him to wait for her for two years and then go to Seattle. Her choice was simple. Either build a life with Evan in Chicago or give back the ring and return to the original plan.
 Her brain said to stick to the plan. Her heart said to build a life with Evan. Against all odds, her heart won.</Notes>
         </Document>
+        <Document ID="E011BA91-5090-4CDA-B6C0-E72D6C7A342B">
+            <Title>Character Profiles</Title>
+        </Document>
+        <Document ID="E692532E-A3F0-4162-9A36-CC74199909C4">
+            <Title>Evan and Maggie</Title>
+        </Document>
+        <Document ID="E6F228CB-5401-4F01-9BAC-01F6F09DC291">
+            <Title>Poker Group</Title>
+        </Document>
         <Document ID="EA9D28EE-64B4-4CA1-ABDE-991EA211A583">
             <Title>Prompts</Title>
             <Text>Commonly Used AI Prompts:
@@ -1811,6 +1916,9 @@ Here is the part of the scene:
         </Document>
         <Document ID="F299D9FD-60C1-40F0-9147-DA51CCA25CFF">
             <Title>Cutting Room</Title>
+        </Document>
+        <Document ID="F33F2768-2429-4D91-AFCC-091D9B14C99C">
+            <Title>Liz</Title>
         </Document>
         <Document ID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC">
             <Title>Novel Format</Title>
@@ -1916,6 +2024,12 @@ Scrivener project templates are flexible and are not intended to restrict you to
 Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to novel writers. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
 
 You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template…</Text>
+        </Document>
+        <Document ID="FAFB08FE-64A5-4758-B469-4E426FEBD5D8">
+            <Title>Evan's Attorney</Title>
+        </Document>
+        <Document ID="FBD56B84-10E6-490B-90DB-095A93B07191">
+            <Title>LARS Rules and Regs</Title>
         </Document>
     </Documents>
 </SearchIndexes>
