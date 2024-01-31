@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.1.4 - MAU `2024-01-31`
+1. Created Outline for chapter 1
+2. Named the scenes and created the synopsis for chapter 1
+----
+
 #### 0.0.1.3 - MAU `2024-01-28`
 1. I got the initial process started with chatGPT. The next step will be to start writing the profiles for location and characters, before starting with chapter 1.
 ----

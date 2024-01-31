@@ -228,6 +228,15 @@ Habits: If Evan engages in these activities regularly and they become a routine 
 
 In the words of your choosing, rewrite this section of this character profile. Ensure there are no grammatical errors and everything is written in the simple past tense.</Notes>
         </Document>
+        <Document ID="1511432D-0CBD-40B1-A532-DB4F6113F0F4">
+            <Title>The Demand for Closure</Title>
+            <Synopsis>Evan withheld signing the divorce papers, insisting that Sarah explain her reasons for seeking the divorce. Backed by his sister Liz, Evan stood firm on this demand. Sarah, after some consideration, agreed to have a private conversation with Evan about her reasons, but only after the paperwork was signed. This arrangement set the stage for a crucial, private exchange between Evan and Sarah, marking a pivotal moment in their separation process.</Synopsis>
+            <CustomMetaData>2024-01-12 00:00:00 2024-01-12 00:00:00</CustomMetaData>
+        </Document>
+        <Document ID="18B8DBED-8BEA-404A-B62E-C528AF1640E3">
+            <Title>Crossroads of the Heart</Title>
+            <Synopsis>Sarah, avoiding the sight of Evan's distress, gazed out over Lake Michigan. She held the pendant Evan had lovingly made for her, a symbol of comfort she wore daily, echoing a child's reliance on a security blanket. As she gently rubbed it, she was engulfed in introspection, wrestling with doubts. She pondered whether divorcing Evan was the real mistake, or if her error was in forsaking her initial life plans for their marriage. Her silent reflections were steeped in the significance of this simple, yet deeply meaningful, pendant.</Synopsis>
+        </Document>
         <Document ID="1A5EB98C-F345-4CC0-9048-A07CE913DA1B">
             <Title>Liz</Title>
             <Text>Liz plays a huge role in all 3 books. See she essentially is the matriarch in all 3 books. 1 of those naturally nurturing women that everyone loves. Ultimately, she is the one who somewhat covertly sets up Evan and Chloe. Although Chloe is not related to Liz, she plays a similar role in Chloe's life as she does and Evan's life – mentor, mother, big sister, friend. Liz is the only one who has full faith that eventually the 2 seemingly opposites of Evan and Chloe are meant to be together.
@@ -239,6 +248,10 @@ Liz plays a small role in this book when she receives a call from Evan asking fo
         </Document>
         <Document ID="1ACB57B9-C3E8-4856-A5A6-CA984A621F5F">
             <Title>Wisconsin</Title>
+        </Document>
+        <Document ID="1BF9B526-05DF-407D-9688-2981CA06AD3C">
+            <Title>The Last Kiss</Title>
+            <Synopsis>After signing the divorce papers, Evan and Sarah were left alone in the conference room. Sarah fulfilled her promise, answering Evan's questions, but his confusion persisted despite understanding her words. Overwhelmed by lingering love and attraction, Evan passionately kissed Sarah. Initially resistant, Sarah's desire momentarily overcame her, but she quickly left the room, recognizing that succumbing to this moment was unwise, despite her feelings. The scene captured their complex emotions and the finality of their relationship.</Synopsis>
         </Document>
         <Document ID="1D90DF7D-B181-4F80-A856-9962BD3FAC7E">
             <Title>Overview</Title>
@@ -1268,8 +1281,15 @@ This saves us from having to manually assign the “Front Matter” section type
 
 During compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
         </Document>
+        <Document ID="597E19E7-C1B8-46B9-A215-50F863910B3A">
+            <Title>Coaches Notes</Title>
+        </Document>
         <Document ID="5A1AC7AB-8E65-49A8-933B-0C9A3DA3E76A">
             <Title>Plot Summaries</Title>
+        </Document>
+        <Document ID="5B898797-1802-46CE-9030-C3B50A98ABC1">
+            <Title>Why?</Title>
+            <Synopsis>In the opening scene, Evan Vaughn is confronted with the finality of his divorce as he sits in a law office, the word &quot;DIVORCE&quot; glaring at him from the document. Overwhelmed by the symbolic weight of this term, he reflects on the sharp contrast between this moment and the magical start of their relationship. As he looks at Sarah, his mind is besieged with questions, primarily revolving around the haunting query: Why? This internal struggle sets a somber, introspective tone for the narrative.</Synopsis>
         </Document>
         <Document ID="5C03DE09-C285-48ED-827F-78E62B7D0F72">
             <Title>Template Sheets</Title>
@@ -1543,12 +1563,151 @@ Here are some brief summaries for the main characters that I pulled from book on
         <Document ID="6FE17A83-444E-4649-A08D-09A07714B118">
             <Title>Evan and Gabriella</Title>
         </Document>
+        <Document ID="705A9D8A-C35C-4EA2-B9F4-B9A9E2C6F1CC">
+            <Title>Chapter - The Divorce</Title>
+        </Document>
         <Document ID="70C141C3-D6CB-4603-A148-FA07579E0DBE">
             <Title>Chicagoland</Title>
         </Document>
         <Document ID="7ACB1E38-E710-4F0B-802C-80383FC9BB90">
             <Title>Evan</Title>
             <Synopsis>Male Love Interest</Synopsis>
+            <Text>Character Profile: Evan Vaughn
+Name: Evan Vaughn
+Gender: Male
+Age: 21
+Place of Birth: Glenview, Illinois
+Current Residence: Evanston, Illinois
+Race: Caucasian
+Occupation: Part owner of &quot;The Vaughn Group&quot;, a marketing firm focusing on creating websites for clients.
+Vehicle Driven: Sporty, mid range SUV
+Physical Attributes:
+Resembles: Actor Chris Pratt
+Hair Color: Medium-brown
+Hair Length: Short and easy to style
+Hair Style: Modern and clean-cut
+Eye Color: Hazel
+Vision: Perfect vision. He doesn't wear glasses.
+Facial Hair: Typically clean-shaven, except for occasional days when razor stubble gives him an alluring, slightly rugged appeal
+Height: 6'2&quot;
+Weight: 200lbs
+Other Physical Appearance Notes:
+He had a lean, muscular physique like a professional athlete in college.
+Evan has six-pack abs.
+Like any romantic novel male protagonist, Evan is considered extraordinarily handsome.
+Physical Appearance:
+Evan Vaughn was an imposing figure, standing 6'2&quot; and weighing 200 pounds. His medium-brown hair was short and easy to style, always kept in a modern and clean-cut fashion. His eyes were a striking hazel, and he didn't wear glasses, thanks to his perfect vision. Though typically clean-shaven, he sometimes sported a slight razor stubble, giving him a ruggedly attractive look. His body was lean and muscular, honed like a professional athlete in college, complete with six-pack abs. Every aspect of his appearance contributed to Evan being considered extraordinarily handsome.
+Clothing and Fashion Choices:
+Evan's wardrobe balances the lines between casual and formal with skill and ease. Day-to-day, he embraces a laid-back style, opting for well-fitted jeans and T-shirts that, though not expensive, always lend him a put-together air. Each piece is chosen carefully, ensuring quality and a fit that complements his build.
+His casual style has versatility, transitioning seamlessly to accommodate more formal events. When the occasion demands, Evan trades his customary jeans for affordable yet smart slacks that pair well with a suit or sport coat. Despite the conservative nature of such attire, he lends it his own touch, ensuring he remains true to his style.
+Personality Attributes:
+Personality Traits:
+In terms of brand archetypes, he would be considered a Hero.
+His Myers-Briggs archetype is INTP.
+He has a natural charm but remains humble and is not manipulative.
+Strengths:
+He is loyal, even-tempered, respectful, polite, romantic, and helpful.
+He is non-confrontational and generally gets along well with others.
+Known for his fidelity in relationships, Evan does not cheat on his romantic partners.
+He is patient and nonjudgmental.
+He rarely curses.
+He enjoys and is passionate about working with children.
+Weaknesses:
+He withdraws from society to recover from traumatic events.
+He shuts down when loved ones try to help him overcome past events.
+He claims to want to leave the past in the past but carries the trauma from past events with him, although he denies this.
+Likes:
+Hiking, Running, Biking, Weight Training
+Engaging in public displays of affection –PDA
+Playing and watching sports
+His favorite sports team is the Chicago Cubs. He also enjoys the Chicago Bears, Chicago Bulls, and Chicago Blackhawks.
+Dislikes:
+Physical fighting.
+Pharmaceutical medicines. Although he understands that pharmaceutical drugs are necessary for some, he believes many doctors get kickbacks from the pharmaceutical companies, often resulting in prescribing unhealthy medicine to patients who don't need it.
+Verbal arguments.
+Conflict of any kind.
+Relationships with manufactured drama and conflict.
+He has a strong aversion to the dating process, especially online dating.
+Although he maintains social media accounts, he spends minimal energy maintaining his social media presence.
+Habits:
+Works out at the gym at least five days a week
+Goes for a morning jog as often as his schedule allows
+Hobbies:
+Playing pickup basketball games at the gym or the park
+Playing softball with his friends in their softball league
+Fears:
+Painful breakups.
+Disappointing his sister, Liz. Although Liz, his gem of a sister, could never be disappointed in Evan.
+Becoming like his father – a philanderer and a man who, in Evan's eyes, broke his sacred wedding vows by demanding a divorce.
+Hospitals and doctors. This is primarily due to his fear that they will manufacture a diagnosis and prescribe him medicine he doesn't need.
+Catchphrases:
+Often refers to the &quot;universe&quot; as playing a guiding role in setting actions and sending signals in people's lives.
+Occasionally refers to his friend Guido as &quot;dude.&quot;
+Unlike Guido, Evan never called anyone &quot;Bro.&quot;
+Key Relationships:
+Liz: Older sister by two years. Evan looks up to his sister and relies on her for sage advice – especially in challenging situations. She practically raised him after his parents divorced, and his mom had to work two jobs to make ends meet. She is as much a mentor as a big sister and surrogate mom.
+Guido: Best friend since they were assigned to the same dorm room freshman year.
+Sarah: In college, she is his love interest. Shortly after, she becomes his girlfriend. Shortly after college graduation, she becomes his fiancée. Soon after the engagement, she becomes his wife.
+Mom (Bridget): Evan loved his mom. He hadn't held any resentment toward her, unlike his father. However, at 10 years old, when they divorced, Evan had felt alienated by his mother for several years. Liz had essentially taken over the role of Evan's mother, and in some ways, he had felt that he lost both his parents after the divorce. Yet, as he grew into his later teens and understood the sacrifices she made, often working two jobs to make ends meet and putting aside her own romantic hopes until after his graduation, he developed a deep respect for her. They kept in touch, seeing each other at least once a year.
+Chloe: Chloe ultimately becomes Evans final love interest. Although their relationship has many twists and turns, ups and downs, Evan and Chloe eventually get engaged by the end of book 2.
+
+Background/History:
+Education Background:
+He is a senior at the University of Illinois.
+Work History:
+At 16, he worked at a local movie theater until it was time to go to college.
+He was a personal trainer at the University fitness center during his first year of college.
+After that, he got a personal trainer job in a nearby town.
+Family Background:
+His parents divorced when he was ten years old.
+He resents his father for cheating on his mother and leaving her for another woman.
+He hasn't spoken to his father since he was 17 years old.
+With a single working mom, his older sister Liz played an integral role in raising Evan – particularly in establishing his morals and values.
+Health History:
+On the surface, for Book 1, Evan is exceptionally fit and healthy.
+In the future (Book 3), beyond the story, we find out that Evan has a rare bone disease and will die without a bone marrow transplant.
+Evan’s energy will occasionally take a severe nosedive from as little as an hour to as much as a day or two. He attributes this to working out too hard and not getting enough sleep. In reality, the real problem is an undiagnosed bone disease.
+Future Outlook:
+Aspirations/Dreams:
+Having a successful career without sacrificing freedom to enjoy life. Time is more important to Evan.
+He wants to spend time traveling the world with the right romantic partner.
+Marrying a woman he is madly in love with and having 2 to 3 children.
+He wants to leave the world a better place than he found it. Not through grand gestures but through the little things. Like simply being kind to everyone he meets and doing good deeds when the opportunity presents itself.
+Primary Goal:
+Live his life happily and freely, and be a good person.
+How does the character handle stress or crises?
+Evan is the first to jump in and lend a hand when someone he cares about is in a crisis or stressful situation. In work-related crises, he responds quickly in a non-emotional, productive manner. When Evan faces personal emotional crises, he shuts down or leaves town.
+What motivates this character?
+At this point in his life, Evan is motivated to keep his promise to his sister and maintain a 3.0-grade point average. He is also motivated to finish college so he can start his life. But during his college years, he is happy to embrace the experience and enjoy the benefits of campus life.
+Key Conflict:
+Internally, his conflict is knowing it is best to forgive his father, but he has no desire to let go of his resentment for what his father did. Externally, his conflict is getting Sarah to go all in on the relationship, like in the way that he has.
+How does the character change by the end of the novel?
+At the outset of Book 2, Evan is reeling from his divorce, believing he's lost his only chance at true love. In an attempt to still enjoy relationships while shielding himself from heartache, he devises a strategy: to engage in year-long relationships that capitalize on the early joys of romance but end them after a year to avoid perceived inevitable decline, regardless of their success.
+However, Evan's perspective shifts profoundly when he meets Chloe. Through her, he discovers that his heart is capable of loving again, and more profoundly, he recognizes Chloe as not just another love, but as his soulmate. This realization marks a turning point in his emotional journey, challenging his initial defensive strategy and opening him up to deeper, more meaningful connections.
+What is the character's role in the novel?
+Evan is a co-protagonist and the male love interest.
+Key Events:
+Evan devises a unique relationship strategy after his divorce, planning year-long relationships to experience the joys of new love without enduring their decline.
+His relationship with Maggie marks the first test of his plan, ending with Evan feeling the pain of breaking her heart.
+With Gabriella, Evan finds both similarities and differences compared to Maggie. Although caring deeply, he realizes he's not in love, leading to an even more painful breakup.
+Evan's life takes a significant turn when he meets Chloe. He falls deeply in love with her, but their romantic expression is delayed until after his relationship with Gabriella ends.
+He and Chloe embark on a &quot;Love Annually&quot; relationship, filled with pivotal moments. This relationship, unlike the others, ends with both Chloe and Evan suffering heartache.
+Post-breakup, a serious accident involving Chloe leads Evan to take charge of her recovery, deepening their bond.
+Frustrated with Chloe's hesitance to commit, Evan eventually ends their platonic relationship.
+The story culminates with Chloe and Evan's engagement, marking a new chapter in their lives.
+Beliefs:
+Evan believes in the guiding influence of the &quot;Universe&quot; on people's life experiences. While he surmises the Universe does not reveal its ultimate plan, he thinks it provides opportunities and signs to help humans navigate their journey.
+
+Introvert or Extrovert:
+Labeling Evan as an introvert or extrovert would be a mistake. Emotional duress might make him appear as an introvert, but that wasn't his typical state.
+Despite his popularity, affinity for meeting new people, and making friends, he might be considered an extrovert. But this wasn't the case.
+Evan preferred avoiding drawing attention to himself. He wasn't popular by choice, but his looks and warm personality made him so.
+Whether someone was the star quarterback or the worst student, Evan treated everyone kindly.
+He humbly accepted his popularity, never becoming arrogant or allowing it to inflate his ego.
+Character Description:
+Evan Vaughn embodies the epitome of a romantic novel's male protagonist. Standing at 6'2&quot; and weighing 200 pounds, his lean, muscular physique mirrors a professional athlete. His clean-cut medium-brown hair and hazel eyes complete the captivating look.
+Evan's wardrobe effortlessly balances casual and formal styles, allowing him to switch from laid-back jeans and T-shirts to smart slacks and suits, while staying true to his style. As a personal trainer, he's passionate about fitness and engages in various activities like hiking, running, biking, and weight training.
+Loyal, respectful, romantic, and polite, Evan's personality reflects the Hero archetype. He's non-confrontational and known for fidelity in relationships, a symbol of integrity and trust. However, his unwillingness to forgive his father and past trauma cause occasional withdrawal, leading to complex conflicts.</Text>
         </Document>
         <Document ID="7EC3FA98-6064-4830-A103-00607F40043F">
             <Title>Evan and Guido</Title>
@@ -1639,6 +1798,10 @@ Cooling apple pie: patiently awaiting its moment.
         <Document ID="82E59DE4-8271-4852-8F1C-E3ACD513BF34">
             <Title>Bennett Residence</Title>
         </Document>
+        <Document ID="8587C7AD-57F6-4E90-B5CA-D99B7148BAA5">
+            <Title>The Business Baton Is Passed</Title>
+            <Synopsis>Liz's prompt brought Evan out of his thoughts, drawing his focus to the crucial document that outlined the transfer of Sarah's business shares to her. Evan, typically disinterested in such paperwork, reluctantly went through it just to meet Liz's request. He didn't invest much effort in a thorough review but rather made a cursory effort to ensure Liz's peace of mind regarding the transition. This moment highlighted Evan's willingness to support his sister, even in tasks he personally found mundane.</Synopsis>
+        </Document>
         <Document ID="85C5A3DF-C3C1-45BA-AD2C-6C42B69EF072">
             <Title>Character Narratives</Title>
             <Text>Physical Description:
@@ -1678,9 +1841,66 @@ One important thing to know about Chloe is that she never wants to have children
 Unless you have any more questions, I will start working on the brief summaries for each book.
 </Text>
         </Document>
+        <Document ID="8D52F033-3BFD-4AA5-96C6-8AF2C8D0A5F5">
+            <Title>The End of a Vow</Title>
+            <Synopsis>Evan sat in a Chicago law office, confronting the finalization of his divorce from Sarah. While attorneys finalized the settlement documents, Evan was lost in reflection. He pondered his broken vow never to follow in his parents' footsteps and divorce. His focus shifted between the divorce papers and Sarah, who was distantly gazing out the window. The scene delved deeply into Evan's internal struggle, capturing his confusion and pain over Sarah's wish for separation, and his recollections of their early days in college, conveyed through his thoughts and without flashbacks.</Synopsis>
+            <CustomMetaData>Evan And Sarah 3 2013-09-21 11:01:00 100 Evan
+Sarah
+Liz 12 Evan's Attorney
+Sarah's Lead Attorney
+Sarah's Junior Attorney Downtown Chicago 2 2013-09-21 11:00:00 10 Attorney's Office</CustomMetaData>
+        </Document>
+        <Document ID="905A1824-FD11-4602-A731-C632308757D9">
+            <Title>The Last Kiss</Title>
+            <Synopsis>After signing the divorce papers, Evan and Sarah were left alone in the conference room. Sarah fulfilled her promise, answering Evan's questions, but his confusion persisted despite understanding her words. Overwhelmed by lingering love and attraction, Evan passionately kissed Sarah. Initially resistant, Sarah's desire momentarily overcame her, but she quickly left the room, recognizing that succumbing to this moment was unwise, despite her feelings. The scene captured their complex emotions and the finality of their relationship.</Synopsis>
+        </Document>
         <Document ID="92DBF065-04ED-4589-BF93-A0739622DE57">
             <Title>Sarah</Title>
             <Synopsis>Sarah disappears until book 2</Synopsis>
+            <Text>Character Profile:
+
+Name: Sarah Wilkins
+
+Gender: Female
+
+Age At beginning of book 2: 28
+
+Date of Birth: 1985-03-08
+
+Place of Birth: Seattle, Washington
+
+Current residence: Seattle, Washington
+
+Ethnicity: English-American
+
+Occupation: Student working on her Masters degree. However, she already has a post-graduation job lined up working in management at her father's corporation.
+
+Vehicle Driven: Pearl White Audi luxury sedan
+
+Physical Attributes:
+- Resembles: Gwyneth Paltrow, in her prime 
+- Hair Color: Blonde 
+- Hair Length: Information 
+- Hair Style: Information 
+- Eye Color: Steely gray blue 
+- Vision:  Sarah Wears glasses most of the time but will occasionally switch to contact lenses, primarily for events that require her to pose for many photos. 
+- Facial Hair: Information 
+- Height: 5'9&quot; 
+- Weight: 130lbs 
+- Clothing and Fashion Choices: 
+She wears designer dresses to all significant social events.
+She wears designer skirt suits and pantsuits to work.
+Her jewelry is expensive, except for the one necklace and panted she cherishes most – the one Evan gave her on their first date. Even though it's inexpensive and not particularly beautiful, she still wears it daily to work.
+Even her jeans and tops are designer. 
+The only clothes that are not designer are her workout clothes
+
+Character Description:
+Here's an improved version of Sarah's character description for Book Two:
+Sarah, an integral character in Book Two, makes her sole appearance in Chapter 1 during the divorce. Previously, in Book One, Sarah is portrayed as a straight-A student with a meticulously planned future. The daughter of a self-made multimillionaire, she aspires to emulate her father's success rather than adopt her mother's supportive role, which she finds unappealing. Despite her high IQ, Sarah has limited experience with romantic relationships, focusing instead on her academic and career goals.
+Her path takes an unexpected turn when she meets Evan in their senior year of college. This encounter leads to a passionate relationship, derailing her initial plan to pursue a Master's degree at an Ivy League school. Instead, she joins forces with Evan to establish a successful marketing firm and a nonprofit for underprivileged teens. While perceived as unapproachable and business-focused, Sarah reveals a more feminine side in private with Evan, a side she is uncomfortable embracing.
+As their business flourishes under Liz's management, Evan envisions a life of leisure and family, while Sarah sees an opportunity to expand their enterprise. This divergence in aspirations, coupled with their differing views on family life – Evan desiring a playful, affectionate approach versus Sarah's preference for a more academic, less emotional upbringing for one child – creates irreconcilable differences. Ultimately, these factors lead to Sarah's decision to request a divorce, highlighting the complexity of her character and her journey.
+This revised description emphasizes the nuances in Sarah's character and the pivotal moments that shape her decisions, setting the stage for her role in Book Two.
+</Text>
         </Document>
         <Document ID="98EA5CEF-B7B1-468C-83CD-9AB24AFAFDF3">
             <Title>Dedication</Title>
@@ -1750,26 +1970,50 @@ Making no mention of weather, please write the following scene in the styles of 
         <Document ID="A9162DD2-3C78-42F0-A443-E8535AEEC23C">
             <Title>Evan And Sarah</Title>
         </Document>
+        <Document ID="A9E90EDC-C2A2-4F94-B2D0-E5E82CCD95E8">
+            <Title>Latest</Title>
+            <Text>Agenda Item 1: 
+Foreshadowing and Character Introduction Strategies in 'Love, Annually'
+
+Concerns and Observations:
+In my initial draft of 'Love, Annually,' I noticed a tendency for 'information overload' in the early chapters. The introduction of multiple characters and subplots, especially the larger-than-life character of Chloe, led to excessive exposition.
+There's a significant delay before Chloe, the true heroine, enters the story.
+The subplot of Liz's infertility and the introduction of Evan's dating plan, along with several new characters at a poker party, present a lot of information at once, potentially overwhelming readers.
+Proposed Solutions:
+Early Introduction of Chloe: 
+Plan to implement early mentions of Chloe in the narrative through conversations or brief scenes. 
+Objective: To build intrigue and anticipation around her character before her physical entrance into the story. This strategy aims to give readers a taste of her personality, fostering curiosity about her eventual role in the plot.
+Balancing Chloe's Character Introduction: 
+Gradually introduce aspects of Chloe's character and backstory in the early parts of the book. 
+Goal: To prevent information overload upon her direct introduction. This approach will distribute the details of Chloe's character across several scenes, ensuring her entrance is both impactful and digestible for the reader.
+Foreshadowing Liz’s Infertility Subplot: 
+Plan to use interactions between Chloe and Liz to introduce the theme of Liz’s infertility subtly.
+Purpose: To reveal Chloe's nurturing side early in the story and to set up Liz’s significant subplot. This strategy aims to create depth in their characters and establish a connection between their personal challenges and the main narrative arc.
+
+
+
+Agenda Item 2: 
+Rethinking Flashback Scenes Prior to Chloe's Introduction
+Discussion Point: Consider the impact of removing all flashback scenes before Chloe's entry into the narrative, especially in the first chapter.
+First Kiss Flashback: Explore the idea of initially omitting the detailed flashback of Sarah and Evan's first kiss during the divorce scene.
+Organic References: Discuss the potential of referencing the first kiss and the pendant Evan gave Sarah on their first date organically in conversations throughout the book to maintain a sense of mystery.
+Narrative Impact: Consider how delaying the flashback to later in the book might enhance emotional connection and character development, and improve narrative flow.
+Execution Strategy: Discuss strategies for effectively weaving in references to the first kiss, ensuring they are intriguing and maintain reader engagement without causing confusion.
+</Text>
+        </Document>
         <Document ID="B2839424-059D-440D-A829-63B5E15FE05C">
-            <Title>Evan Ponders the Divorce</Title>
-            <Synopsis>Evan and Sarah Vaughn sat across from each other in Sarah’s high-priced attorney’s office. Evan flashed back and mentally replayed their first wonderful year together as a couple.</Synopsis>
-            <Text>Saturday, September 21, 2013
-DIVORCE. As Evan Vaughn looked at the document in front of him, he wondered how a romance with a storybook beginning could end here, like this. Evan knew the word “Divorce” was the same size as the other words in the document, but somehow this word stood out, bold and large. Evan was severely emotionally impacted by his parent’s divorce when he was 10. At a young age, Evan vowed he’d never get divorced – yet here he was.
-Evan had questions in his mind. Why are we here? I thought things were fine. Why didn’t she want to work it out? Evan had no desire to read this divorce document yet again. 
-The meeting was held at the Chicago branch of the law firm representing Evan’s soon-to-be ex-wife, Sarah. Divorce negotiations were taking place in a conference room overlooking Lake Michigan. Sarah’s two high-priced attorneys were debating trivial terms with Evan’s one, less expensive attorney. Evan assumed that was to make it look like they were earning their money.
-On Evan’s right was his sister, Liz Bennett. Liz was reviewing a corporate sales agreement. The terms of the divorce included the sale of Sarah’s half of the business to Liz. Sarah and Evan had built a successful marketing and website development firm, The Vaughn Group. The one good thing coming from this divorce was Liz would be getting half of the company.
-Liz was everything to Evan. Their mom worked long hours after a tumultuous divorce when Evan was ten years old. After the divorce, Evan’s father was out of the picture. Two years his elder, Liz, took on many roles during their childhood. At one time or another, Liz was his substitute mother, a big sister, a mentor, and a friend.
-Sarah sat across a wide conference room table with her back to Evan. As usual, Sarah was ahead of everyone else. She could read and write legalese with the skill of a lawyer, and Sarah was always the smartest person in the room – any room.
-Sarah had already read through and approved all the legal documents. She couldn’t get herself to look at Evan, so with her back to him, she tried to find solace in the majestic view of Lake Michigan.
-She was rubbing the pendant Evan had given her in college. This activity had become a habit of Sarah’s, serving as a stress relief device. She found her thoughts drifting back in time to the night of their first date – the night Evan gave her this pendant.
-Most people perceived Evan and Sarah as opposites. Evan was well-liked by everyone. His employees, who he called team members, adored both him and Liz. This sister-brother duo had not an enemy between them. Big sister Liz had managed to raise her rambunctious little brother into a respectful, good-natured, and generous young man.
-Sarah was considered cold as ice by her staff. She had a Type A personality, a genius IQ, and a mind built for business. Her father was a self-made millionaire entrepreneur that raised Sarah from childhood to follow in his footsteps. There were no hugs and no playdates in Sarah’s childhood. 
-Whether it was her genius IQ or her sterile upbringing, Sarah lacked people skills. She was considered unapproachable by her employees. The team members of The Vaughn Group couldn’t understand Evan and Liz’s love and affection for Sarah.
-What they didn’t know was Sarah had another side to her. A side of her she tried to deny – a side that laid dormant most of the time. Evan was the only one who could bring out Sarah’s more feminine qualities. He quite literally swept her off her feet in their senior year of college. Her love for him redirected her well-planned future. 
-Sarah and Evan did have some things in common. They were both 28 years old, wealthy, tall, and good-looking. However, they both considered their attractiveness inconsequential.
-Evan worked his way through college as a personal trainer, and he had remained fit and active. Evan was 6-foot 1-inch tall with short, easy-to-style medium brown hair and hazel eyes. His good looks were not dictated by vanity but by his desire to be fit and healthy combined with blessings from mother nature.
-Sarah had long blonde hair, silvery-blue eyes, and supermodel looks. While Sarah knew her beauty opened certain doors for her, she mostly considered beauty a burden for female executives. Sarah frequently attempted to hide her beauty behind business suits, eyeglasses, and bunned-up hair.
-However, today Sarah decided to wear contacts and let her hair down. Sarah’s fashion and hairstyle choices made little difference to Evan. He stared at her in a dream-like state. In Evan’s eyes, Sarah was as beautiful as the day they met – no matter her hairstyle or eyewear. Evan’s feelings of resentment and pain over the divorce in no way diminished his deep love for Sarah. He loved her now as much as he ever did.</Text>
+            <Title>Broken Vow</Title>
+            <Synopsis>Evan sat in a Chicago law office, confronting the finalization of his divorce from Sarah. While attorneys finalized the settlement documents, Evan was lost in reflection. He pondered his broken vow never to follow in his parents' footsteps and divorce. His focus shifted between the divorce papers and Sarah, who was distantly gazing out the window. The scene delved deeply into Evan's internal struggle, capturing his confusion and pain over Sarah's wish for separation and his recollections of their early days in college conveyed through his thoughts and without flashbacks.</Synopsis>
+            <Text>
+
+
+The room, overlooking the vast expanse of Lake Michigan, was filled with a tense silence, broken only by the occasional shuffling of papers and hushed discussions among the attorneys.
+Beside Evan, Liz Bennett, his sister and pillar of support, meticulously reviewed the corporate sales agreement that would transfer Sarah’s share of their successful marketing firm, The Vaughn Group, to her. Despite the business-like atmosphere, the emotional weight of the moment was palpable.
+Sarah, sitting across from Evan, exuded a calm exterior but was anything but peaceful inside. Her fingers subconsciously traced the contours of a pendant – a memento from Evan that had become a source of comfort in stressful times. It was a stark reminder of their once-hopeful beginning, now reduced to legal formalities and signatures.
+As much as Evan's 6-foot-two, fit and athletic frame caught the eye, it was his captivating hazel eyes, so expressive and warm, that often drew people in. His eyes.  More than his appearance, Evan was cherished for his compassionate nature and helpful ways. Lost in thoughts of Sarah, he remembered her sharp intellect, and how he had once softened her aloof exterior. Despite the pain and resentment brewing inside, his love for her persisted. 
+Gazing at her now, her hair cascading down, free of her typical business persona, she remained as breathtaking to him as the day there eyes first met.  The unforgettable day he saved her from the jaws of concrete steps culminating in an dance-like embrace had led to 'The Kiss'.
+Evan had many questions pinching in his mind. The one commonality amongst all of his unanswered questions was that they started with the same word – Why?
+</Text>
             <CustomMetaData>Evan And Sarah 3 2013-09-21 11:01:00 100 Evan
 Sarah
 Liz 12 Evan's Attorney
@@ -1777,8 +2021,8 @@ Sarah's Lead Attorney
 Sarah's Junior Attorney Downtown Chicago 2 2013-09-21 11:00:00 10 Attorney's Office</CustomMetaData>
         </Document>
         <Document ID="B3993843-A51F-4D80-AE15-4953CD3E69E9">
-            <Title>Evan Demands Answers From Sarah</Title>
-            <Synopsis>Evan refused to sign the divorce papers until Sarah agreed to explain why she asked for the divorce. Evan’s sister Liz supported Evan on this point, and Sarah decided to speak to Evan in private after the paperwork was signed.</Synopsis>
+            <Title>The Demand for Closure</Title>
+            <Synopsis>Evan withheld signing the divorce papers, insisting that Sarah explain her reasons for seeking the divorce. Backed by his sister Liz, Evan stood firm on this demand. Sarah, after some consideration, agreed to have a private conversation with Evan about her reasons, but only after the paperwork was signed. This arrangement set the stage for a crucial, private exchange between Evan and Sarah, marking a pivotal moment in their separation processed.</Synopsis>
             <CustomMetaData>2024-01-12 23:59:59 2024-01-12 00:00:00</CustomMetaData>
         </Document>
         <Document ID="B8F85F0F-B032-445B-AF0D-23A98D7A6001">
@@ -1814,8 +2058,9 @@ Notes
 </Text>
         </Document>
         <Document ID="BB7E0CB4-7B55-4CA0-BE21-3655A0FA066F">
-            <Title>The Kiss Flashback</Title>
-            <Synopsis>Kiss flashback</Synopsis>
+            <Title>Crossroads of the Heart</Title>
+            <Synopsis>Sarah, avoiding the sight of Evan's distress, gazed out over Lake Michigan. She held the pendant Evan had lovingly made for her, a symbol of comfort she wore daily, echoing a child's reliance on a security blanket. As she gently rubbed it, she was engulfed in introspection, wrestling with doubts. She pondered whether divorcing Evan was the real mistake or if her error was in forsaking her initial life plans for their marriage. Her silent reflections were steeped in the significance of this simple, yet deeply meaningful, pendant.</Synopsis>
+            <Text>Sarah, avoiding the sight of Evan's distress, gazed out over Lake Michigan. She held the pendant Evan had lovingly made for her, a symbol of comfort she wore daily, echoing a child's reliance on a security blanket. As she gently rubbed it, she was engulfed in introspection, wrestling with doubts. She pondered whether divorcing Evan was the real mistake, or if her error was in forsaking her initial life plans for their marriage. Her silent reflections were steeped in the significance of this simple, yet deeply meaningful, pendant.</Text>
         </Document>
         <Document ID="BC65B638-A3AE-433B-81E3-0806088794BA">
             <Title>Preserve</Title>
@@ -1833,8 +2078,8 @@ Notes
             <Title>Scene Templates</Title>
         </Document>
         <Document ID="C5CFBE8C-ADEF-478E-9E40-2644B27FB43C">
-            <Title>Liz Asks Evan to Review Docs</Title>
-            <Synopsis>Liz interrupted Evan’s flashback daydream to ask him to review the documents that transferred Sarah’s ownership in the company to Liz.</Synopsis>
+            <Title>The Business Baton Is Passed</Title>
+            <Synopsis>Liz's prompt brought Evan out of his thoughts, drawing his focus to the crucial document that outlined the transfer of Sarah's business shares to her. Evan, typically disinterested in such paperwork, reluctantly went through it just to meet Liz's request. He didn't invest much effort in a thorough review but rather made a cursory effort to ensure Liz's peace of mind regarding the transition. This moment highlighted Evan's willingness to support his sister, even in tasks he personally found mundane.</Synopsis>
         </Document>
         <Document ID="C63C3AC8-F09A-4549-AC9B-F896A5C0DA1E">
             <Title>Sandbox 2</Title>
@@ -2051,11 +2296,148 @@ Sarah Wilkins: 21, epitomizes grace and determination. With steely gray-blue eye
 
 </Text>
         </Document>
+        <Document ID="E1AB95C8-33ED-4D28-9282-EB60AC685A32">
+            <Title>Why?</Title>
+            <Synopsis>Evan Vaughn is confronted with the finality of his divorce as he sits in a law office, the word &quot;DIVORCE&quot; glaring at him from the document. Overwhelmed by the symbolic weight of this term, he reflects on the sharp contrast between this moment and the magical start of their relationship. As he looks at Sarah, his mind is besieged with questions, primarily revolving around the haunting query: Why?</Synopsis>
+            <Text>Saturday, September 21
+Six years after &quot;The Kiss&quot;
+DIVORCE. The word, stark and merciless, seemed to leap from the poisonous pages of the divorce decree at Evan Vaughn. It dominated the document, its letters grotesquely swollen, obscuring everything else, and sending a jolt of pain through his body. His eyes, heavy with unanswered questions, shifted to Sarah. How did our fairytale start, that first kiss seeming so magical, lead to such a bitter finale? he brooded. Question after question gnawed at his mind, all echoing a single, haunting word: Why?</Text>
+        </Document>
         <Document ID="E692532E-A3F0-4162-9A36-CC74199909C4">
             <Title>Evan and Maggie</Title>
         </Document>
         <Document ID="E6F228CB-5401-4F01-9BAC-01F6F09DC291">
             <Title>Poker Group</Title>
+        </Document>
+        <Document ID="E85AB992-27F9-4D69-AEDA-1EB5EA5446A1">
+            <Title>Evan Part 1 of 2</Title>
+            <Text>Character Profile: Evan Vaughn
+Name: Evan Vaughn
+Gender: Male
+Age: 21
+Place of Birth: Glenview, Illinois
+Current Residence: Evanston, Illinois
+Race: Caucasian
+Occupation: Part owner of &quot;The Vaughn Group&quot;, a marketing firm focusing on creating websites for clients.
+Vehicle Driven: Sporty, mid range SUV
+Physical Attributes:
+Resembles: Actor Chris Pratt
+Hair Color: Medium-brown
+Hair Length: Short and easy to style
+Hair Style: Modern and clean-cut
+Eye Color: Hazel
+Vision: Perfect vision. He doesn't wear glasses.
+Facial Hair: Typically clean-shaven, except for occasional days when razor stubble gives him an alluring, slightly rugged appeal
+Height: 6'2&quot;
+Weight: 200lbs
+Other Physical Appearance Notes:
+He had a lean, muscular physique like a professional athlete in college.
+Evan has six-pack abs.
+Like any romantic novel male protagonist, Evan is considered extraordinarily handsome.
+Physical Appearance:
+Evan Vaughn was an imposing figure, standing 6'2&quot; and weighing 200 pounds. His medium-brown hair was short and easy to style, always kept in a modern and clean-cut fashion. His eyes were a striking hazel, and he didn't wear glasses, thanks to his perfect vision. Though typically clean-shaven, he sometimes sported a slight razor stubble, giving him a ruggedly attractive look. His body was lean and muscular, honed like a professional athlete in college, complete with six-pack abs. Every aspect of his appearance contributed to Evan being considered extraordinarily handsome.
+Clothing and Fashion Choices:
+Evan's wardrobe balances the lines between casual and formal with skill and ease. Day-to-day, he embraces a laid-back style, opting for well-fitted jeans and T-shirts that, though not expensive, always lend him a put-together air. Each piece is chosen carefully, ensuring quality and a fit that complements his build.
+His casual style has versatility, transitioning seamlessly to accommodate more formal events. When the occasion demands, Evan trades his customary jeans for affordable yet smart slacks that pair well with a suit or sport coat. Despite the conservative nature of such attire, he lends it his own touch, ensuring he remains true to his style.
+Personality Attributes:
+Personality Traits:
+In terms of brand archetypes, he would be considered a Hero.
+His Myers-Briggs archetype is INTP.
+He has a natural charm but remains humble and is not manipulative.
+Strengths:
+He is loyal, even-tempered, respectful, polite, romantic, and helpful.
+He is non-confrontational and generally gets along well with others.
+Known for his fidelity in relationships, Evan does not cheat on his romantic partners.
+He is patient and nonjudgmental.
+He rarely curses.
+He enjoys and is passionate about working with children.
+Weaknesses:
+He withdraws from society to recover from traumatic events.
+He shuts down when loved ones try to help him overcome past events.
+He claims to want to leave the past in the past but carries the trauma from past events with him, although he denies this.
+Likes:
+Hiking, Running, Biking, Weight Training
+Engaging in public displays of affection –PDA
+Playing and watching sports
+His favorite sports team is the Chicago Cubs. He also enjoys the Chicago Bears, Chicago Bulls, and Chicago Blackhawks.
+Dislikes:
+Physical fighting.
+Pharmaceutical medicines. Although he understands that pharmaceutical drugs are necessary for some, he believes many doctors get kickbacks from the pharmaceutical companies, often resulting in prescribing unhealthy medicine to patients who don't need it.
+Verbal arguments.
+Conflict of any kind.
+Relationships with manufactured drama and conflict.
+He has a strong aversion to the dating process, especially online dating.
+Although he maintains social media accounts, he spends minimal energy maintaining his social media presence.
+Habits:
+Works out at the gym at least five days a week
+Goes for a morning jog as often as his schedule allows
+Hobbies:
+Playing pickup basketball games at the gym or the park
+Playing softball with his friends in their softball league
+Fears:
+Painful breakups.
+Disappointing his sister, Liz. Although Liz, his gem of a sister, could never be disappointed in Evan.
+Becoming like his father – a philanderer and a man who, in Evan's eyes, broke his sacred wedding vows by demanding a divorce.
+Hospitals and doctors. This is primarily due to his fear that they will manufacture a diagnosis and prescribe him medicine he doesn't need.
+Catchphrases:
+Often refers to the &quot;universe&quot; as playing a guiding role in setting actions and sending signals in people's lives.
+Occasionally refers to his friend Guido as &quot;dude.&quot;
+Unlike Guido, Evan never called anyone &quot;Bro.&quot;
+Key Relationships:
+Liz: Older sister by two years. Evan looks up to his sister and relies on her for sage advice – especially in challenging situations. She practically raised him after his parents divorced, and his mom had to work two jobs to make ends meet. She is as much a mentor as a big sister and surrogate mom.
+Guido: Best friend since they were assigned to the same dorm room freshman year.
+Sarah: In college, she is his love interest. Shortly after, she becomes his girlfriend. Shortly after college graduation, she becomes his fiancée. Soon after the engagement, she becomes his wife.
+Mom (Bridget): Evan loved his mom. He hadn't held any resentment toward her, unlike his father. However, at 10 years old, when they divorced, Evan had felt alienated by his mother for several years. Liz had essentially taken over the role of Evan's mother, and in some ways, he had felt that he lost both his parents after the divorce. Yet, as he grew into his later teens and understood the sacrifices she made, often working two jobs to make ends meet and putting aside her own romantic hopes until after his graduation, he developed a deep respect for her. They kept in touch, seeing each other at least once a year.
+Chloe: Chloe ultimately becomes Evans final love interest. Although their relationship has many twists and turns, ups and downs, Evan and Chloe eventually get engaged by the end of book 2.
+
+Background/History:
+Education Background:
+He is a senior at the University of Illinois.
+Work History:
+At 16, he worked at a local movie theater until it was time to go to college.
+He was a personal trainer at the University fitness center during his first year of college.
+After that, he got a personal trainer job in a nearby town.
+Family Background:
+His parents divorced when he was ten years old.
+He resents his father for cheating on his mother and leaving her for another woman.
+He hasn't spoken to his father since he was 17 years old.
+With a single working mom, his older sister Liz played an integral role in raising Evan – particularly in establishing his morals and values.
+Health History:
+On the surface, for Book 1, Evan is exceptionally fit and healthy.
+In the future (Book 3), beyond the story, we find out that Evan has a rare bone disease and will die without a bone marrow transplant.
+Evan’s energy will occasionally take a severe nosedive from as little as an hour to as much as a day or two. He attributes this to working out too hard and not getting enough sleep. In reality, the real problem is an undiagnosed bone disease.
+Future Outlook:
+Aspirations/Dreams:
+Having a successful career without sacrificing freedom to enjoy life. Time is more important to Evan.
+He wants to spend time traveling the world with the right romantic partner.
+Marrying a woman he is madly in love with and having 2 to 3 children.
+He wants to leave the world a better place than he found it. Not through grand gestures but through the little things. Like simply being kind to everyone he meets and doing good deeds when the opportunity presents itself.
+Primary Goal:
+Live his life happily and freely, and be a good person.
+How does the character handle stress or crises?
+Evan is the first to jump in and lend a hand when someone he cares about is in a crisis or stressful situation. In work-related crises, he responds quickly in a non-emotional, productive manner. When Evan faces personal emotional crises, he shuts down or leaves town.
+What motivates this character?
+At this point in his life, Evan is motivated to keep his promise to his sister and maintain a 3.0-grade point average. He is also motivated to finish college so he can start his life. But during his college years, he is happy to embrace the experience and enjoy the benefits of campus life.
+Key Conflict:
+Internally, his conflict is knowing it is best to forgive his father, but he has no desire to let go of his resentment for what his father did. Externally, his conflict is getting Sarah to go all in on the relationship, like in the way that he has.
+How does the character change by the end of the novel?
+At the outset of Book 2, Evan is reeling from his divorce, believing he's lost his only chance at true love. In an attempt to still enjoy relationships while shielding himself from heartache, he devises a strategy: to engage in year-long relationships that capitalize on the early joys of romance but end them after a year to avoid perceived inevitable decline, regardless of their success.
+However, Evan's perspective shifts profoundly when he meets Chloe. Through her, he discovers that his heart is capable of loving again, and more profoundly, he recognizes Chloe as not just another love, but as his soulmate. This realization marks a turning point in his emotional journey, challenging his initial defensive strategy and opening him up to deeper, more meaningful connections.
+What is the character's role in the novel?
+Evan is a co-protagonist and the male love interest.
+Key Events:
+Evan devises a unique relationship strategy after his divorce, planning year-long relationships to experience the joys of new love without enduring their decline.
+His relationship with Maggie marks the first test of his plan, ending with Evan feeling the pain of breaking her heart.
+With Gabriella, Evan finds both similarities and differences compared to Maggie. Although caring deeply, he realizes he's not in love, leading to an even more painful breakup.
+Evan's life takes a significant turn when he meets Chloe. He falls deeply in love with her, but their romantic expression is delayed until after his relationship with Gabriella ends.
+He and Chloe embark on a &quot;Love Annually&quot; relationship, filled with pivotal moments. This relationship, unlike the others, ends with both Chloe and Evan suffering heartache.
+Post-breakup, a serious accident involving Chloe leads Evan to take charge of her recovery, deepening their bond.
+Frustrated with Chloe's hesitance to commit, Evan eventually ends their platonic relationship.
+The story culminates with Chloe and Evan's engagement, marking a new chapter in their lives.
+Beliefs:
+Evan believes in the guiding influence of the &quot;Universe&quot; on people's life experiences. While he surmises the Universe does not reveal its ultimate plan, he thinks it provides opportunities and signs to help humans navigate their journey.</Text>
+            <Notes>Summary 1 (125 words): Evan Vaughn, the epitome of a romantic novel's male lead, is a charismatic and physically fit 21-year-old. Standing 6'2&quot; and weighing 200 pounds, his lean, muscular frame reflects a professional athlete. His clean-cut medium-brown hair and hazel eyes complete his captivating appearance. Evan effortlessly balances casual and formal styles in his wardrobe, reflecting his laid-back yet put-together nature. A personal trainer passionate about fitness, he enjoys activities like hiking, running, biking, and weight training. Loyalty, respect, and romance define his personality, embodying the Hero archetype. Despite a tendency to withdraw during crises, Evan's journey is marked by growth, transformation, and an enduring commitment to love.
+Summary 2 (75 words): Evan Vaughn, a 21-year-old personal trainer, is the quintessential romantic hero. His 6'2&quot;, 200-pound frame boasts a lean, athletic build, complemented by hazel eyes and clean-cut medium-brown hair. Balanced between casual and formal styles, his wardrobe echoes his put-together yet easygoing demeanor. Evan's loyalty, respect, and romantic nature fit the Hero archetype, despite his struggles with withdrawal during crises. His journey, characterized by transformation and a firm commitment to love, unveils a deeper complexity beneath his captivating exterior.</Notes>
         </Document>
         <Document ID="EA9D28EE-64B4-4CA1-ABDE-991EA211A583">
             <Title>Prompts</Title>
@@ -2103,6 +2485,19 @@ Here is the part of the scene:
         <Document ID="ED39391F-AD4F-4070-9A5D-D6BDAC3C0515">
             <Title>Ideas</Title>
         </Document>
+        <Document ID="EDD52284-3893-4483-BEB6-48AAD7430FCF">
+            <Title>Evan Part 2 of 2</Title>
+            <Text>Introvert or Extrovert:
+Labeling Evan as an introvert or extrovert would be a mistake. Emotional duress might make him appear as an introvert, but that wasn't his typical state.
+Despite his popularity, affinity for meeting new people, and making friends, he might be considered an extrovert. But this wasn't the case.
+Evan preferred avoiding drawing attention to himself. He wasn't popular by choice, but his looks and warm personality made him so.
+Whether someone was the star quarterback or the worst student, Evan treated everyone kindly.
+He humbly accepted his popularity, never becoming arrogant or allowing it to inflate his ego.
+Character Description:
+Evan Vaughn embodies the epitome of a romantic novel's male protagonist. Standing at 6'2&quot; and weighing 200 pounds, his lean, muscular physique mirrors a professional athlete. His clean-cut medium-brown hair and hazel eyes complete the captivating look.
+Evan's wardrobe effortlessly balances casual and formal styles, allowing him to switch from laid-back jeans and T-shirts to smart slacks and suits, while staying true to his style. As a personal trainer, he's passionate about fitness and engages in various activities like hiking, running, biking, and weight training.
+Loyal, respectful, romantic, and polite, Evan's personality reflects the Hero archetype. He's non-confrontational and known for fidelity in relationships, a symbol of integrity and trust. However, his unwillingness to forgive his father and past trauma cause occasional withdrawal, leading to complex conflicts.</Text>
+        </Document>
         <Document ID="EF61C5A4-93D6-4BEA-B7FC-6BA1C3200AFB">
             <Title>Sandbox 4</Title>
         </Document>
@@ -2111,6 +2506,107 @@ Here is the part of the scene:
         </Document>
         <Document ID="F33F2768-2429-4D91-AFCC-091D9B14C99C">
             <Title>Liz</Title>
+            <Text>Character Profile:
+
+Name: Liz Bennett 
+
+Maiden Name: Liz Vaughn
+
+Gender: Female
+
+Age at start of book: 30
+
+Place of Birth: Glenview, Illinois
+
+Current residence: Glenview, Illinois
+
+Physical Attributes:
+- Resembles: Actress Lauren Graham 
+- Hair Color: Brown 
+- Hair Length: Medium-Long 
+- Hair Style: Wavy 
+- Eye Color: Brown 
+- Height: 5'7&quot; 
+- Weight: Average weight plus 5 to 10 pounds. 
+- Physical Appearance: 
+Liz Vaughn is a 30-year-old woman of average build, standing 5'7&quot; tall and carrying an extra 5 to 10 pounds beyond her average weight. Her face is framed by medium-long, wavy brown hair that cascades gently around her shoulders. Her eyes, a deep and warm shade of brown, exude kindness and wisdom, mirroring her nurturing personality. Her clothing choices lean conservative, often featuring business casual attire for her professional life. She wears dresses for special occasions and sometimes while working, reflecting a style that is modest but elegant. Her overall appearance conveys a sense of maturity and grace, in harmony with her role as a mentor and mother figure to many.  
+Clothing and Fashion Choices: 
+Conservative for both work and personal life.
+Business casual for professional life.
+She will wear dresses on special occasions and half the time when working.
+
+Personality Attributes:
+- Personality Traits:  
+In terms of brand archetypes, she could be considered a Sage as easily as she could be called a caregiver. She plays both of these roles in the lives of those she loves.
+Her Myers-Briggs archetype is INFP.
+She is a mentor and mother figure to many.
+She is compassionate and kind.
+
+- Strengths:  
+ Helpful
+Caring
+Compassionate
+Loving
+Reliable
+Nurturing
+
+-Likes: 
+Wine and coffee
+Socializing with friends and family
+Helping people with their problems
+
+Dislikes: 
+Rude people
+Manipulative people
+Social Media
+Falsely modest people
+Arrogant people 
+
+Catchphrases: 
+&quot;If it's meant to be, it will be.&quot;
+&quot;Things have a way of working out.&quot;
+&quot;Everything happens for a reason.&quot;
+
+
+Relationships: 
+- Evan: Liz's younger brother by two years. She practically raised him after his parents divorced, and his mom had to work two jobs to make ends meet. Liz is as much a mentor as a big sister and surrogate mom. They continue to have a close bond. The first person Evan calls in a crisis is Liz. She relishes that role and is always there for him.
+Their unshakable, unbreakable bond extended far beyond this event. As Evan's mother worked two jobs to make ends meet, Liz stepped in, taking on multiple roles. She became a big sister, a mentor, and a surrogate mother for Evan.
+Liz was always mature beyond her years. Even at 12 years old, she possessed the temperament and maturity of an adult. She embraced and thrived in her role, supporting Evan and their mom.
+Under Liz's guidance, Evan transformed from a resentful, hotheaded, rambunctious child and teen into a man everyone admired.
+She wished she could find a way to help Evan let go of his resentment and forgive his father.
+The love and respect between Liz and Evan were as deep as any bond between siblings. Each would do anything for the other.
+- Guido: Although not blood-related, Liz treats Guido like a younger brother.
+- Joe: In this book, Joe is her boyfriend but becomes her husband in the future.
+- Mom: Liz and her mom got along very well. They kept in touch regularly. did not have the kind of codependent relationship that some mothers often have with their eldest daughters. After Evan graduated high school, his mom found a man that she loved and married him. They moved out to where he lived in Northern California, which was too large of a distance for her to see her mom regularly. Love existed in that relationship, but neediness did not. 
+- Chloe: Liz met Chloe through her older sister Rebecca. Rebecca was a troubled freshman in college that Liz took under her wing. In the process, Liz met Chloe when she was 14 years old and they bonded instantly. The Chloe, Liz was like the mentoring big sister that she wished Rebecca was. To Liz, Chloe was like the little sister, for of love the potential that she always desired. As time went by, Liz and Chloe's relationship transformed into a strong friendship.
+
+
+Background/History:
+Education Background: 
+She earned her bachelor’s degree in business administration from Illinois State University.
+Family background: 
+Her parents got divorced when she was 12.
+Health History: 
+Overall, she is healthy.
+Howeve rshe suffers from fertility problems.
+
+
+Future Outlook:
+Aspirations/Dreams: Liz's dream is to have children, and live a very simple and happy life.
+  
+Role in the novel:
+In the novel, Liz's role is diverse and pivotal. She serves as a mentor to both Evan and Chloe, guiding them through their personal and professional challenges. As the operations manager of the corporation she co-owns with Evan, Liz steps in to buy out Sarah's shares following the divorce. Her leadership style is nurturing, making her an invaluable asset to her employees, whom she treats with a motherly care.
+
+Despite her role as the stable, matriarchal figure in the story, Liz faces her own trials, particularly her struggles with infertility, which strain her marriage. A significant contribution of Liz in Book 2 is her orchestration of a scenario that brings Chloe to Chicago. Liz's intention behind this move is to foster a meeting between Chloe and Evan, hoping it would ignite a romantic relationship between them.
+
+Beliefs: Liz has a strong moral compass and believes family is life’s most important part. 
+
+Character Description:
+Liz Vaughn, a 30-year-old woman from Glenview, Illinois, possessed a warm and nurturing presence. Standing at 5'7&quot;, she carried a comforting, average build with a hint of extra weight, adding to her approachable charm. Her brown eyes radiated kindness and wisdom, complementing her medium-long, wavy brown hair that gracefully framed her face. Liz's attire leaned towards conservative choices, favoring business casual for work and modest yet elegant dresses for special occasions. This demeanor reflected her role as a mentor and mother figure, portraying maturity and grace. She exuded a caring and reliable energy, a natural caregiver with a heart of gold.
+In terms of brand archetypes, Liz could be both a Sage and a caregiver, embodying these roles in her relationships. Her Myers-Briggs archetype was INFP, amplifying her compassionate and kind nature. As Evan's elder sister, mentor, and almost-mother, Liz's influence on him had been transformative. Her strength lay in being helpful, caring, compassionate, loving, reliable, and nurturing. She enjoyed wine, coffee, socializing, and assisting others, while disliking rudeness, manipulation, social media, falsely modest people, and arrogance. Her guiding phrases, &quot;If it's meant to be, it will be,&quot; &quot;Things have a way of working out,&quot; and &quot;Everything happens for a reason,&quot; encapsulated her optimistic outlook.
+Liz played a pivotal role in Evan's life, becoming his guardian when their parents divorced. Her supportive, unwavering presence significantly impacted Evan's growth from a resentful teen to an admirable man. Her life revolved around family and simplicity, encapsulated in her aspiration to marry, own a house, and raise a contented family. Liz's journey unfolded as she supported Evan, navigated love with Joe, and nurtured those around her while remaining steadfast in her core belief that family was paramount.
+
+</Text>
         </Document>
         <Document ID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC">
             <Title>Novel Format</Title>
