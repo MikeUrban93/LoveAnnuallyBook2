@@ -1,5 +1,11 @@
 # Changelog
 
+#### 0.0.1.5 - MAU `2024-02-03`
+1. Updated Outline for chapter 1
+2. Titled each scene in chapter 1 and created a synopsis for each scene.
+3. Adding coaches notes for the next session. The focus being on the new scenes I'll be adding to get Chloe into the story sooner.
+----
+
 #### 0.0.1.4 - MAU `2024-01-31`
 1. Created Outline for chapter 1
 2. Named the scenes and created the synopsis for chapter 1

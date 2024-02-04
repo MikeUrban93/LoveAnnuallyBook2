@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-01-31 07:44:00 -0500" ModID="1C576DCD-FDF5-4C43-8D76-91C059441FC9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-02-04 00:14:57 -0500" ModID="D423093B-6094-4364-A22C-72D054BCC7F2">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2023-08-23 17:56:51 -0500">
             <Title>Novel Format</Title>
@@ -542,13 +542,22 @@ Sarah's Junior Attorney</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="A9E90EDC-C2A2-4F94-B2D0-E5E82CCD95E8" Type="Text" Created="2024-01-29 06:56:04 -0500" Modified="2024-01-30 22:54:19 -0500">
+                        <BinderItem UUID="DEB84F62-9E8E-43AB-B32D-B522837897E5" Type="Text" Created="2024-02-03 23:09:54 -0500" Modified="2024-02-04 00:14:39 -0500">
                             <Title>Latest</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>88,0</TextSelection>
+                                <TextSelection>3503,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A9E90EDC-C2A2-4F94-B2D0-E5E82CCD95E8" Type="Text" Created="2024-01-29 06:56:04 -0500" Modified="2024-02-03 23:09:47 -0500">
+                            <Title>2024-02-01</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2019,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1767,13 +1776,13 @@ Sarah's Junior Attorney</Value>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="-468" Characters="-2552" Date="2024-01-31 07:44:00 -0500"/>
+        <PreviousSession Words="644" Characters="4399" Date="2024-02-04 00:14:57 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-01-31 00:00:00 -0500">
-        <DraftWordCount>-376</DraftWordCount>
-        <DraftCharCount>-1996</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2024-02-04 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>84</OtherWordCount>
+        <OtherCharCount>644</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
     <UserProjectData>
