@@ -26,7 +26,7 @@
 {\fonttbl{\f0\fnil\fcharset0\fprq2 Cambria-Bold;}}
 {\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
 \paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0
-\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sb120\sl262\slmult1\ltrch\loch {\f0\fs28\b1 Attributes}}]]></Format>
+\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sb120\sl262\slmult1\ltrch\loch {\f0\fs28\b1\i0 Attributes}}]]></Format>
     </Style>
     <Style ID="AC4A3E37-183E-49E8-A47C-88AC9114BFF2" Name="Blue Section Heading" Type="Para+Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
@@ -198,10 +198,10 @@
     </Style>
     <Style ID="7CCBF636-BE48-4955-AE47-730199F07B7D" Name="1.1.4 Template Bullets" Next="19681C9B-BB4E-4C32-A04F-5B05D84353D7" Type="Para+Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 Tahoma;}}
+{\fonttbl{\f0\fmodern\fcharset0\fprq2 Tahoma;}}
 {\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
 \paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs22\cf0
-\pard\plain \tx235\tx720\li576\fi-216\sl264\slmult1\ltrch\loch {\f0\fs22\b0\i0 Attributes}}]]></Format>
+\pard\plain \tx235\tx720\li576\fi-216\sa60\sl264\slmult1\ltrch\loch {\f0\fs22\b0 Attributes}}]]></Format>
     </Style>
     <Style ID="FBB81FE6-E169-49C5-BF38-4ECC2B764F90" Name="1.0 Template Title" Next="19681C9B-BB4E-4C32-A04F-5B05D84353D7" Type="Para+Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
@@ -307,5 +307,12 @@
 {\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red255\green38\blue29;}
 \paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0
 \pard\plain \tx955\tx1440\li1440\fi-500\sa120\sl264\slmult1\ltrch\loch {\f0\fs28\b0\i1\cf4 Attributes}}]]></Format>
+    </Style>
+    <Style ID="6752EB1B-B67F-407D-9DC1-6157EF402AFC" Name="Scene Title" Type="Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Cambria-Bold;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0
+\pard\plain \ql\ltrch\loch {\f0\fs32\b1 <$Scr_H::2>Attributes<!$Scr_H::2>}}]]></Format>
     </Style>
 </Styles>

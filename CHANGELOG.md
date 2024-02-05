@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.1.6 - MAU `2024-02-04`
+1. Updated Outline for chapter 1
+2. Drafted scenes up to "Evan's Demand for Answers"
+----
+
 #### 0.0.1.5 - MAU `2024-02-03`
 1. Updated Outline for chapter 1
 2. Titled each scene in chapter 1 and created a synopsis for each scene.
