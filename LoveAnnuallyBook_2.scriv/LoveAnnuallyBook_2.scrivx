@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-02-04 21:26:56 -0500" ModID="CA57D9F1-9AD1-40D6-BA03-D7CE9A0C4EB7">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-02-06 10:32:26 -0500" ModID="05B7D5B9-22CA-48BC-8CD1-7FD5390B0732">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2023-08-23 17:56:51 -0500">
             <Title>Novel Format</Title>
@@ -33,7 +33,7 @@
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>550,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="B2839424-059D-440D-A829-63B5E15FE05C" Type="Text" Created="2024-01-28 20:12:14 -0500" Modified="2024-02-04 12:21:32 -0500">
@@ -110,7 +110,7 @@ Sarah's Junior Attorney</Value>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5473,0</TextSelection>
+                                <TextSelection>1919,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="B3993843-A51F-4D80-AE15-4953CD3E69E9" Type="Text" Created="2024-01-28 20:11:50 -0500" Modified="2024-02-04 21:17:20 -0500">
@@ -131,10 +131,10 @@ Sarah's Junior Attorney</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1252,0</TextSelection>
+                                <TextSelection>741,857</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C2DD71B5-666D-4ED4-B7E5-F861D3DAFEF7" Type="Text" Created="2024-02-04 17:59:27 -0500" Modified="2024-02-04 18:00:25 -0500">
+                        <BinderItem UUID="C2DD71B5-666D-4ED4-B7E5-F861D3DAFEF7" Type="Text" Created="2024-02-04 17:59:27 -0500" Modified="2024-02-05 22:27:17 -0500">
                             <Title>Understanding and Goodbyes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -144,14 +144,14 @@ Sarah's Junior Attorney</Value>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="905A1824-FD11-4602-A731-C632308757D9" Type="Text" Created="2024-01-31 00:40:25 -0500" Modified="2024-01-31 00:41:54 -0500">
+                        <BinderItem UUID="905A1824-FD11-4602-A731-C632308757D9" Type="Text" Created="2024-01-31 00:40:25 -0500" Modified="2024-02-06 10:31:44 -0500">
                             <Title>The Last Kiss</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1107,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -248,7 +248,7 @@ Sarah's Junior Attorney</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6238,0</TextSelection>
+                                <TextSelection>6340,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="18B8DBED-8BEA-404A-B62E-C528AF1640E3" Type="Text" Created="2024-01-29 08:31:45 -0500" Modified="2024-02-04 16:57:40 -0500">
@@ -278,7 +278,7 @@ Sarah's Junior Attorney</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3842,0</TextSelection>
+                                <TextSelection>670,1409</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="A31A0407-2F4D-46FF-86CB-FFECCAB783D9" Type="Text" Created="2024-02-04 18:37:25 -0500" Modified="2024-02-04 19:43:25 -0500">
@@ -307,29 +307,80 @@ Sarah's Junior Attorney</Value>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection Caret="984">983,1</TextSelection>
+                                        <TextSelection>501,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="8587C7AD-57F6-4E90-B5CA-D99B7148BAA5" Type="Text" Created="2024-01-29 08:31:45 -0500" Modified="2024-02-04 17:58:37 -0500">
+                        <BinderItem UUID="8587C7AD-57F6-4E90-B5CA-D99B7148BAA5" Type="Text" Created="2024-01-29 08:31:45 -0500" Modified="2024-02-05 21:53:38 -0500">
                             <Title>Understanding and Goodbyes</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection Caret="1254">0,1254</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2386,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="7B3F938B-975F-4F0E-9E9E-1ACB2700568C" Type="Text" Created="2024-02-05 19:43:46 -0500" Modified="2024-02-05 21:28:13 -0500">
+                                    <Title>Entire Scene</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>1254,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2548,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem UUID="1BF9B526-05DF-407D-9688-2981CA06AD3C" Type="Text" Created="2024-01-30 23:54:02 -0500" Modified="2024-01-31 00:38:00 -0500">
+                        <BinderItem UUID="1BF9B526-05DF-407D-9688-2981CA06AD3C" Type="Text" Created="2024-01-30 23:54:02 -0500" Modified="2024-02-06 00:33:15 -0500">
                             <Title>The Last Kiss</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection Caret="5903">0,5903</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E40F609C-888D-43E0-940C-78C8C0EA0997" Type="Text" Created="2024-02-05 23:06:06 -0500" Modified="2024-02-06 00:23:20 -0500">
+                                    <Title>Dialogue Only</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>4034,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="2FEF65FA-ACCC-4019-A47E-079D34836ECB" Type="Text" Created="2024-02-05 23:42:41 -0500" Modified="2024-02-06 00:00:40 -0500">
+                                    <Title>Beginning</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>427,344</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="203690B4-6844-47DE-893A-8B661AD44BA9" Type="Text" Created="2024-02-06 00:22:21 -0500" Modified="2024-02-06 00:48:33 -0500">
+                                    <Title>Middle</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>307,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="1B58DB71-30AD-4E9C-B5A8-2CD4BB472F09" Type="Text" Created="2024-02-06 07:54:53 -0500" Modified="2024-02-06 08:32:50 -0500">
+                                    <Title>End</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection Caret="3370">0,3370</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -354,31 +405,31 @@ Sarah's Junior Attorney</Value>
                         <TextSelection>735,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C63C3AC8-F09A-4549-AC9B-F896A5C0DA1E" Type="Text" Created="2024-01-28 03:48:16 -0500" Modified="2024-01-28 03:56:34 -0500">
+                <BinderItem UUID="C63C3AC8-F09A-4549-AC9B-F896A5C0DA1E" Type="Text" Created="2024-01-28 03:48:16 -0500" Modified="2024-02-06 07:21:13 -0500">
                     <Title>Sandbox 2</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>97,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="BCE954BA-B698-4DBB-BC16-043C3CB680A0" Type="Text" Created="2024-01-28 03:48:19 -0500" Modified="2024-01-28 03:56:34 -0500">
+                <BinderItem UUID="BCE954BA-B698-4DBB-BC16-043C3CB680A0" Type="Text" Created="2024-01-28 03:48:19 -0500" Modified="2024-02-06 09:30:16 -0500">
                     <Title>Sandbox 3</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>6670,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="EF61C5A4-93D6-4BEA-B7FC-6BA1C3200AFB" Type="Text" Created="2024-01-28 03:48:24 -0500" Modified="2024-01-28 03:56:34 -0500">
-                    <Title>Sandbox 4</Title>
+                <BinderItem UUID="EF61C5A4-93D6-4BEA-B7FC-6BA1C3200AFB" Type="Text" Created="2024-01-28 03:48:24 -0500" Modified="2024-02-06 08:34:24 -0500">
+                    <Title>SceneProfile</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>429,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -573,13 +624,13 @@ Sarah's Junior Attorney</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="DEB84F62-9E8E-43AB-B32D-B522837897E5" Type="Text" Created="2024-02-03 23:09:54 -0500" Modified="2024-02-04 00:14:39 -0500">
-                            <Title>Latest</Title>
+                        <BinderItem UUID="DEB84F62-9E8E-43AB-B32D-B522837897E5" Type="Text" Created="2024-02-03 23:09:54 -0500" Modified="2024-02-05 17:51:45 -0500">
+                            <Title>2014-02-06</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3503,0</TextSelection>
+                                <TextSelection>4076,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="A9E90EDC-C2A2-4F94-B2D0-E5E82CCD95E8" Type="Text" Created="2024-01-29 06:56:04 -0500" Modified="2024-02-03 23:09:47 -0500">
@@ -588,7 +639,7 @@ Sarah's Junior Attorney</Value>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2019,0</TextSelection>
+                                <TextSelection>0,87</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1074,7 +1125,7 @@ Sarah's Junior Attorney</Value>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="7EF2ED7F-D31E-4D93-9FFA-AF8B639D7143" Type="Folder" Created="2023-08-24 03:48:59 -0500" Modified="2024-02-04 19:03:47 -0500">
+                                <BinderItem UUID="7EF2ED7F-D31E-4D93-9FFA-AF8B639D7143" Type="Folder" Created="2023-08-24 03:48:59 -0500" Modified="2024-02-05 23:16:10 -0500">
                                     <Title>AI Template</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1084,22 +1135,31 @@ Sarah's Junior Attorney</Value>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="67B9C551-981F-4876-A159-B6FD6915764B" Type="Text" Created="2023-08-24 03:49:59 -0500" Modified="2024-02-04 19:27:55 -0500">
+                                        <BinderItem UUID="F0A39CAB-4597-4888-B86B-BBAA0BA08D66" Type="Text" Created="2024-02-05 19:44:59 -0500" Modified="2024-02-05 19:53:50 -0500">
+                                            <Title>Entire Scene</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>62,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="67B9C551-981F-4876-A159-B6FD6915764B" Type="Text" Created="2023-08-24 03:49:59 -0500" Modified="2024-02-05 23:42:09 -0500">
                                             <Title>Part 1 : The Beginning</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection Caret="471">0,471</TextSelection>
+                                                <TextSelection Caret="535">0,535</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="37B9691F-7982-4142-964A-6C5950D6FC7A" Type="Text" Created="2023-08-24 06:33:30 -0500" Modified="2024-02-04 20:21:53 -0500">
+                                        <BinderItem UUID="37B9691F-7982-4142-964A-6C5950D6FC7A" Type="Text" Created="2023-08-24 06:33:30 -0500" Modified="2024-02-06 00:22:00 -0500">
                                             <Title>Part 2 : The Middle</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,247</TextSelection>
+                                                <TextSelection Caret="510">0,510</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="416A9877-E36B-4E9B-8D6C-EAD4FF0424A3" Type="Text" Created="2023-08-24 06:34:36 -0500" Modified="2023-08-29 06:22:52 -0500">
@@ -1826,13 +1886,13 @@ Sarah's Junior Attorney</Value>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="7285" Characters="43779" Date="2024-02-04 21:26:56 -0500"/>
+        <PreviousSession Words="3562" Characters="20696" Date="2024-02-06 10:32:26 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-02-04 00:00:00 -0500">
-        <DraftWordCount>2906</DraftWordCount>
-        <DraftCharCount>17529</DraftCharCount>
-        <OtherWordCount>4463</OtherWordCount>
-        <OtherCharCount>26894</OtherCharCount>
+    <RecentWritingHistory Date="2024-02-06 00:00:00 -0500">
+        <DraftWordCount>1772</DraftWordCount>
+        <DraftCharCount>10004</DraftCharCount>
+        <OtherWordCount>2856</OtherWordCount>
+        <OtherCharCount>16771</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
     <UserProjectData>
