@@ -2,7 +2,7 @@
 <CompileSettings>
     <ProjectSettings>
         <Content Scope="Included" IncludeSelectionDescendants="Yes">
-            <CompileGroup Type="BinderItem">0B73045B-CCE5-49EC-A463-E35C5A7A155A</CompileGroup>
+            <CompileGroup Type="BinderItem">4A1D6B18-0952-42EB-A487-D17915DD3BA1</CompileGroup>
             <Filter State="Off" Exclude="No" Type="Label">
                 <Label>-1</Label>
             </Filter>
@@ -569,7 +569,7 @@
     <LastUsedFormats>
         <Fountain>script-screenplay</Fountain>
         <Print>manuscript-times</Print>
-        <docx>8E28AFA8-C934-4334-B437-AA436F4E45F9</docx>
+        <docx>97C76D9E-C48F-400C-A512-D0B76A52EB09</docx>
         <epub2>e-book-legacy</epub2>
         <epub3>e-book</epub3>
         <fdx>script-screenplay</fdx>

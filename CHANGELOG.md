@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.1.7 - MAU `2024-02-07`
+1. Created Outline and Synopsis' for chapter 2
+2. Drafted Scene: "Evan is Ready to Share his Plan"
+----
+
 #### 0.0.1.6 - MAU `2024-02-04`
 1. Updated Outline for chapter 1
 2. Drafted scenes up to "Evan's Demand for Answers"
