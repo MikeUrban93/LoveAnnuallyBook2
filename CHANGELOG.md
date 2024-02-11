@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.1.8 - MAU `2024-02-11`
+1. Just finished first draft of "Evan Reveals Love, Annually Plan"
+----
+
 #### 0.0.1.7 - MAU `2024-02-07`
 1. Created Outline and Synopsis' for chapter 2
 2. Drafted Scene: "Evan is Ready to Share his Plan"
