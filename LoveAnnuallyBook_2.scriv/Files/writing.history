@@ -8,5 +8,9 @@
     <Day dwc="2906" dcc="17529" dtwc="2466" owc="5096" occ="30919" dtcc="14843">2024-02-04</Day>
     <Day dwc="665" dcc="3931" dtwc="3131" owc="3374" occ="19714" dtcc="18774">2024-02-05</Day>
     <Day dwc="1812" dcc="10211" owc="2856" occ="16772">2024-02-06</Day>
-    <Day dwc="-162" dcc="-753" owc="3483" occ="22251">2024-02-07</Day>
+    <Day dwc="-162" dcc="-753" dtwc="5283" owc="4673" occ="29370" dtcc="31144">2024-02-07</Day>
+    <Day dwc="2512" dcc="15575" dtwc="7795" owc="2590" occ="15804" dtcc="46719">2024-02-08</Day>
+    <Day dwc="0" dcc="0" owc="7763" occ="47394">2024-02-09</Day>
+    <Day dwc="0" dcc="0" dtwc="7795" owc="-7686" occ="-47294" dtcc="46719">2024-02-10</Day>
+    <Day dwc="5260" dcc="30240" owc="5260" occ="29309">2024-02-11</Day>
 </WritingHistory>
