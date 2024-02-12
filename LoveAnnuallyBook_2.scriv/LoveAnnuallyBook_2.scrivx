@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-02-11 21:00:18 -0500" ModID="832E726E-F60E-4D66-8392-B2606231C7D2">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-02-12 06:53:48 -0500" ModID="FFB02F9A-C1A0-4D43-B076-B89637FB269F">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2024-02-06 11:51:54 -0500">
             <Title>Novel Format</Title>
@@ -26,7 +26,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="E1AB95C8-33ED-4D28-9282-EB60AC685A32" Type="Text" Created="2024-01-31 07:14:38 -0500" Modified="2024-02-11 15:45:27 -0500">
+                        <BinderItem UUID="E1AB95C8-33ED-4D28-9282-EB60AC685A32" Type="Text" Created="2024-01-31 07:14:38 -0500" Modified="2024-02-12 06:50:25 -0500">
                             <Title>Why?</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
@@ -43,7 +43,7 @@
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
-                                        <Value>2013-02-06 09:01:00</Value>
+                                        <Value>2013-09-21 09:01:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
@@ -75,7 +75,7 @@ Sarah's Junior Attorney</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
-                                        <Value>2013-02-06 09:00:00</Value>
+                                        <Value>2013-09-21 09:00:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>weather</FieldID>
@@ -88,17 +88,17 @@ Sarah's Junior Attorney</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>772,0</TextSelection>
+                                <TextSelection>0,51</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>38</KeywordID>
                                 <KeywordID>7</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="B2839424-059D-440D-A829-63B5E15FE05C" Type="Text" Created="2024-01-28 20:12:14 -0500" Modified="2024-02-11 15:45:42 -0500">
+                        <BinderItem UUID="B2839424-059D-440D-A829-63B5E15FE05C" Type="Text" Created="2024-01-28 20:12:14 -0500" Modified="2024-02-12 06:50:25 -0500">
                             <Title>Broken Vow</Title>
                             <MetaData>
-                                <LabelID>5</LabelID>
+                                <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
                                 <NotesTextSelection>195,0</NotesTextSelection>
@@ -113,7 +113,7 @@ Sarah's Junior Attorney</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
-                                        <Value>2013-02-06 09:02:00</Value>
+                                        <Value>2013-09-21 09:02:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
@@ -145,7 +145,7 @@ Liz</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
-                                        <Value>2013-02-06 09:01:00</Value>
+                                        <Value>2013-09-21 09:01:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>weather</FieldID>
@@ -167,7 +167,7 @@ Liz</Value>
                                 <KeywordID>33</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="BB7E0CB4-7B55-4CA0-BE21-3655A0FA066F" Type="Text" Created="2024-01-28 20:11:50 -0500" Modified="2024-02-11 15:46:01 -0500">
+                        <BinderItem UUID="BB7E0CB4-7B55-4CA0-BE21-3655A0FA066F" Type="Text" Created="2024-01-28 20:11:50 -0500" Modified="2024-02-12 06:50:25 -0500">
                             <Title>Crossroads of the Heart</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
@@ -184,7 +184,7 @@ Liz</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
-                                        <Value>2013-02-06 09:03:00</Value>
+                                        <Value>2013-09-21 09:03:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
@@ -217,7 +217,7 @@ Sarah's Junior Attorney</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
-                                        <Value>2013-02-06 09:02:00</Value>
+                                        <Value>2013-09-21 09:02:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>weather</FieldID>
@@ -239,7 +239,7 @@ Sarah's Junior Attorney</Value>
                                 <KeywordID>33</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="B3993843-A51F-4D80-AE15-4953CD3E69E9" Type="Text" Created="2024-01-28 20:11:50 -0500" Modified="2024-02-11 15:46:13 -0500">
+                        <BinderItem UUID="B3993843-A51F-4D80-AE15-4953CD3E69E9" Type="Text" Created="2024-01-28 20:11:50 -0500" Modified="2024-02-12 06:50:25 -0500">
                             <Title>Evan Demands Answers</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
@@ -256,7 +256,7 @@ Sarah's Junior Attorney</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
-                                        <Value>2013-02-06 09:09:00</Value>
+                                        <Value>2013-09-21 09:09:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
@@ -288,7 +288,7 @@ Evan</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
-                                        <Value>2013-02-06 09:06:00</Value>
+                                        <Value>2013-09-21 09:06:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>weather</FieldID>
@@ -309,7 +309,7 @@ Evan</Value>
                                 <KeywordID>51</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="C2DD71B5-666D-4ED4-B7E5-F861D3DAFEF7" Type="Text" Created="2024-02-04 17:59:27 -0500" Modified="2024-02-11 15:46:21 -0500">
+                        <BinderItem UUID="C2DD71B5-666D-4ED4-B7E5-F861D3DAFEF7" Type="Text" Created="2024-02-04 17:59:27 -0500" Modified="2024-02-12 06:50:25 -0500">
                             <Title>Understanding and Goodbyes</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
@@ -326,7 +326,7 @@ Evan</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
-                                        <Value>2013-02-06 09:14:00</Value>
+                                        <Value>2013-09-21 09:14:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
@@ -351,7 +351,7 @@ Liz</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
-                                        <Value>2013-02-06 09:09:00</Value>
+                                        <Value>2013-09-21 09:09:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>weather</FieldID>
@@ -371,7 +371,7 @@ Liz</Value>
                                 <KeywordID>11</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="905A1824-FD11-4602-A731-C632308757D9" Type="Text" Created="2024-01-31 00:40:25 -0500" Modified="2024-02-11 15:47:10 -0500">
+                        <BinderItem UUID="905A1824-FD11-4602-A731-C632308757D9" Type="Text" Created="2024-01-31 00:40:25 -0500" Modified="2024-02-12 06:50:25 -0500">
                             <Title>The Last Kiss</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
@@ -388,7 +388,7 @@ Liz</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
-                                        <Value>2013-02-06 09:19:00</Value>
+                                        <Value>2013-09-21 09:19:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
@@ -417,7 +417,7 @@ Sarah</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
-                                        <Value>2013-02-06 09:14:00</Value>
+                                        <Value>2013-09-21 09:14:00</Value>
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>weather</FieldID>
@@ -445,6 +445,7 @@ Sarah</Value>
                 <BinderItem UUID="E617A499-C465-4623-9394-B7D7DFDAD0A3" Type="Folder" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-07 20:13:58 -0500">
                     <Title>Chapter - The Love, Annually Plan is Created</Title>
                     <MetaData>
+                        <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <SectionType>417A6CCE-D4E1-44BA-9A8D-038360B4B905</SectionType>
                     </MetaData>
@@ -452,75 +453,418 @@ Sarah</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="22A943EE-F561-4401-A312-8269D601B395" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-11 15:46:40 -0500">
+                        <BinderItem UUID="22A943EE-F561-4401-A312-8269D601B395" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-12 06:53:02 -0500">
                             <Title>Evan is Ready to Share his Plan</Title>
                             <MetaData>
+                                <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                        <Value>LARS</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                        <Value>5</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                        <Value>2014-10-17 17:05:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                        <Value>Evan</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                        <Value>Chicagoland</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                        <Value>3</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                        <Value>2014-10-17 17:00:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>weather</FieldID>
+                                        <Value>10</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                        <Value>Evan's Landcruiser</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>787,0</TextSelection>
+                                <TextSelection>79,0</TextSelection>
                             </TextSettings>
+                            <Keywords>
+                                <KeywordID>54</KeywordID>
+                                <KeywordID>53</KeywordID>
+                                <KeywordID>14</KeywordID>
+                                <KeywordID>19</KeywordID>
+                                <KeywordID>27</KeywordID>
+                                <KeywordID>38</KeywordID>
+                            </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="D1F0E34E-0627-4506-A4C0-F5EC5B31EC7F" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-11 15:47:57 -0500">
+                        <BinderItem UUID="D1F0E34E-0627-4506-A4C0-F5EC5B31EC7F" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-12 06:50:25 -0500">
                             <Title>Poker Host Liz Breaks For Chloe</Title>
                             <MetaData>
+                                <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                        <Value>Liz and Chloe</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                        <Value>4</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                        <Value>2014-10-17 17:05:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                        <Value>Liz
+Chloe</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                        <Value>Glenview</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                        <Value>2014-10-17 17:00:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>weather</FieldID>
+                                        <Value>11</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                        <Value>Bennett Residence</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>759,0</TextSelection>
                             </TextSettings>
+                            <Keywords>
+                                <KeywordID>27</KeywordID>
+                                <KeywordID>11</KeywordID>
+                                <KeywordID>12</KeywordID>
+                                <KeywordID>33</KeywordID>
+                            </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="FC34E798-49E5-4FFE-9B6F-F87FA59EE3E9" Type="Text" Created="2024-02-08 01:07:28 -0500" Modified="2024-02-11 15:48:08 -0500">
-                            <Title> Evan Preps Liz for His Plan Unveiling</Title>
+                        <BinderItem UUID="FC34E798-49E5-4FFE-9B6F-F87FA59EE3E9" Type="Text" Created="2024-02-08 01:07:28 -0500" Modified="2024-02-12 06:53:46 -0500">
+                            <Title>Evan Preps Liz for His Plan Unveiling</Title>
                             <MetaData>
+                                <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                        <Value>LARS
+Evan and Liz</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                        <Value>4</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                        <Value>2014-10-17 18:15:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                        <Value>Evan
+Liz</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                        <Value>Glenview</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                        <Value>2014-10-17 18:00:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                        <Value>Bennett Residence</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>819,0</TextSelection>
                             </TextSettings>
+                            <Keywords>
+                                <KeywordID>14</KeywordID>
+                                <KeywordID>19</KeywordID>
+                                <KeywordID>27</KeywordID>
+                                <KeywordID>53</KeywordID>
+                                <KeywordID>15</KeywordID>
+                            </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="8CF2EC9A-7578-480C-A717-F73A19E9E789" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-11 15:48:26 -0500">
+                        <BinderItem UUID="8CF2EC9A-7578-480C-A717-F73A19E9E789" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-12 06:50:25 -0500">
                             <Title>Meet the Poker Gang</Title>
                             <MetaData>
+                                <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                        <Value>LARS</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                        <Value>7</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                        <Value>2014-10-17 18:30:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                        <Value>80</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                        <Value>Evan
+Liz
+Joe
+Guido
+Alicia
+Abe</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                        <Value>Glenview</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                        <Value>2014-10-17 18:15:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>weather</FieldID>
+                                        <Value>11</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                        <Value>Bennett Residence</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>4956,0</TextSelection>
                             </TextSettings>
+                            <Keywords>
+                                <KeywordID>12</KeywordID>
+                                <KeywordID>33</KeywordID>
+                                <KeywordID>14</KeywordID>
+                                <KeywordID>19</KeywordID>
+                                <KeywordID>11</KeywordID>
+                            </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="0253FDDA-117D-40A9-B93B-638804375E57" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-11 15:49:06 -0500">
+                        <BinderItem UUID="0253FDDA-117D-40A9-B93B-638804375E57" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-12 06:50:25 -0500">
                             <Title>Evan Reveals Love, Annually Plan</Title>
                             <MetaData>
+                                <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                        <Value>LARS</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                        <Value>3</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                        <Value>2014-10-17 19:30:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                        <Value>80</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                        <Value>Evan
+Liz
+Joe
+Guido
+Alicia
+Abe</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                        <Value>Glenview</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                        <Value>2014-10-17 18:30:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>weather</FieldID>
+                                        <Value>11</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                        <Value>Bennett Residence</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>18895,0</TextSelection>
                             </TextSettings>
+                            <Keywords>
+                                <KeywordID>38</KeywordID>
+                                <KeywordID>33</KeywordID>
+                                <KeywordID>14</KeywordID>
+                                <KeywordID>7</KeywordID>
+                                <KeywordID>19</KeywordID>
+                                <KeywordID>13</KeywordID>
+                                <KeywordID>51</KeywordID>
+                                <KeywordID>20</KeywordID>
+                                <KeywordID>8</KeywordID>
+                                <KeywordID>11</KeywordID>
+                                <KeywordID>53</KeywordID>
+                            </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="63165E79-3AF1-4E7C-842B-DDEF0A32087D" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-11 15:52:36 -0500">
+                        <BinderItem UUID="63165E79-3AF1-4E7C-842B-DDEF0A32087D" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-12 06:50:25 -0500">
                             <Title>Love, Annually Gets a Rulebook</Title>
                             <MetaData>
+                                <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                        <Value>LARS</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                        <Value>4</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                        <Value>2014-10-17 20:00:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                        <Value>50</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                        <Value>Evan
+Liz
+Joe
+Guido
+Alicia
+Abe</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>5</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                        <Value>Glenview</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                        <Value>2014-10-17 19:30:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>weather</FieldID>
+                                        <Value>11</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                        <Value>Bennett Residence</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>6443,0</TextSelection>
                             </TextSettings>
+                            <Keywords>
+                                <KeywordID>14</KeywordID>
+                                <KeywordID>19</KeywordID>
+                                <KeywordID>27</KeywordID>
+                                <KeywordID>11</KeywordID>
+                                <KeywordID>53</KeywordID>
+                            </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="BC7C1716-9BE8-45ED-AAC1-32F8197787D9" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-11 15:40:57 -0500">
-                            <Title> Official Rules and Guidelines</Title>
+                        <BinderItem UUID="BC7C1716-9BE8-45ED-AAC1-32F8197787D9" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-12 06:50:25 -0500">
+                            <Title>Official Rules and Guidelines</Title>
                             <MetaData>
+                                <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                        <Value>2014-10-17 20:00:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                        <Value>2014-10-17 20:00:00</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>1455,0</TextSelection>
                             </TextSettings>
+                            <Keywords>
+                                <KeywordID>11</KeywordID>
+                                <KeywordID>53</KeywordID>
+                            </Keywords>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1241,7 +1585,7 @@ Sarah's Junior Attorney</Value>
                                 <NotesTextSelection Caret="1254">0,1254</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1086,0</TextSelection>
+                                <TextSelection>1151,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="DEB84F62-9E8E-43AB-B32D-B522837897E5" Type="Text" Created="2024-02-03 23:09:54 -0500" Modified="2024-02-11 20:16:01 -0500">
@@ -1343,7 +1687,7 @@ Sarah's Junior Attorney</Value>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="E011BA91-5090-4CDA-B6C0-E72D6C7A342B" Type="Folder" Created="2024-01-28 16:46:24 -0500" Modified="2024-01-28 16:46:36 -0500">
+                <BinderItem UUID="E011BA91-5090-4CDA-B6C0-E72D6C7A342B" Type="Folder" Created="2024-01-28 16:46:24 -0500" Modified="2024-02-12 06:23:32 -0500">
                     <Title>Character Profiles</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1417,36 +1761,6 @@ Sarah's Junior Attorney</Value>
                                 <TextSelection>79,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5C3369BF-E1EA-414A-A269-EBAF0E3478C2" Type="Text" Created="2024-02-08 13:08:07 -0500" Modified="2024-02-08 13:21:33 -0500">
-                            <Title>Guido</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <IconFileName>Characters (Character Sheet)</IconFileName>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                <NotesTextSelection>0,201</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection Caret="5351">5344,7</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="52630E58-713A-466B-9A37-A3B4186B45B3" Type="Text" Created="2024-02-08 13:23:46 -0500" Modified="2024-02-08 13:32:34 -0500">
-                            <Title>Alicia</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>107,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="6D6F4E61-C708-4C13-BF90-D178C15A5A54" Type="Text" Created="2024-02-08 13:33:35 -0500" Modified="2024-02-08 13:47:03 -0500">
-                            <Title>Abe</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>416,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem UUID="FAFB08FE-64A5-4758-B469-4E426FEBD5D8" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-01-28 20:13:20 -0500">
                             <Title>Evan's Attorney</Title>
                             <MetaData>
@@ -1469,6 +1783,49 @@ Sarah's Junior Attorney</Value>
                         </BinderItem>
                         <BinderItem UUID="08F4A677-5E29-4144-B664-FC7926579863" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-01-28 20:13:20 -0500">
                             <Title>Sarah's Junior Attorney</Title>
+                            <MetaData>
+                                <LabelID>11</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5C3369BF-E1EA-414A-A269-EBAF0E3478C2" Type="Text" Created="2024-02-08 13:08:07 -0500" Modified="2024-02-08 13:21:33 -0500">
+                            <Title>Guido</Title>
+                            <MetaData>
+                                <LabelID>11</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <NotesTextSelection>0,201</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="5351">5344,7</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="52630E58-713A-466B-9A37-A3B4186B45B3" Type="Text" Created="2024-02-08 13:23:46 -0500" Modified="2024-02-08 13:32:34 -0500">
+                            <Title>Alicia</Title>
+                            <MetaData>
+                                <LabelID>11</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>107,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6D6F4E61-C708-4C13-BF90-D178C15A5A54" Type="Text" Created="2024-02-08 13:33:35 -0500" Modified="2024-02-08 13:47:03 -0500">
+                            <Title>Abe</Title>
+                            <MetaData>
+                                <LabelID>11</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>416,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="856EB9F0-1ADF-4D6E-BF28-5590793BE794" Type="Text" Created="2024-02-12 06:19:30 -0500" Modified="2024-02-12 06:23:32 -0500">
+                            <Title>Chloe</Title>
                             <MetaData>
                                 <LabelID>11</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1559,8 +1916,8 @@ Sarah's Junior Attorney</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="FBD56B84-10E6-490B-90DB-095A93B07191" Type="Text" Created="2024-01-28 20:13:37 -0500" Modified="2024-01-28 20:13:37 -0500">
-                    <Title>LARS Rules and Regs</Title>
+                <BinderItem UUID="FBD56B84-10E6-490B-90DB-095A93B07191" Type="Text" Created="2024-01-28 20:13:37 -0500" Modified="2024-02-12 06:19:05 -0500">
+                    <Title>LARS</Title>
                     <MetaData>
                         <LabelID>7</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1571,6 +1928,26 @@ Sarah's Junior Attorney</Value>
                 </BinderItem>
                 <BinderItem UUID="A9162DD2-3C78-42F0-A443-E8535AEEC23C" Type="Text" Created="2024-01-28 20:13:37 -0500" Modified="2024-01-28 20:13:37 -0500">
                     <Title>Evan And Sarah</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BC3E2B0A-3FB7-41D9-B0AF-8B88375CDB7F" Type="Text" Created="2024-02-12 06:19:05 -0500" Modified="2024-02-12 06:19:05 -0500">
+                    <Title>Liz and Chloe</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9E22809A-0953-44A3-8D13-F9D092081489" Type="Text" Created="2024-02-12 06:39:42 -0500" Modified="2024-02-12 06:39:42 -0500">
+                    <Title>Evan and Liz</Title>
                     <MetaData>
                         <LabelID>7</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1591,7 +1968,7 @@ Sarah's Junior Attorney</Value>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="4E16C9ED-B285-4910-8ABF-760D80C2C737" Type="Folder" Created="2024-01-28 03:51:32 -0500" Modified="2024-01-28 16:47:25 -0500">
+                <BinderItem UUID="4E16C9ED-B285-4910-8ABF-760D80C2C737" Type="Folder" Created="2024-01-28 03:51:32 -0500" Modified="2024-02-12 06:23:32 -0500">
                     <Title>Locations</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1622,6 +1999,16 @@ Sarah's Junior Attorney</Value>
                         </BinderItem>
                         <BinderItem UUID="1ACB57B9-C3E8-4856-A5A6-CA984A621F5F" Type="Text" Created="2024-01-28 20:13:46 -0500" Modified="2024-01-28 20:13:46 -0500">
                             <Title>Wisconsin</Title>
+                            <MetaData>
+                                <LabelID>15</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="88EC48CA-AC61-47F6-899E-76898471B43F" Type="Text" Created="2024-02-12 06:19:49 -0500" Modified="2024-02-12 06:23:32 -0500">
+                            <Title>Glenview</Title>
                             <MetaData>
                                 <LabelID>15</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1664,6 +2051,7 @@ Sarah's Junior Attorney</Value>
                         <BinderItem UUID="14282864-8B12-49EC-9ED4-9617908743E8" Type="Text" Created="2024-02-07 20:19:44 -0500" Modified="2024-02-07 20:30:24 -0500">
                             <Title>Evan's Landcruiser</Title>
                             <MetaData>
+                                <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -2351,10 +2739,6 @@ Sarah's Junior Attorney</Value>
             <Title>Gifts</Title>
             <Color>0.800000 0.729412 0.988235</Color>
         </Keyword>
-        <Keyword ID="29">
-            <Title>Need Expert Review</Title>
-            <Color>0.039216 0.870588 0.960784</Color>
-        </Keyword>
         <Keyword ID="28">
             <Title>Expert Review</Title>
             <Color>0.509804 0.670588 0.988235</Color>
@@ -2380,10 +2764,24 @@ Sarah's Junior Attorney</Value>
         <Keyword ID="30">
             <Title>Flashback</Title>
             <Color>1.000000 1.000000 1.000000</Color>
+            <Children>
+                <Keyword ID="29">
+                    <Title>Need Expert Review</Title>
+                    <Color>0.039216 0.870588 0.960784</Color>
+                </Keyword>
+            </Children>
         </Keyword>
         <Keyword ID="62">
             <Title>weird</Title>
             <Color>0.500008 0.500008 0.500008</Color>
+        </Keyword>
+        <Keyword ID="54">
+            <Title>Driving</Title>
+            <Color>0.321569 0.929412 0.721569</Color>
+        </Keyword>
+        <Keyword ID="53">
+            <Title>LARS</Title>
+            <Color>1.000000 0.949020 0.658824</Color>
         </Keyword>
     </Keywords>
     <SectionTypes>
@@ -2512,6 +2910,7 @@ Sarah's Junior Attorney</Value>
                 <Option ID="8">Partly Sunny</Option>
                 <Option ID="9">Sleet</Option>
                 <Option ID="10">Sunny</Option>
+                <Option ID="12">Clear Sky</Option>
             </ListOptions>
         </MetaDataField>
         <MetaDataField Type="List" ID="vHgnS7VY7omeRHTAJ2Wxn">
@@ -2545,13 +2944,13 @@ Sarah's Junior Attorney</Value>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="10219" Characters="57806" Date="2024-02-11 21:00:18 -0500"/>
+        <PreviousSession Words="10" Characters="56" Date="2024-02-12 06:53:48 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-02-11 00:00:00 -0500">
-        <DraftWordCount>5260</DraftWordCount>
-        <DraftCharCount>30240</DraftCharCount>
-        <OtherWordCount>5260</OtherWordCount>
-        <OtherCharCount>29309</OtherCharCount>
+    <RecentWritingHistory Date="2024-02-12 00:00:00 -0500">
+        <DraftWordCount>10</DraftWordCount>
+        <DraftCharCount>56</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
     <UserProjectData>

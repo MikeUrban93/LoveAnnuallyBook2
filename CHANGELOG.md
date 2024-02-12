@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.1.10 - MAU `2024-02-12`
+1. Updated Timeline and Metadata for Chapter 2
+----
+
 #### 0.0.1.9 - MAU `2024-02-11`
 1. I drafted all the scenes through chapter 2.
 2. I still have update timelines keywords and metadata.
