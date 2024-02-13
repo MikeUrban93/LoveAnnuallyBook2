@@ -1,5 +1,14 @@
 # Changelog
 
+#### 0.0.3.0 - MAU `2024-02-12`
+1. Chapter 3
+	- Added all scenes With Synopsis
+	- Edit profiles for Laura and Maggie
+	- Stubbed the scenes and characters into Aeon 3.
+2. Added Act 1 Folder	
+3. Created a components subdirectory where the character images are stored.
+----
+
 #### 0.0.1.10 - MAU `2024-02-12`
 1. Updated Timeline and Metadata for Chapter 2
 ----

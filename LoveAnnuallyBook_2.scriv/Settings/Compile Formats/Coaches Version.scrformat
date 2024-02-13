@@ -12,11 +12,9 @@
     </SupportedTypes>
     <SectionLayouts>
         <Layout Name="Part Number Page" ID="F06837C7-95F0-41AF-8050-90874CBAAFD8">
+            <Include Titles="Yes"/>
             <RTFBookmark>Yes</RTFBookmark>
             <BlankLineSeparator SkipStyles="Yes"/>
-            <Titles>
-                <Prefix><![CDATA[Part <$t:part>]]></Prefix>
-            </Titles>
             <Formatting Override="No" EbooksUseBaseFormatting="No">
                 <Title><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
 {\fonttbl{\f0\fnil\fcharset0\fprq2 Corbel;}}

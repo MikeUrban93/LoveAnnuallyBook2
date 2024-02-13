@@ -64,7 +64,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>pdf</CurrentFileType>
+    <CurrentFileType>docx</CurrentFileType>
     <FormatSettings>
         <Format ID="outline-document">
             <SectionLayouts>
@@ -76,6 +76,9 @@
                 <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">BE3D24A9-4185-4385-AB5A-6C75A9A79F82</Type>
                 <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">EB0A531D-3373-4A50-BE2F-3F28FE0F8040</Type>
             </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>3E5B46A7-2D74-46C0-9C84-D3D1B9EB378E</DefaultFrontMatter>
+            </FrontAndBackMatter>
         </Format>
         <Format ID="manuscript-times">
             <Font>Times New Roman</Font>
@@ -569,7 +572,7 @@
     <LastUsedFormats>
         <Fountain>script-screenplay</Fountain>
         <Print>manuscript-times</Print>
-        <docx>8E28AFA8-C934-4334-B437-AA436F4E45F9</docx>
+        <docx>97C76D9E-C48F-400C-A512-D0B76A52EB09</docx>
         <epub2>e-book-legacy</epub2>
         <epub3>e-book</epub3>
         <fdx>script-screenplay</fdx>
