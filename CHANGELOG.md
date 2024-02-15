@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.3.1 - MAU `2024-02-14`
+1. Added modern casual narrative tone scenes for chapters 1 and 2.
+----
+
 #### 0.0.3.0 - MAU `2024-02-12`
 1. Chapter 3
 	- Added all scenes With Synopsis
