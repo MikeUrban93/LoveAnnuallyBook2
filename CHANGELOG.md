@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.3.2 - MAU `2024-02-19`
+1. Miscellaneous Stuff.
+2. Broke "Evan Meets Maggie" into 2 parts.
+----
+
 #### 0.0.3.1 - MAU `2024-02-14`
 1. Added modern casual narrative tone scenes for chapters 1 and 2.
 ----
