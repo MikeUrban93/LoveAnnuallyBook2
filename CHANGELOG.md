@@ -1,5 +1,14 @@
 # Changelog
 
+#### 0.0.3.4 - MAU `2024-02-20`
+1. Finsihed the shortened Chapter 3
+2. Added New Chapter 4
+3. Part way through Scene 18
+
+#### 0.0.3.3 - MAU `2024-02-20`
+1. Crafted Scenes through "Evan Meets Maggie"
+----
+
 #### 0.0.3.2 - MAU `2024-02-19`
 1. Miscellaneous Stuff.
 2. Broke "Evan Meets Maggie" into 2 parts.
