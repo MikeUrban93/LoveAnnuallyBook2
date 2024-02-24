@@ -64,7 +64,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>pdf</CurrentFileType>
+    <CurrentFileType>docx</CurrentFileType>
     <FormatSettings>
         <Format ID="outline-document">
             <SectionLayouts>
@@ -595,7 +595,7 @@
         <mmd-pdf>mmd-latex-book</mmd-pdf>
         <mobi>e-book-legacy</mobi>
         <odt>DEFAULT</odt>
-        <pdf>8E28AFA8-C934-4334-B437-AA436F4E45F9</pdf>
+        <pdf>97C76D9E-C48F-400C-A512-D0B76A52EB09</pdf>
         <rtf>5C102847-626A-4201-ABC6-236F8A8B78B2</rtf>
         <txt>622B3F25-5EF6-4AA9-85F1-FD5C52C99458</txt>
     </LastUsedFormats>

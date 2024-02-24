@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.4.1- MAU `2024-02-23`
+1. Finished Chapter 4: "Fun at the Fall Festival"
+----
+
 #### 0.0.4.0 - MAU `2024-02-23`
 1. Finished the shortened scene 19
 ----
