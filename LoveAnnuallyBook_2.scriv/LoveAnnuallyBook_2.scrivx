@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-02-24 14:14:31 -0500" ModID="69ABE365-4426-4366-95A0-1F44BDE7B31C">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-02-24 19:02:09 -0500" ModID="FDA3B9CE-3724-4C9F-9D53-451BB9CCC1A8">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2024-02-06 11:51:54 -0500">
             <Title>Novel Format</Title>
@@ -878,7 +878,7 @@ Abe</Value>
                                 <KeywordID>61</KeywordID>
                             </Keywords>
                             <Children>
-                                <BinderItem UUID="7275CB45-E9A3-4D92-A330-03CF2684E0E9" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-22 07:56:47 -0500">
+                                <BinderItem UUID="7275CB45-E9A3-4D92-A330-03CF2684E0E9" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-24 19:01:51 -0500">
                                     <Title>Evan Gets Signs From the Universe</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -887,8 +887,25 @@ Abe</Value>
                                         <NotesTextSelection>678,0</NotesTextSelection>
                                         <CustomMetaData>
                                             <MetaDataItem>
+                                                <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                                <Value>Evan and Maggie
+LARS</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>4</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
                                                 <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
                                                 <Value>2014-10-18 18:00:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                                <Value>70</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                                <Value>Evan</Value>
                                             </MetaDataItem>
                                             <MetaDataItem>
                                                 <FieldID>endingemotion</FieldID>
@@ -896,12 +913,25 @@ Abe</Value>
                                             </MetaDataItem>
                                             <MetaDataItem>
                                                 <FieldID>m13LOcQolSsk2VdiVqP87</FieldID>
-                                                <Value>Laura
-Maggie</Value>
+                                                <Value>Maggie
+Laura</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                                <Value>Downtown Naperville
+Chicagoland</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>3</Value>
                                             </MetaDataItem>
                                             <MetaDataItem>
                                                 <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
                                                 <Value>2014-10-18 17:00:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>12</Value>
                                             </MetaDataItem>
                                         </CustomMetaData>
                                     </MetaData>
@@ -910,20 +940,85 @@ Maggie</Value>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">750</Target>
                                     </TextSettings>
                                     <Keywords>
-                                        <KeywordID>55</KeywordID>
+                                        <KeywordID>37</KeywordID>
+                                        <KeywordID>44</KeywordID>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>19</KeywordID>
+                                        <KeywordID>27</KeywordID>
+                                        <KeywordID>53</KeywordID>
+                                        <KeywordID>54</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="966224E4-5167-423B-9354-03E9CB670921" Type="Text" Created="2024-02-19 06:37:17 -0500" Modified="2024-02-22 07:57:26 -0500">
+                                <BinderItem UUID="966224E4-5167-423B-9354-03E9CB670921" Type="Text" Created="2024-02-19 06:37:17 -0500" Modified="2024-02-24 19:02:00 -0500">
                                     <Title>Maggie’s Dating Woes</Title>
                                     <MetaData>
-                                        <LabelID>10</LabelID>
+                                        <LabelID>5</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                                <Value>Evan and Maggie
+LARS</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>7</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                                <Value>2014-10-18 18:00:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                                <Value>50</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                                <Value>Maggie
+Laura</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>endingemotion</FieldID>
+                                                <Value>7</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                                <Value>Downtown Naperville</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                                <Value>2014-10-18 17:55:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>12</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                                <Value>Naperville Outdoor Cafe</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1027,0</TextSelection>
+                                        <TextSelection>1495,0</TextSelection>
                                     </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>11</KeywordID>
+                                        <KeywordID>12</KeywordID>
+                                        <KeywordID>33</KeywordID>
+                                        <KeywordID>53</KeywordID>
+                                        <KeywordID>22</KeywordID>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>19</KeywordID>
+                                        <KeywordID>27</KeywordID>
+                                        <KeywordID>20</KeywordID>
+                                    </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="58AD1EC2-D8AD-4585-84E5-1CDB4A8CD3A0" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-22 07:52:24 -0500">
+                                <BinderItem UUID="58AD1EC2-D8AD-4585-84E5-1CDB4A8CD3A0" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-24 19:01:44 -0500">
                                     <Title>Evan Meets Maggie</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -932,26 +1027,71 @@ Maggie</Value>
                                         <NotesTextSelection>97,0</NotesTextSelection>
                                         <CustomMetaData>
                                             <MetaDataItem>
+                                                <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                                <Value>Evan and Maggie
+LARS</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
                                                 <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
-                                                <Value>1</Value>
+                                                <Value>12</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                                <Value>2014-10-18 18:10:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                                <Value>70</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                                <Value>Evan
+Maggie
+Laura</Value>
                                             </MetaDataItem>
                                             <MetaDataItem>
                                                 <FieldID>endingemotion</FieldID>
                                                 <Value>1</Value>
                                             </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                                <Value>Downtown Naperville</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                                <Value>2014-10-18 18:00:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>12</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                                <Value>Naperville Outdoor Cafe</Value>
+                                            </MetaDataItem>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4867,1</TextSelection>
+                                        <TextSelection Caret="4514">4509,5</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1500</Target>
                                     </TextSettings>
                                     <Keywords>
-                                        <KeywordID>22</KeywordID>
                                         <KeywordID>5</KeywordID>
-                                        <KeywordID>55</KeywordID>
+                                        <KeywordID>38</KeywordID>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>19</KeywordID>
+                                        <KeywordID>27</KeywordID>
+                                        <KeywordID>20</KeywordID>
+                                        <KeywordID>11</KeywordID>
+                                        <KeywordID>62</KeywordID>
+                                        <KeywordID>53</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="D69E521A-56CF-4016-9A5B-6A9C3741AA07" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-22 07:51:04 -0500">
+                                <BinderItem UUID="D69E521A-56CF-4016-9A5B-6A9C3741AA07" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-24 19:02:07 -0500">
                                     <Title>Laura and Maggie Google Evan</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -959,6 +1099,28 @@ Maggie</Value>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
+                                                <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                                <Value>LARS
+Evan and Maggie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>4</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                                <Value>2014-10-18 19:10:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                                <Value>50</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                                <Value>Maggie
+Laura</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
                                                 <FieldID>endingemotion</FieldID>
                                                 <Value>1</Value>
                                             </MetaDataItem>
@@ -966,29 +1128,50 @@ Maggie</Value>
                                                 <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
                                                 <Value>Naperville, Illinois</Value>
                                             </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                                <Value>2014-10-18 18:10:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>12</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                                <Value>Naperville Outdoor Cafe</Value>
+                                            </MetaDataItem>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1761,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1200</Target>
                                     </TextSettings>
                                     <Keywords>
-                                        <KeywordID>55</KeywordID>
-                                        <KeywordID>9</KeywordID>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>19</KeywordID>
+                                        <KeywordID>27</KeywordID>
+                                        <KeywordID>20</KeywordID>
+                                        <KeywordID>53</KeywordID>
+                                        <KeywordID>22</KeywordID>
                                     </Keywords>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="85E187FE-34E1-475B-A85F-D1CC48764D29" Type="Folder" Created="2024-02-21 21:47:41 -0500" Modified="2024-02-21 21:48:42 -0500">
+                        <BinderItem UUID="85E187FE-34E1-475B-A85F-D1CC48764D29" Type="Folder" Created="2024-02-21 21:47:41 -0500" Modified="2024-02-24 19:00:13 -0500">
                             <Title>Fun at the Fall Festival</Title>
                             <MetaData>
+                                <LabelID>5</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="B38C20E1-A0DE-41B4-B0B7-CEF64B97955B" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-24 13:32:47 -0500">
+                                <BinderItem UUID="B38C20E1-A0DE-41B4-B0B7-CEF64B97955B" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-24 19:00:21 -0500">
                                     <Title>Maggie and Evan Break First Date Rules</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -996,16 +1179,50 @@ Maggie</Value>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
+                                                <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                                <Value>Evan and Maggie
+LARS</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
                                                 <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
-                                                <Value>1</Value>
+                                                <Value>4</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                                <Value>2014-10-18 19:40:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                                <Value>75</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                                <Value>Evan
+Maggie</Value>
                                             </MetaDataItem>
                                             <MetaDataItem>
                                                 <FieldID>endingemotion</FieldID>
                                                 <Value>3</Value>
                                             </MetaDataItem>
                                             <MetaDataItem>
+                                                <FieldID>m13LOcQolSsk2VdiVqP87</FieldID>
+                                                <Value>Laura</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
                                                 <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
                                                 <Value>Naperville, Illinois</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                                <Value>2014-10-18 19:10:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>12</Value>
                                             </MetaDataItem>
                                             <MetaDataItem>
                                                 <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
@@ -1014,15 +1231,24 @@ Maggie</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6364,0</TextSelection>
+                                        <TextSelection>17574,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">2500</Target>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>24</KeywordID>
                                         <KeywordID>5</KeywordID>
+                                        <KeywordID>38</KeywordID>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>19</KeywordID>
+                                        <KeywordID>27</KeywordID>
+                                        <KeywordID>20</KeywordID>
+                                        <KeywordID>53</KeywordID>
+                                        <KeywordID>63</KeywordID>
+                                        <KeywordID>7</KeywordID>
+                                        <KeywordID>13</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="24139049-4C44-4574-A52F-DD552CED9742" Type="Text" Created="2024-02-12 20:06:15 -0500" Modified="2024-02-23 22:25:14 -0500">
+                                <BinderItem UUID="24139049-4C44-4574-A52F-DD552CED9742" Type="Text" Created="2024-02-12 20:06:15 -0500" Modified="2024-02-24 18:56:54 -0500">
                                     <Title>Maggie and Evan’s First Kiss</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1032,11 +1258,35 @@ Maggie</Value>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
-                                                <Value>3</Value>
+                                                <Value>4</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                                <Value>2014-10-18 19:50:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                                <Value>75</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>endingemotion</FieldID>
+                                                <Value>1</Value>
                                             </MetaDataItem>
                                             <MetaDataItem>
                                                 <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
                                                 <Value>Naperville, Illinois</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                                <Value>2014-10-18 19:40:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>12</Value>
                                             </MetaDataItem>
                                             <MetaDataItem>
                                                 <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
@@ -1045,15 +1295,22 @@ Maggie</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>302,0</TextSelection>
+                                        <TextSelection>4540,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">700</Target>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>24</KeywordID>
                                         <KeywordID>5</KeywordID>
+                                        <KeywordID>3</KeywordID>
+                                        <KeywordID>36</KeywordID>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>19</KeywordID>
+                                        <KeywordID>27</KeywordID>
+                                        <KeywordID>55</KeywordID>
+                                        <KeywordID>53</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="89CB2C4A-299C-45AC-A676-0C6ED7E89784" Type="Text" Created="2024-02-12 20:06:15 -0500" Modified="2024-02-24 09:45:25 -0500">
+                                <BinderItem UUID="89CB2C4A-299C-45AC-A676-0C6ED7E89784" Type="Text" Created="2024-02-12 20:06:15 -0500" Modified="2024-02-24 18:56:54 -0500">
                                     <Title>A “Great Night” Kiss</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1062,8 +1319,50 @@ Maggie</Value>
                                         <NotesTextSelection>210,0</NotesTextSelection>
                                         <CustomMetaData>
                                             <MetaDataItem>
+                                                <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                                <Value>Evan and Maggie
+LARS</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>4</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                                <Value>2014-10-18 22:55:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                                <Value>50</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                                <Value>Evan
+Maggie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>endingemotion</FieldID>
+                                                <Value>4</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>m13LOcQolSsk2VdiVqP87</FieldID>
+                                                <Value>Laura</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
                                                 <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
-                                                <Value>Naperville, Illinois</Value>
+                                                <Value>Downtown Naperville</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                                <Value>2014-10-18 22:50:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>6</Value>
                                             </MetaDataItem>
                                         </CustomMetaData>
                                     </MetaData>
@@ -1071,14 +1370,185 @@ Maggie</Value>
                                         <TextSelection>1741,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">750</Target>
                                     </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>24</KeywordID>
+                                        <KeywordID>3</KeywordID>
+                                        <KeywordID>19</KeywordID>
+                                        <KeywordID>27</KeywordID>
+                                        <KeywordID>10</KeywordID>
+                                        <KeywordID>51</KeywordID>
+                                        <KeywordID>53</KeywordID>
+                                    </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="52063676-F984-4B00-A4CF-3ACE50E9AC1F" Type="Text" Created="2024-02-21 21:15:27 -0500" Modified="2024-02-24 13:19:40 -0500">
+                                <BinderItem UUID="52063676-F984-4B00-A4CF-3ACE50E9AC1F" Type="Text" Created="2024-02-21 21:15:27 -0500" Modified="2024-02-24 18:58:27 -0500">
                                     <Title>Evan has Mixed Feelings</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                                <Value>Evan and Maggie
+LARS</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                                <Value>2014-10-18 23:10:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                                <Value>90</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                                <Value>Evan</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>endingemotion</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                                <Value>Downtown Naperville</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>2</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                                <Value>2014-10-18 22:55:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2589,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>7</KeywordID>
+                                        <KeywordID>51</KeywordID>
+                                        <KeywordID>53</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="DF1387E4-68F7-489E-A624-B0CBED469889" Type="Folder" Created="2024-02-24 18:17:45 -0500" Modified="2024-02-24 18:59:43 -0500">
+                            <Title>Maggie’s Indoor Picnic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>61</KeywordID>
+                            </Keywords>
+                            <Children>
+                                <BinderItem UUID="F5FF701E-369D-4D28-B8D9-F48FDDA1254F" Type="Text" Created="2024-02-24 18:19:44 -0500" Modified="2024-02-24 18:59:26 -0500">
+                                    <Title>Thresholds of Hope and Plans</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2589,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C74E098C-74E3-432B-8942-A3C9BE45F551" Type="Text" Created="2024-02-24 18:17:45 -0500" Modified="2024-02-24 18:59:30 -0500">
+                                    <Title>Maggie Walks to Evan’s Office</Title>
+                                    <MetaData>
+                                        <StatusID>0</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>42,0</NotesTextSelection>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>7</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>endingemotion</FieldID>
+                                                <Value>7</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                                <Value>Chicago, IL</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                                <Value>Downtown</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>9,0</TextSelection>
+                                        <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">300</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="DE9E2438-306E-4FD2-B3EF-C29F567909C0" Type="Text" Created="2024-02-24 18:17:45 -0500" Modified="2024-02-24 18:59:33 -0500">
+                                    <Title>Maggie Meets Trish and Liz</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>7</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>endingemotion</FieldID>
+                                                <Value>7</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                                <Value>Chicago, IL</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                                <Value>Vaughn Group Office</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>848,0</TextSelection>
+                                        <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">300</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="F9F053FE-BDCF-4BCB-A770-5FAEF54EF6B6" Type="Text" Created="2024-02-24 18:17:45 -0500" Modified="2024-02-24 18:59:37 -0500">
+                                    <Title>Maggie’s Indoor Picnic</Title>
+                                    <MetaData>
+                                        <StatusID>0</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>377,0</NotesTextSelection>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>8</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>endingemotion</FieldID>
+                                                <Value>1</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                                <Value>Chicago, IL</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                                <Value>Conference Room
+Vaughn Group Office</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>541,0</TextSelection>
+                                        <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1250</Target>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1576,9 +2046,6 @@ Maggie</Value>
                                 <TextSelection Caret="3004">0,3004</TextSelection>
                                 <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">750</Target>
                             </TextSettings>
-                            <Keywords>
-                                <KeywordID>55</KeywordID>
-                            </Keywords>
                             <Children>
                                 <BinderItem UUID="83393453-AF49-4AD7-8DB5-D7AF5B9AE813" Type="Text" Created="2024-02-12 23:24:52 -0500" Modified="2024-02-19 09:30:53 -0500">
                                     <Title>Details</Title>
@@ -1646,7 +2113,6 @@ Maggie</Value>
                             <Keywords>
                                 <KeywordID>22</KeywordID>
                                 <KeywordID>5</KeywordID>
-                                <KeywordID>55</KeywordID>
                             </Keywords>
                             <Children>
                                 <BinderItem UUID="A92BC115-3C3D-40EB-86DF-89CD55DA1AD0" Type="Text" Created="2024-02-18 18:07:08 -0500" Modified="2024-02-20 15:21:05 -0500">
@@ -1700,7 +2166,6 @@ Maggie</Value>
                                 <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1200</Target>
                             </TextSettings>
                             <Keywords>
-                                <KeywordID>55</KeywordID>
                                 <KeywordID>9</KeywordID>
                             </Keywords>
                             <Children>
@@ -2013,121 +2478,234 @@ Maggie</Value>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-            </Children>
-        </BinderItem>
-        <BinderItem UUID="418398EA-F176-415C-BC6C-38E9BB53EEF3" Type="Folder" Created="2023-08-09 16:01:53 -0500" Modified="2024-02-18 09:27:03 -0500">
-            <Title>Sandbox</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <IconFileName>Blackboard</IconFileName>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,0</TextSelection>
-            </TextSettings>
-            <Children>
-                <BinderItem UUID="0A3F7359-8A82-4DD5-BE8F-A8FC14CCCD2B" Type="Text" Created="2023-08-12 18:34:45 -0500" Modified="2024-02-13 22:53:44 -0500">
-                    <Title>Custom Instructions - 2024-02-13</Title>
+                <BinderItem UUID="BE0B3096-4E44-4BC2-938E-6C45BC90FF0A" Type="Folder" Created="2024-02-24 18:31:33 -0500" Modified="2024-02-24 18:31:33 -0500">
+                    <Title>Maggie’s Indoor Picnic-1</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>1,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1822,211</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="D061CAB9-2B86-4151-9946-BAE5458EC0A0" Type="Text" Created="2024-02-09 10:09:19 -0500" Modified="2024-02-13 22:55:57 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1540,209</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="85620696-EB47-4F8C-8ED0-C7586189F3DF" Type="Text" Created="2024-02-12 16:56:43 -0500" Modified="2024-02-12 16:59:04 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>960,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="AABE52B6-E206-4234-AFD7-6A11EF082098" Type="Text" Created="2024-02-08 10:12:14 -0500" Modified="2024-02-08 10:13:31 -0500">
-                    <Title>Instructions Modified</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,2540</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="BCE954BA-B698-4DBB-BC16-043C3CB680A0" Type="Text" Created="2024-01-28 03:48:19 -0500" Modified="2024-02-24 12:05:36 -0500">
-                    <Title>Sandbox 3</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1802,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="325DA814-2E5A-40EA-85CB-E56265BDBF84" Type="Text" Created="2024-02-07 10:43:22 -0500" Modified="2024-02-07 10:51:37 -0500">
-                    <Title>Sandbox 4</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>794,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="6A7C3B2A-CD74-4A4A-9C8E-E2030A8467FC" Type="Text" Created="2024-02-07 20:49:13 -0500" Modified="2024-02-07 21:07:01 -0500">
-                    <Title>Sandbox 5</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1000,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="1FDD5ACB-6347-4DCE-874A-E53AB77CCA38" Type="Text" Created="2024-02-07 21:23:12 -0500" Modified="2024-02-18 16:30:46 -0500">
-                    <Title>Sandbox 6</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1138,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="EF61C5A4-93D6-4BEA-B7FC-6BA1C3200AFB" Type="Text" Created="2024-01-28 03:48:24 -0500" Modified="2024-02-06 08:34:24 -0500">
-                    <Title>SceneProfile</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>429,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="36F950B6-5E8D-4729-BC91-26E0A543E2A8" Type="Text" Created="2024-02-08 10:04:01 -0500" Modified="2024-02-09 10:50:14 -0500">
-                    <Title>Scene Creation Template</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,439</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection Caret="6393">0,6393</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="7ACB1E38-E710-4F0B-802C-80383FC9BB90" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-20 05:36:41 -0500">
-                    <Title>Evan</Title>
-                    <MetaData>
-                        <LabelID>11</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>146,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Keywords>
-                        <KeywordID>59</KeywordID>
                         <KeywordID>61</KeywordID>
                     </Keywords>
+                    <Children>
+                        <BinderItem UUID="F4B662C1-D1A5-4D3D-9EA5-A21F923FF7DC" Type="Text" Created="2024-02-24 18:31:33 -0500" Modified="2024-02-24 18:31:33 -0500">
+                            <Title>Thresholds of Hope and Plans</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6CB98C5C-D602-4E6F-9D81-CBB6DA91D721" Type="Text" Created="2024-02-24 18:31:33 -0500" Modified="2024-02-24 18:31:33 -0500">
+                            <Title>Maggie Walks to Evan’s Office</Title>
+                            <MetaData>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>42,0</NotesTextSelection>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                        <Value>7</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>7</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                        <Value>Chicago, IL</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                        <Value>Downtown</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9,0</TextSelection>
+                                <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">300</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="01459146-6603-47BE-8109-314907B3850E" Type="Text" Created="2024-02-24 18:31:33 -0500" Modified="2024-02-24 18:31:33 -0500">
+                            <Title>Maggie Meets Trish and Liz</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                        <Value>7</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>7</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                        <Value>Chicago, IL</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                        <Value>Vaughn Group Office</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>848,0</TextSelection>
+                                <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">300</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="AE4AB8E1-6EF6-43A9-8DF4-D929B8D30DE6" Type="Text" Created="2024-02-24 18:31:33 -0500" Modified="2024-02-24 18:31:33 -0500">
+                            <Title>Maggie’s Indoor Picnic</Title>
+                            <MetaData>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>377,0</NotesTextSelection>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                        <Value>8</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                        <Value>Chicago, IL</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                        <Value>Conference Room
+Vaughn Group Office</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>541,0</TextSelection>
+                                <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1250</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="418398EA-F176-415C-BC6C-38E9BB53EEF3" Type="Folder" Created="2023-08-09 16:01:53 -0500" Modified="2024-02-18 09:27:03 -0500">
+                            <Title>Sandbox</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Blackboard</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="0A3F7359-8A82-4DD5-BE8F-A8FC14CCCD2B" Type="Text" Created="2023-08-12 18:34:45 -0500" Modified="2024-02-13 22:53:44 -0500">
+                                    <Title>Custom Instructions - 2024-02-13</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1822,211</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="D061CAB9-2B86-4151-9946-BAE5458EC0A0" Type="Text" Created="2024-02-09 10:09:19 -0500" Modified="2024-02-13 22:55:57 -0500">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1540,209</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="85620696-EB47-4F8C-8ED0-C7586189F3DF" Type="Text" Created="2024-02-12 16:56:43 -0500" Modified="2024-02-12 16:59:04 -0500">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>960,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="AABE52B6-E206-4234-AFD7-6A11EF082098" Type="Text" Created="2024-02-08 10:12:14 -0500" Modified="2024-02-08 10:13:31 -0500">
+                                    <Title>Instructions Modified</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,2540</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="BCE954BA-B698-4DBB-BC16-043C3CB680A0" Type="Text" Created="2024-01-28 03:48:19 -0500" Modified="2024-02-24 17:57:35 -0500">
+                                    <Title>Sandbox 3</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,1492</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="325DA814-2E5A-40EA-85CB-E56265BDBF84" Type="Text" Created="2024-02-07 10:43:22 -0500" Modified="2024-02-07 10:51:37 -0500">
+                                    <Title>Sandbox 4</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>794,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="6A7C3B2A-CD74-4A4A-9C8E-E2030A8467FC" Type="Text" Created="2024-02-07 20:49:13 -0500" Modified="2024-02-07 21:07:01 -0500">
+                                    <Title>Sandbox 5</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1000,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="1FDD5ACB-6347-4DCE-874A-E53AB77CCA38" Type="Text" Created="2024-02-07 21:23:12 -0500" Modified="2024-02-18 16:30:46 -0500">
+                                    <Title>Sandbox 6</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1138,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="EF61C5A4-93D6-4BEA-B7FC-6BA1C3200AFB" Type="Text" Created="2024-01-28 03:48:24 -0500" Modified="2024-02-06 08:34:24 -0500">
+                                    <Title>SceneProfile</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>429,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="36F950B6-5E8D-4729-BC91-26E0A543E2A8" Type="Text" Created="2024-02-08 10:04:01 -0500" Modified="2024-02-09 10:50:14 -0500">
+                                    <Title>Scene Creation Template</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,439</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection Caret="6393">0,6393</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7ACB1E38-E710-4F0B-802C-80383FC9BB90" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-20 05:36:41 -0500">
+                                    <Title>Evan</Title>
+                                    <MetaData>
+                                        <LabelID>11</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>146,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>59</KeywordID>
+                                        <KeywordID>61</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -3004,6 +3582,16 @@ Maggie</Value>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="3D465AAF-2B27-4A76-87B0-9759312CBC22" Type="Text" Created="2024-02-24 18:34:32 -0500" Modified="2024-02-24 18:34:32 -0500">
+                            <Title>Chicago, IL</Title>
+                            <MetaData>
+                                <LabelID>15</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem UUID="0964B2EA-1B45-4DEF-AF94-06489CB9D8F4" Type="Folder" Created="2024-01-28 03:51:44 -0500" Modified="2024-02-18 09:27:03 -0500">
@@ -3108,6 +3696,26 @@ Maggie</Value>
                         </BinderItem>
                         <BinderItem UUID="B7933937-2CF8-4A2B-B13E-ECB9A5682ED3" Type="Text" Created="2024-02-12 21:24:01 -0500" Modified="2024-02-18 09:27:03 -0500">
                             <Title>Riverwalk</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A1B3E7A3-3F03-4503-B3A2-97248A02D2C1" Type="Text" Created="2024-02-24 18:34:32 -0500" Modified="2024-02-24 18:34:32 -0500">
+                            <Title>Vaughn Group Office</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C0918485-C6C3-4628-8FDC-80B034CC9CE7" Type="Text" Created="2024-02-24 18:34:32 -0500" Modified="2024-02-24 18:34:32 -0500">
+                            <Title>Conference Room</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -3619,9 +4227,6 @@ Maggie</Value>
                                 <TextSelection>3882,0</TextSelection>
                                 <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">750</Target>
                             </TextSettings>
-                            <Keywords>
-                                <KeywordID>55</KeywordID>
-                            </Keywords>
                         </BinderItem>
                         <BinderItem UUID="28EC1E7C-BE0E-4901-B351-B968A56C6C68" Type="Text" Created="2024-02-19 19:36:39 -0500" Modified="2024-02-20 13:48:54 -0500">
                             <Title>Maggie’s Dating Woes</Title>
@@ -3658,7 +4263,6 @@ Maggie</Value>
                             <Keywords>
                                 <KeywordID>22</KeywordID>
                                 <KeywordID>5</KeywordID>
-                                <KeywordID>55</KeywordID>
                             </Keywords>
                         </BinderItem>
                         <BinderItem UUID="B72A4D11-C6EA-4E62-A1B4-5844D7FB8FB7" Type="Text" Created="2024-02-19 19:36:39 -0500" Modified="2024-02-19 19:36:39 -0500">
@@ -3683,7 +4287,6 @@ Maggie</Value>
                                 <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1200</Target>
                             </TextSettings>
                             <Keywords>
-                                <KeywordID>55</KeywordID>
                                 <KeywordID>9</KeywordID>
                             </Keywords>
                         </BinderItem>
@@ -3787,7 +4390,7 @@ Maggie</Value>
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">burst</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">physical stuff</SearchSettings>
         </Collection>
         <Collection Type="Arbitrary" ID="84A7B044-F30D-4580-B1B2-0214DB9D304D" Color="0.841505 0.920714 0.990005">
             <Title>New Collection</Title>
@@ -3995,6 +4598,10 @@ Maggie</Value>
                     <Title>Neutral</Title>
                     <Color>0.760784 0.878431 0.239216</Color>
                 </Keyword>
+                <Keyword ID="55">
+                    <Title>Playful</Title>
+                    <Color>1.000000 0.858824 0.160784</Color>
+                </Keyword>
                 <Keyword ID="10">
                     <Title>Romantic</Title>
                     <Color>1.000000 0.729412 0.709804</Color>
@@ -4066,7 +4673,7 @@ Maggie</Value>
             </Children>
         </Keyword>
         <Keyword ID="62">
-            <Title>weird</Title>
+            <Title>Weird</Title>
             <Color>0.500008 0.500008 0.500008</Color>
         </Keyword>
         <Keyword ID="54">
@@ -4077,17 +4684,17 @@ Maggie</Value>
             <Title>LARS</Title>
             <Color>1.000000 0.949020 0.658824</Color>
         </Keyword>
-        <Keyword ID="55">
-            <Title>Excitement</Title>
-            <Color>0.639216 0.890196 0.949020</Color>
+        <Keyword ID="63">
+            <Title>Sarah Talk</Title>
+            <Color>1.000000 1.000000 0.498039</Color>
         </Keyword>
         <Keyword ID="56">
             <Title>Surprised</Title>
             <Color>0.890196 0.941176 0.639216</Color>
         </Keyword>
-        <Keyword ID="63">
-            <Title>Sarah Talk</Title>
-            <Color>1.000000 1.000000 0.498039</Color>
+        <Keyword ID="64">
+            <Title>Excitement</Title>
+            <Color>0.500008 0.500008 0.500008</Color>
         </Keyword>
     </Keywords>
     <SectionTypes>
@@ -4255,13 +4862,13 @@ Maggie</Value>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="2216" Characters="13391" Date="2024-02-24 14:14:31 -0500"/>
+        <PreviousSession Words="2117" Characters="12763" Date="2024-02-24 19:02:09 -0500"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-02-24 00:00:00 -0500">
-        <DraftWordCount>1312</DraftWordCount>
-        <DraftCharCount>7614</DraftCharCount>
-        <OtherWordCount>628</OtherWordCount>
-        <OtherCharCount>3687</OtherCharCount>
+        <DraftWordCount>1546</DraftWordCount>
+        <DraftCharCount>9048</DraftCharCount>
+        <OtherWordCount>295</OtherWordCount>
+        <OtherCharCount>1625</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
     <UserProjectData>

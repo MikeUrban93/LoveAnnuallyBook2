@@ -1,5 +1,11 @@
 # Changelog
 
+#### 0.0.4.2- MAU `2024-02-24`
+1. Added to the end of the Scene "Maggie and Evan's First Kiss"
+2. Added Timeline info and Metadata to Chaptrers 3 and 4
+3. Prepped Chapter 5 for scene creation
+----
+
 #### 0.0.4.1- MAU `2024-02-23`
 1. Finished Chapter 4: "Fun at the Fall Festival"
 ----
