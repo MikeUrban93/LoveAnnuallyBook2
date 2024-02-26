@@ -177,9 +177,6 @@
                 <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">F06837C7-95F0-41AF-8050-90874CBAAFD8</Type>
                 <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
             </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter>4D01D8EC-C1C3-427E-88C0-602D9158FC95</DefaultFrontMatter>
-            </FrontAndBackMatter>
         </Format>
         <Format ID="manuscript-courier">
             <SectionLayouts>
@@ -578,11 +575,38 @@
                 <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
             </SectionLayouts>
         </Format>
+        <Format ID="D181B7A5-4D3F-4AEB-87D8-42DEECF98909">
+            <SectionLayouts>
+                <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49"></Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="717A86CD-DE21-4B5D-80EB-8CF5413135E0">
+            <SectionLayouts>
+                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">CHAPTER-NUMBER</Type>
+                <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
+                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">TEXT-WITH-HEADER</Type>
+                <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
+                <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">AFDD0D11-14C8-4F46-9114-32BD669639A3</Type>
+                <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">F06837C7-95F0-41AF-8050-90874CBAAFD8</Type>
+                <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="64B7BCBB-22C6-42CE-9411-68BD918F4AAE">
+            <SectionLayouts>
+                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">CHAPTER-NUMBER</Type>
+                <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
+                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">TEXT-WITH-HEADER</Type>
+                <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
+                <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">AFDD0D11-14C8-4F46-9114-32BD669639A3</Type>
+                <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">F06837C7-95F0-41AF-8050-90874CBAAFD8</Type>
+                <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
+            </SectionLayouts>
+        </Format>
     </FormatSettings>
     <LastUsedFormats>
         <Fountain>script-screenplay</Fountain>
         <Print>manuscript-times</Print>
-        <docx>8E28AFA8-C934-4334-B437-AA436F4E45F9</docx>
+        <docx>64B7BCBB-22C6-42CE-9411-68BD918F4AAE</docx>
         <epub2>e-book-legacy</epub2>
         <epub3>e-book</epub3>
         <fdx>script-screenplay</fdx>

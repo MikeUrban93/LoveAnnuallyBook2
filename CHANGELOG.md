@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.5.0- MAU `2024-02-26`
+1. Completed Draft 1 of Chapter 5, Including Timeline
+----
+
 #### 0.0.4.2- MAU `2024-02-24`
 1. Added to the end of the Scene "Maggie and Evan's First Kiss"
 2. Added Timeline info and Metadata to Chaptrers 3 and 4
