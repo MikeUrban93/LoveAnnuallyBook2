@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.5.1- MAU `2024-02-27`
+1. TESTING SilverHP
+----
+
 #### 0.0.5.0- MAU `2024-02-26`
 1. Completed Draft 1 of Chapter 5, Including Timeline
 ----
