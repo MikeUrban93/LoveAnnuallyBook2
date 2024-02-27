@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.5.2- MAU `2024-02-27`
+1. Added Rebecca to test SilverHP Aeon
+----
+
 #### 0.0.5.1- MAU `2024-02-27`
 1. TESTING SilverHP
 ----

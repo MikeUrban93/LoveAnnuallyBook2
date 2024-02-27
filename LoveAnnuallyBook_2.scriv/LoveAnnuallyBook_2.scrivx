@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="Aeon Timeline 3" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-02-26 12:14:55 -0500" ModID="8C6682E0-1575-41D0-8C3B-D259E6A7A908">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="Aeon Timeline 3" Device="SilverHP" Modified="2024-02-26 23:48:39 -0500" ModID="47916B9F-70D0-44AF-B1A8-5C185AD5CD76">
 	<Binder>
 		<BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2024-02-06 11:51:54 -0500">
 			<Title>Novel Format</Title>
@@ -1729,7 +1729,7 @@ Inspiration Conference Room</Value>
 										</CustomMetaData>
 									</MetaData>
 									<TextSettings>
-										<TextSelection Caret="5171">5152,19</TextSelection>
+										<TextSelection>7884,0</TextSelection>
 										<Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1250</Target>
 									</TextSettings>
 									<Keywords>
@@ -3670,7 +3670,7 @@ Vaughn Group Office</Value>
 					</Children>
 					<Keywords></Keywords>
 				</BinderItem>
-				<BinderItem UUID="E011BA91-5090-4CDA-B6C0-E72D6C7A342B" Type="Folder" Created="2024-01-28 16:46:24 -0500" Modified="2024-02-18 09:27:03 -0500">
+				<BinderItem UUID="E011BA91-5090-4CDA-B6C0-E72D6C7A342B" Type="Folder" Created="2024-01-28 16:46:24 -0500" Modified="2024-02-26 23:48:14 -0500">
 					<Title>Character Profiles</Title>
 					<MetaData>
 						<IncludeInCompile>Yes</IncludeInCompile>
@@ -3680,7 +3680,7 @@ Vaughn Group Office</Value>
 						<TextSelection>0,0</TextSelection>
 					</TextSettings>
 					<Children>
-						<BinderItem UUID="426A7063-EEC0-4959-8869-94EEC0ADC939" Type="Text" Created="2024-02-17 10:27:04 -0500" Modified="2024-02-20 07:25:15 -0500">
+						<BinderItem UUID="426A7063-EEC0-4959-8869-94EEC0ADC939" Type="Text" Created="2024-02-17 10:27:04 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Evan</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3705,7 +3705,7 @@ Vaughn Group Office</Value>
 								<KeywordID>61</KeywordID>
 							</Keywords>
 						</BinderItem>
-						<BinderItem UUID="92DBF065-04ED-4589-BF93-A0739622DE57" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-17 11:20:23 -0500">
+						<BinderItem UUID="92DBF065-04ED-4589-BF93-A0739622DE57" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Sarah</Title>
 							<MetaData>
 								<LabelID>12</LabelID>
@@ -3722,7 +3722,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="F33F2768-2429-4D91-AFCC-091D9B14C99C" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-24 20:07:40 -0500">
+						<BinderItem UUID="F33F2768-2429-4D91-AFCC-091D9B14C99C" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Liz</Title>
 							<MetaData>
 								<LabelID>12</LabelID>
@@ -3738,7 +3738,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="3C4C17A6-E432-403A-A51F-A7B02B67839C" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-17 11:15:47 -0500">
+						<BinderItem UUID="3C4C17A6-E432-403A-A51F-A7B02B67839C" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Joe</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3755,7 +3755,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="FAFB08FE-64A5-4758-B469-4E426FEBD5D8" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-18 09:27:03 -0500">
+						<BinderItem UUID="FAFB08FE-64A5-4758-B469-4E426FEBD5D8" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Evan's Attorney</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3767,7 +3767,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="08F4A677-5E29-4144-B664-FC7926579863" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-18 09:27:03 -0500">
+						<BinderItem UUID="08F4A677-5E29-4144-B664-FC7926579863" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Sarah's Junior Attorney</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3779,7 +3779,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="5C3369BF-E1EA-414A-A269-EBAF0E3478C2" Type="Text" Created="2024-02-08 13:08:07 -0500" Modified="2024-02-17 11:15:47 -0500">
+						<BinderItem UUID="5C3369BF-E1EA-414A-A269-EBAF0E3478C2" Type="Text" Created="2024-02-08 13:08:07 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Guido</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3799,7 +3799,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="52630E58-713A-466B-9A37-A3B4186B45B3" Type="Text" Created="2024-02-08 13:23:46 -0500" Modified="2024-02-20 05:37:47 -0500">
+						<BinderItem UUID="52630E58-713A-466B-9A37-A3B4186B45B3" Type="Text" Created="2024-02-08 13:23:46 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Alicia</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3816,7 +3816,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="6D6F4E61-C708-4C13-BF90-D178C15A5A54" Type="Text" Created="2024-02-08 13:33:35 -0500" Modified="2024-02-17 11:15:47 -0500">
+						<BinderItem UUID="6D6F4E61-C708-4C13-BF90-D178C15A5A54" Type="Text" Created="2024-02-08 13:33:35 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Abe</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3833,7 +3833,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="856EB9F0-1ADF-4D6E-BF28-5590793BE794" Type="Text" Created="2024-02-12 06:19:30 -0500" Modified="2024-02-18 09:27:03 -0500">
+						<BinderItem UUID="856EB9F0-1ADF-4D6E-BF28-5590793BE794" Type="Text" Created="2024-02-12 06:19:30 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Chloe</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3850,7 +3850,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="EE295BC6-3C55-4429-BC1F-2EDFCAEF1DAE" Type="Text" Created="2024-02-12 20:33:24 -0500" Modified="2024-02-12 22:04:49 -0500">
+						<BinderItem UUID="EE295BC6-3C55-4429-BC1F-2EDFCAEF1DAE" Type="Text" Created="2024-02-12 20:33:24 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Maggie</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3869,7 +3869,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="9051C9D2-EA48-4736-88F3-3CA75622752C" Type="Text" Created="2024-02-12 20:33:40 -0500" Modified="2024-02-20 06:47:32 -0500">
+						<BinderItem UUID="9051C9D2-EA48-4736-88F3-3CA75622752C" Type="Text" Created="2024-02-12 20:33:40 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Laura</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3888,7 +3888,7 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="33D885E7-2677-4214-8C76-8616CE9B4685" Type="Text" Created="2024-02-17 11:15:47 -0500" Modified="2024-02-18 09:27:03 -0500">
+						<BinderItem UUID="33D885E7-2677-4214-8C76-8616CE9B4685" Type="Text" Created="2024-02-17 11:15:47 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Sarah's Lead Attorney</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
@@ -3900,12 +3900,24 @@ Vaughn Group Office</Value>
 							</TextSettings>
 							<Keywords></Keywords>
 						</BinderItem>
-						<BinderItem UUID="AF4B4EAB-A73F-44C4-AEDF-13DD0C4861AD" Type="Text" Created="2024-02-26 11:48:57 -0500" Modified="2024-02-26 11:49:00 -0500">
+						<BinderItem UUID="AF4B4EAB-A73F-44C4-AEDF-13DD0C4861AD" Type="Text" Created="2024-02-26 11:48:57 -0500" Modified="2024-02-26 23:48:14 -0500">
 							<Title>Trish</Title>
 							<MetaData>
 								<LabelID>11</LabelID>
 								<IncludeInCompile>Yes</IncludeInCompile>
 								<CustomMetaData></CustomMetaData>
+							</MetaData>
+							<TextSettings>
+								<TextSelection>0,0</TextSelection>
+							</TextSettings>
+							<Keywords></Keywords>
+						</BinderItem>
+						<BinderItem UUID="B429379C-7D3C-47AF-AED7-05CE2145AE49" Type="Text" Created="2024-02-26 23:47:43 -0500" Modified="2024-02-26 23:48:14 -0500">
+							<Title>Rebecca</Title>
+							<MetaData>
+								<IncludeInCompile>Yes</IncludeInCompile>
+								<CustomMetaData></CustomMetaData>
+								<LabelID>11</LabelID>
 							</MetaData>
 							<TextSettings>
 								<TextSelection>0,0</TextSelection>
@@ -5636,7 +5648,7 @@ Maggie</Value>
 	<ProjectTargets Notify="No">
 		<DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No">0</DraftTarget>
 		<SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-		<PreviousSession Words="31" Characters="176" Date="2024-02-26 12:14:24 -0500"></PreviousSession>
+		<PreviousSession Words="31" Characters="176" Date="2024-02-26 23:48:16 -0500"></PreviousSession>
 	</ProjectTargets>
 	<RecentWritingHistory Date="2024-02-26 00:00:00 -0500">
 		<DraftWordCount>8</DraftWordCount>
