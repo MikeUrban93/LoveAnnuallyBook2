@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.6.0- MAU `2024-03-01`
+1. Completed Draft 1 of Chapter 6, Including Timeline
+----
+
 #### 0.0.5.2- MAU `2024-02-27`
 1. Added Rebecca to test SilverHP Aeon
 ----
