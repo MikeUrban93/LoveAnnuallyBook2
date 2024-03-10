@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-03-01 02:08:36 -0500" ModID="1ED0C925-3E82-4AB9-B732-1AA9DEC81791">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2024-03-10 16:49:03 -0500" ModID="2AD1E2C9-4C89-401E-8263-04D96A82E59A">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:57:53 -0500" Modified="2024-02-06 11:51:54 -0500">
             <Title>Novel Format</Title>
@@ -164,7 +164,7 @@ Liz</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2258,0</TextSelection>
+                                        <TextSelection>3026,0</TextSelection>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>11</KeywordID>
@@ -311,7 +311,7 @@ Sarah's Junior Attorney</Value>
                                         <KeywordID>51</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="C2DD71B5-666D-4ED4-B7E5-F861D3DAFEF7" Type="Text" Created="2024-02-04 17:59:27 -0500" Modified="2024-02-25 23:07:04 -0500">
+                                <BinderItem UUID="C2DD71B5-666D-4ED4-B7E5-F861D3DAFEF7" Type="Text" Created="2024-02-04 17:59:27 -0500" Modified="2024-03-03 20:34:43 -0500">
                                     <Title>Understanding and Goodbyes</Title>
                                     <MetaData>
                                         <LabelID>10</LabelID>
@@ -366,14 +366,14 @@ Liz</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>597,0</TextSelection>
+                                        <TextSelection>2013,0</TextSelection>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>18</KeywordID>
                                         <KeywordID>11</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="905A1824-FD11-4602-A731-C632308757D9" Type="Text" Created="2024-01-31 00:40:25 -0500" Modified="2024-02-17 19:21:58 -0500">
+                                <BinderItem UUID="905A1824-FD11-4602-A731-C632308757D9" Type="Text" Created="2024-01-31 00:40:25 -0500" Modified="2024-03-03 20:48:12 -0500">
                                     <Title>The Last Kiss</Title>
                                     <MetaData>
                                         <LabelID>10</LabelID>
@@ -431,7 +431,7 @@ Liz</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1049,0</TextSelection>
+                                        <TextSelection>938,0</TextSelection>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>3</KeywordID>
@@ -562,7 +562,7 @@ Chloe</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4158,0</TextSelection>
+                                        <TextSelection>963,0</TextSelection>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>27</KeywordID>
@@ -682,7 +682,7 @@ Abe</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3716,0</TextSelection>
+                                        <TextSelection>2416,0</TextSelection>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>12</KeywordID>
@@ -692,7 +692,7 @@ Abe</Value>
                                         <KeywordID>11</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="0253FDDA-117D-40A9-B93B-638804375E57" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-02-18 01:19:14 -0500">
+                                <BinderItem UUID="0253FDDA-117D-40A9-B93B-638804375E57" Type="Text" Created="2024-02-07 20:12:38 -0500" Modified="2024-03-03 20:35:10 -0500">
                                     <Title>Evan Reveals Love, Annually Plan</Title>
                                     <MetaData>
                                         <LabelID>10</LabelID>
@@ -751,7 +751,7 @@ Abe</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7805,0</TextSelection>
+                                        <TextSelection>17335,0</TextSelection>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>38</KeywordID>
@@ -950,7 +950,7 @@ Chicagoland</Value>
                                         <KeywordID>54</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="966224E4-5167-423B-9354-03E9CB670921" Type="Text" Created="2024-02-19 06:37:17 -0500" Modified="2024-02-24 19:02:00 -0500">
+                                <BinderItem UUID="966224E4-5167-423B-9354-03E9CB670921" Type="Text" Created="2024-02-19 06:37:17 -0500" Modified="2024-03-03 20:35:24 -0500">
                                     <Title>Maggie’s Dating Woes</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1005,7 +1005,7 @@ Laura</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1495,0</TextSelection>
+                                        <TextSelection>1146,0</TextSelection>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>11</KeywordID>
@@ -1019,7 +1019,7 @@ Laura</Value>
                                         <KeywordID>20</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="58AD1EC2-D8AD-4585-84E5-1CDB4A8CD3A0" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-25 23:07:04 -0500">
+                                <BinderItem UUID="58AD1EC2-D8AD-4585-84E5-1CDB4A8CD3A0" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-03-03 20:50:09 -0500">
                                     <Title>Evan Meets Maggie</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1077,7 +1077,7 @@ Laura</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>668,0</TextSelection>
+                                        <TextSelection>5438,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1500</Target>
                                     </TextSettings>
                                     <Keywords>
@@ -1092,7 +1092,7 @@ Laura</Value>
                                         <KeywordID>53</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="D69E521A-56CF-4016-9A5B-6A9C3741AA07" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-25 21:29:15 -0500">
+                                <BinderItem UUID="D69E521A-56CF-4016-9A5B-6A9C3741AA07" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-03-03 20:39:19 -0500">
                                     <Title>Laura and Maggie Google Evan</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1148,7 +1148,7 @@ Laura</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3772,0</TextSelection>
+                                        <TextSelection>3607,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1200</Target>
                                     </TextSettings>
                                     <Keywords>
@@ -1172,7 +1172,7 @@ Laura</Value>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="B38C20E1-A0DE-41B4-B0B7-CEF64B97955B" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-02-25 23:07:04 -0500">
+                                <BinderItem UUID="B38C20E1-A0DE-41B4-B0B7-CEF64B97955B" Type="Text" Created="2024-02-12 20:06:14 -0500" Modified="2024-03-03 20:43:37 -0500">
                                     <Title>Maggie and Evan Break First Date Rules</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1232,7 +1232,7 @@ Maggie</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8164,0</TextSelection>
+                                        <TextSelection Caret="14100">14093,7</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">2500</Target>
                                     </TextSettings>
                                     <Keywords>
@@ -1249,7 +1249,7 @@ Maggie</Value>
                                         <KeywordID>13</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="24139049-4C44-4574-A52F-DD552CED9742" Type="Text" Created="2024-02-12 20:06:15 -0500" Modified="2024-02-24 18:56:54 -0500">
+                                <BinderItem UUID="24139049-4C44-4574-A52F-DD552CED9742" Type="Text" Created="2024-02-12 20:06:15 -0500" Modified="2024-03-03 20:32:41 -0500">
                                     <Title>Maggie and Evan’s First Kiss</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1296,7 +1296,7 @@ Maggie</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4540,0</TextSelection>
+                                        <TextSelection>33,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">700</Target>
                                     </TextSettings>
                                     <Keywords>
@@ -1311,7 +1311,7 @@ Maggie</Value>
                                         <KeywordID>53</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="89CB2C4A-299C-45AC-A676-0C6ED7E89784" Type="Text" Created="2024-02-12 20:06:15 -0500" Modified="2024-02-25 23:07:04 -0500">
+                                <BinderItem UUID="89CB2C4A-299C-45AC-A676-0C6ED7E89784" Type="Text" Created="2024-02-12 20:06:15 -0500" Modified="2024-03-03 20:32:13 -0500">
                                     <Title>A “Great Night” Kiss</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1368,7 +1368,7 @@ Maggie</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1741,0</TextSelection>
+                                        <TextSelection>1432,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">750</Target>
                                     </TextSettings>
                                     <Keywords>
@@ -1452,7 +1452,7 @@ LARS</Value>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="F5FF701E-369D-4D28-B8D9-F48FDDA1254F" Type="Text" Created="2024-02-24 18:19:44 -0500" Modified="2024-02-26 12:14:01 -0500">
+                                <BinderItem UUID="F5FF701E-369D-4D28-B8D9-F48FDDA1254F" Type="Text" Created="2024-02-24 18:19:44 -0500" Modified="2024-03-03 20:44:25 -0500">
                                     <Title>Thresholds of Hope and Plans</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1510,7 +1510,7 @@ Liz's Office</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6624,0</TextSelection>
+                                        <TextSelection>5515,0</TextSelection>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>14</KeywordID>
@@ -1518,7 +1518,7 @@ Liz's Office</Value>
                                         <KeywordID>53</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="C74E098C-74E3-432B-8942-A3C9BE45F551" Type="Text" Created="2024-02-24 18:17:45 -0500" Modified="2024-02-26 12:14:06 -0500">
+                                <BinderItem UUID="C74E098C-74E3-432B-8942-A3C9BE45F551" Type="Text" Created="2024-02-24 18:17:45 -0500" Modified="2024-03-03 20:31:54 -0500">
                                     <Title>Maggie Walks to Evan’s Office</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1574,7 +1574,7 @@ LARS</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2318,0</TextSelection>
+                                        <TextSelection>1819,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">300</Target>
                                     </TextSettings>
                                     <Keywords>
@@ -1653,7 +1653,7 @@ Liz's Office</Value>
                                         <KeywordID>53</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="F9F053FE-BDCF-4BCB-A770-5FAEF54EF6B6" Type="Text" Created="2024-02-24 18:17:45 -0500" Modified="2024-02-28 10:52:12 -0500">
+                                <BinderItem UUID="F9F053FE-BDCF-4BCB-A770-5FAEF54EF6B6" Type="Text" Created="2024-02-24 18:17:45 -0500" Modified="2024-03-03 21:36:16 -0500">
                                     <Title>Maggie’s Indoor Picnic</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1711,7 +1711,7 @@ Inspiration Conference Room</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8906,0</TextSelection>
+                                        <TextSelection>6010,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1250</Target>
                                     </TextSettings>
                                     <Keywords>
@@ -1741,7 +1741,7 @@ Inspiration Conference Room</Value>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D1B9078E-02E2-42D1-8FC8-DF613A5B4486" Type="Text" Created="2024-02-28 06:21:34 -0500" Modified="2024-03-01 02:08:02 -0500">
+                                <BinderItem UUID="D1B9078E-02E2-42D1-8FC8-DF613A5B4486" Type="Text" Created="2024-02-28 06:21:34 -0500" Modified="2024-03-03 20:26:25 -0500">
                                     <Title>Evan Invites Maggie to His Place</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1793,7 +1793,7 @@ Maggie</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1090,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">500</Target>
                                     </TextSettings>
                                     <Keywords>
@@ -1806,7 +1806,7 @@ Maggie</Value>
                                         <KeywordID>55</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="8C3D1745-B934-4DE4-89C0-C0443D6EA739" Type="Text" Created="2024-02-28 06:21:34 -0500" Modified="2024-03-01 02:08:09 -0500">
+                                <BinderItem UUID="8C3D1745-B934-4DE4-89C0-C0443D6EA739" Type="Text" Created="2024-02-28 06:21:34 -0500" Modified="2024-03-03 20:47:11 -0500">
                                     <Title>Maggie’s Foot Massage</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1859,7 +1859,7 @@ Maggie</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2009,0</TextSelection>
+                                        <TextSelection>486,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1500</Target>
                                     </TextSettings>
                                     <Keywords>
@@ -1936,7 +1936,7 @@ LARS</Value>
                                         <KeywordID>19</KeywordID>
                                     </Keywords>
                                 </BinderItem>
-                                <BinderItem UUID="AA9BC2AE-5421-443F-9F9F-9C8DB6216DF3" Type="Text" Created="2024-02-28 06:21:34 -0500" Modified="2024-03-01 02:08:18 -0500">
+                                <BinderItem UUID="AA9BC2AE-5421-443F-9F9F-9C8DB6216DF3" Type="Text" Created="2024-02-28 06:21:34 -0500" Modified="2024-03-03 20:24:11 -0500">
                                     <Title>Maggie Sleeps With Evan</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1988,7 +1988,7 @@ Maggie</Value>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4311,0</TextSelection>
+                                        <TextSelection>3401,0</TextSelection>
                                         <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">750</Target>
                                     </TextSettings>
                                     <Keywords>
@@ -2073,6 +2073,216 @@ Maggie</Value>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem UUID="8F4C91C6-5140-45F1-9D0F-87E397331956" Type="Folder" Created="2024-03-09 17:39:15 -0500" Modified="2024-03-10 16:43:15 -0500">
+                            <Title>Subplots &amp; Support Systems</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>8AF8A323-907A-4747-8BD3-A7968AC0B454</SelectedSubdocumentUUIDs>
+                                <CorkboardSettings>
+                                    <Arrangement>Linear</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem UUID="8AF8A323-907A-4747-8BD3-A7968AC0B454" Type="Text" Created="2024-03-09 17:40:07 -0500" Modified="2024-03-10 16:43:20 -0500">
+                                    <Title>Chloe’s Turn to Support Liz</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                                <Value>Liz's Infertility
+Liz and Chloe
+Evan's Health</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                                <Value>2014-11-13 16:39:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                                <Value>90</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                                <Value>Liz
+Chloe</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>endingemotion</FieldID>
+                                                <Value>1</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                                <Value>Chicagoland
+Highland Park, Illinois</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>2</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                                <Value>2014-11-13 16:09:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>6</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                                <Value>On The Road</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>4759,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>38</KeywordID>
+                                        <KeywordID>7</KeywordID>
+                                        <KeywordID>13</KeywordID>
+                                        <KeywordID>51</KeywordID>
+                                        <KeywordID>11</KeywordID>
+                                        <KeywordID>54</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem UUID="F47E5488-5EDE-4914-84E2-7CC8FBCCCD57" Type="Text" Created="2024-03-09 19:41:45 -0500" Modified="2024-03-10 16:43:27 -0500">
+                                    <Title>Evan's Health &amp; Fried Bologna</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                                <Value>Evan's Health
+Evan and Liz</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>3</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                                <Value>2014-11-13 17:09:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>aKBcFIFiYqEXultg9S8VX</FieldID>
+                                                <Value>70</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                                <Value>Evan
+Liz</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>endingemotion</FieldID>
+                                                <Value>5</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                                <Value>Highland Park, Illinois</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>1</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                                <Value>2014-11-13 16:39:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>11</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                                <Value>Evan's House</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2503,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>38</KeywordID>
+                                        <KeywordID>22</KeywordID>
+                                        <KeywordID>7</KeywordID>
+                                        <KeywordID>5</KeywordID>
+                                        <KeywordID>8</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem UUID="E3C65F83-C947-4C38-9775-9841755D4902" Type="Text" Created="2024-03-09 23:51:30 -0500" Modified="2024-03-10 16:43:31 -0500">
+                                    <Title>Evan Updates Liz About Maggie</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>DnAAySUNNXVrBsnamL8ya</FieldID>
+                                                <Value>Evan's Health
+LARS</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>JDtWmWwwds2fpfMonCSOm</FieldID>
+                                                <Value>11</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>XNrwICyEnYprFcbSfNAqW</FieldID>
+                                                <Value>2014-11-13 17:39:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>bGcYyp2v7FZDIWP2r9WyA</FieldID>
+                                                <Value>Evan
+Liz</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>endingemotion</FieldID>
+                                                <Value>10</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>nVXsPFdIxaVcOvPtAwRgh</FieldID>
+                                                <Value>Highland Park, Illinois</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vHgnS7VY7omeRHTAJ2Wxn</FieldID>
+                                                <Value>1</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>vyGEDWOk8n8Ka7zABgB1p</FieldID>
+                                                <Value>2014-11-13 17:09:00</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>weather</FieldID>
+                                                <Value>11</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>xIUtDLEwljh633rwTpIvk</FieldID>
+                                                <Value>Evan's House</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>22</KeywordID>
+                                        <KeywordID>11</KeywordID>
+                                        <KeywordID>53</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
             </Children>
@@ -2117,7 +2327,7 @@ Maggie</Value>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="8D52F033-3BFD-4AA5-96C6-8AF2C8D0A5F5" Type="Text" Created="2024-01-29 08:31:45 -0500" Modified="2024-02-06 11:51:54 -0500">
+                        <BinderItem UUID="8D52F033-3BFD-4AA5-96C6-8AF2C8D0A5F5" Type="Text" Created="2024-01-29 08:31:45 -0500" Modified="2024-03-09 14:43:17 -0500">
                             <Title>Broken Vow</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
@@ -2192,7 +2402,7 @@ Sarah's Junior Attorney</Value>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="18B8DBED-8BEA-404A-B62E-C528AF1640E3" Type="Text" Created="2024-01-29 08:31:45 -0500" Modified="2024-02-06 11:51:54 -0500">
+                        <BinderItem UUID="18B8DBED-8BEA-404A-B62E-C528AF1640E3" Type="Text" Created="2024-01-29 08:31:45 -0500" Modified="2024-03-09 14:43:16 -0500">
                             <Title>Crossroads of the Heart</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
@@ -2243,7 +2453,7 @@ Sarah's Junior Attorney</Value>
                                         <TextSelection>2350,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="A31A0407-2F4D-46FF-86CB-FFECCAB783D9" Type="Text" Created="2024-02-04 18:37:25 -0500" Modified="2024-02-06 11:51:54 -0500">
+                                <BinderItem UUID="A31A0407-2F4D-46FF-86CB-FFECCAB783D9" Type="Text" Created="2024-02-04 18:37:25 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Beginning</Title>
                                     <MetaData>
                                         <LabelID>10</LabelID>
@@ -2285,7 +2495,7 @@ Sarah's Junior Attorney</Value>
                                 <TextSelection Caret="52">16,36</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="7B3F938B-975F-4F0E-9E9E-1ACB2700568C" Type="Text" Created="2024-02-05 19:43:46 -0500" Modified="2024-02-25 23:07:04 -0500">
+                                <BinderItem UUID="7B3F938B-975F-4F0E-9E9E-1ACB2700568C" Type="Text" Created="2024-02-05 19:43:46 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Entire Scene</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2325,7 +2535,7 @@ Sarah's Junior Attorney</Value>
                                         <TextSelection>4034,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="2FEF65FA-ACCC-4019-A47E-079D34836ECB" Type="Text" Created="2024-02-05 23:42:41 -0500" Modified="2024-02-06 11:51:54 -0500">
+                                <BinderItem UUID="2FEF65FA-ACCC-4019-A47E-079D34836ECB" Type="Text" Created="2024-02-05 23:42:41 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Beginning</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2343,7 +2553,7 @@ Sarah's Junior Attorney</Value>
                                         <TextSelection>307,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="1B58DB71-30AD-4E9C-B5A8-2CD4BB472F09" Type="Text" Created="2024-02-06 07:54:53 -0500" Modified="2024-02-06 11:51:54 -0500">
+                                <BinderItem UUID="1B58DB71-30AD-4E9C-B5A8-2CD4BB472F09" Type="Text" Created="2024-02-06 07:54:53 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>End</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2410,10 +2620,10 @@ Sarah's Junior Attorney</Value>
                                 <NotesTextSelection>251,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1208,0</TextSelection>
+                                <TextSelection>141,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D7673D9A-B39F-4022-92F0-2F83E068B1FE" Type="Text" Created="2024-02-07 23:09:05 -0500" Modified="2024-02-08 00:24:47 -0500">
+                                <BinderItem UUID="D7673D9A-B39F-4022-92F0-2F83E068B1FE" Type="Text" Created="2024-02-07 23:09:05 -0500" Modified="2024-03-09 14:43:16 -0500">
                                     <Title>Part 1</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2433,7 +2643,7 @@ Sarah's Junior Attorney</Value>
                                 <TextSelection>1261,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="C6C234CB-FAEE-470D-B29F-A6A54903C4E1" Type="Text" Created="2024-02-08 11:40:37 -0500" Modified="2024-02-09 11:18:27 -0500">
+                                <BinderItem UUID="C6C234CB-FAEE-470D-B29F-A6A54903C4E1" Type="Text" Created="2024-02-08 11:40:37 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Part 1</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2453,7 +2663,7 @@ Sarah's Junior Attorney</Value>
                                 <TextSelection Caret="2047">0,2047</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="5A072C32-D0AB-4EBA-BD11-B512DC57FB54" Type="Text" Created="2024-02-08 14:19:35 -0500" Modified="2024-02-10 09:03:56 -0500">
+                                <BinderItem UUID="5A072C32-D0AB-4EBA-BD11-B512DC57FB54" Type="Text" Created="2024-02-08 14:19:35 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Part 1</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2596,7 +2806,7 @@ Maggie</Value>
                                         <TextSelection>0,786</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F7FD9CC9-BB0E-42A0-A5C9-6017A9563BE2" Type="Text" Created="2024-02-20 05:47:40 -0500" Modified="2024-02-20 13:34:42 -0500">
+                                <BinderItem UUID="F7FD9CC9-BB0E-42A0-A5C9-6017A9563BE2" Type="Text" Created="2024-02-20 05:47:40 -0500" Modified="2024-03-09 14:43:16 -0500">
                                     <Title>Scene Components</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2653,13 +2863,13 @@ Maggie</Value>
                                         <TextSelection>1241,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="323EF7BB-1DC8-4891-9120-FAF0D990B812" Type="Text" Created="2024-02-20 15:21:19 -0500" Modified="2024-02-25 23:07:05 -0500">
+                                <BinderItem UUID="323EF7BB-1DC8-4891-9120-FAF0D990B812" Type="Text" Created="2024-02-20 15:21:19 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Scene Components</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5635,0</TextSelection>
+                                        <TextSelection>5012,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2719,7 +2929,7 @@ Maggie</Value>
                                         <TextSelection>1459,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="CD25292F-067C-4CBE-AFA1-DF74F75546CB" Type="Text" Created="2024-02-21 07:42:59 -0500" Modified="2024-02-25 23:07:05 -0500">
+                                <BinderItem UUID="CD25292F-067C-4CBE-AFA1-DF74F75546CB" Type="Text" Created="2024-02-21 07:42:59 -0500" Modified="2024-03-09 14:43:16 -0500">
                                     <Title>New Dialogue</Title>
                                     <MetaData>
                                         <LabelID>0</LabelID>
@@ -2729,7 +2939,7 @@ Maggie</Value>
                                         <TextSelection>3616,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="728FC09A-8AE5-4B5F-9313-2044C0E23C32" Type="Text" Created="2024-02-21 07:33:48 -0500" Modified="2024-02-25 23:07:05 -0500">
+                                <BinderItem UUID="728FC09A-8AE5-4B5F-9313-2044C0E23C32" Type="Text" Created="2024-02-21 07:33:48 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Scene Components</Title>
                                     <MetaData>
                                         <LabelID>0</LabelID>
@@ -2798,7 +3008,7 @@ Maggie</Value>
                                         <TextSelection>71,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F996F7F6-92AB-478D-AE4F-B3B451399BF7" Type="Text" Created="2024-02-21 07:41:40 -0500" Modified="2024-02-25 23:07:05 -0500">
+                                <BinderItem UUID="F996F7F6-92AB-478D-AE4F-B3B451399BF7" Type="Text" Created="2024-02-21 07:41:40 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Old Dialogue</Title>
                                     <MetaData>
                                         <LabelID>0</LabelID>
@@ -2828,7 +3038,7 @@ Maggie</Value>
                                         <TextSelection>10387,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="14C112F5-CB03-4C76-890E-22328EA064AE" Type="Text" Created="2024-02-21 07:41:40 -0500" Modified="2024-02-25 23:07:05 -0500">
+                                <BinderItem UUID="14C112F5-CB03-4C76-890E-22328EA064AE" Type="Text" Created="2024-02-21 07:41:40 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Scene Segments</Title>
                                     <MetaData>
                                         <LabelID>0</LabelID>
@@ -2917,7 +3127,7 @@ Maggie</Value>
                                         <TextSelection Caret="3169">0,3169</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D619963D-F5A4-4944-BC01-D3D84FD16ED8" Type="Text" Created="2024-02-23 14:51:10 -0500" Modified="2024-02-23 20:44:27 -0500">
+                                <BinderItem UUID="D619963D-F5A4-4944-BC01-D3D84FD16ED8" Type="Text" Created="2024-02-23 14:51:10 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Scene Segments</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2965,7 +3175,7 @@ Maggie</Value>
                                         <TextSelection>536,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="20CDDD18-1B60-4D78-BD0D-D8C061844A9B" Type="Text" Created="2024-02-24 00:01:29 -0500" Modified="2024-02-24 08:06:32 -0500">
+                                <BinderItem UUID="20CDDD18-1B60-4D78-BD0D-D8C061844A9B" Type="Text" Created="2024-02-24 00:01:29 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Scene Segments</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2985,7 +3195,7 @@ Maggie</Value>
                                 <TextSelection>483,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="4E1A4F11-D5CD-40D3-86B6-6186CFABCBDE" Type="Text" Created="2024-02-24 09:57:02 -0500" Modified="2024-02-24 11:40:46 -0500">
+                                <BinderItem UUID="4E1A4F11-D5CD-40D3-86B6-6186CFABCBDE" Type="Text" Created="2024-02-24 09:57:02 -0500" Modified="2024-03-09 14:43:16 -0500">
                                     <Title>Scene Segments</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3059,7 +3269,7 @@ Maggie</Value>
                                 <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">300</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="0464BF1F-6B29-43C7-86F5-555594DB8955" Type="Text" Created="2024-02-25 07:13:49 -0500" Modified="2024-02-25 08:25:35 -0500">
+                                <BinderItem UUID="0464BF1F-6B29-43C7-86F5-555594DB8955" Type="Text" Created="2024-02-25 07:13:49 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Scene Segment</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3169,7 +3379,7 @@ Vaughn Group Office</Value>
                                         <TextSelection>3809,200</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="CEF4DCE6-DD18-4FB2-AB02-5B412804AF4F" Type="Text" Created="2024-02-25 17:19:42 -0500" Modified="2024-02-25 23:07:05 -0500">
+                                <BinderItem UUID="CEF4DCE6-DD18-4FB2-AB02-5B412804AF4F" Type="Text" Created="2024-02-25 17:19:42 -0500" Modified="2024-03-09 14:43:16 -0500">
                                     <Title>Chloe Insert</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3231,7 +3441,7 @@ Vaughn Group Office</Value>
                                         <TextSelection>542,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="5004F438-C8EB-4457-939D-DD44B8200146" Type="Text" Created="2024-02-28 11:18:36 -0500" Modified="2024-02-28 17:30:58 -0500">
+                                <BinderItem UUID="5004F438-C8EB-4457-939D-DD44B8200146" Type="Text" Created="2024-02-28 11:18:36 -0500" Modified="2024-03-09 14:43:16 -0500">
                                     <Title>Scene Segments</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3283,7 +3493,7 @@ Vaughn Group Office</Value>
                                         <TextSelection>4399,43</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="EE7CAE90-F9FF-486F-8D30-872322B34DBC" Type="Text" Created="2024-02-28 11:19:15 -0500" Modified="2024-02-28 22:25:17 -0500">
+                                <BinderItem UUID="EE7CAE90-F9FF-486F-8D30-872322B34DBC" Type="Text" Created="2024-02-28 11:19:15 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Scene Segments</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3333,7 +3543,7 @@ Vaughn Group Office</Value>
                                         <TextSelection>766,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="286AB612-4619-4C02-B639-88A8972DF5BC" Type="Text" Created="2024-02-28 11:19:19 -0500" Modified="2024-02-29 11:51:47 -0500">
+                                <BinderItem UUID="286AB612-4619-4C02-B639-88A8972DF5BC" Type="Text" Created="2024-02-28 11:19:19 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Scene Segments</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3382,7 +3592,7 @@ Vaughn Group Office</Value>
                                         <TextSelection>1607,97</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="DB22C815-C956-4541-8590-AED9EC535647" Type="Text" Created="2024-02-28 15:24:16 -0500" Modified="2024-02-29 16:50:51 -0500">
+                                <BinderItem UUID="DB22C815-C956-4541-8590-AED9EC535647" Type="Text" Created="2024-02-28 15:24:16 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Scene Segments</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3431,13 +3641,74 @@ Vaughn Group Office</Value>
                                         <TextSelection>1011,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="78AA6A02-EE36-4500-A88D-B0C31AE3B855" Type="Text" Created="2024-02-28 11:19:22 -0500" Modified="2024-02-29 21:42:55 -0500">
+                                <BinderItem UUID="78AA6A02-EE36-4500-A88D-B0C31AE3B855" Type="Text" Created="2024-02-28 11:19:22 -0500" Modified="2024-03-09 14:43:17 -0500">
                                     <Title>Scene Segments</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection Caret="4495">0,4495</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="42227AAE-7F6D-48FB-A740-45075EAD7AA6" Type="Folder" Created="2024-03-09 17:45:13 -0500" Modified="2024-03-09 23:55:55 -0500">
+                    <Title>Subplots &amp; Support Systems</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D6B75C2F-82A9-4C15-A609-B930E9D0C66A" Type="Text" Created="2024-03-09 17:45:13 -0500" Modified="2024-03-09 17:45:13 -0500">
+                            <Title>Chloe’s Turn to Support Liz</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection Caret="27">0,27</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4467,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2875A1C3-7B0E-44E1-88BA-54261DABE0C3" Type="Text" Created="2024-03-09 17:45:39 -0500" Modified="2024-03-09 23:45:53 -0500">
+                            <Title>Evan's Health &amp; Fried Bologna</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2637,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="1999921F-0C1C-4848-8751-39042BA5B315" Type="Text" Created="2024-03-09 19:19:38 -0500" Modified="2024-03-10 11:09:15 -0500">
+                                    <Title>Scene Segments</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2786,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="AF30FD92-ED85-4882-86BF-8B7B072AD4F3" Type="Text" Created="2024-03-09 23:46:47 -0500" Modified="2024-03-10 09:35:29 -0500">
+                            <Title>Evan Updates Liz About Maggie</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="7154FBBD-1BA4-4104-92E2-B2A5ADF389F8" Type="Text" Created="2024-03-10 11:08:41 -0500" Modified="2024-03-10 11:09:03 -0500">
+                                    <Title>Scene Segments</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3465,47 +3736,40 @@ Vaughn Group Office</Value>
                         <TextSelection>1822,211</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="D061CAB9-2B86-4151-9946-BAE5458EC0A0" Type="Text" Created="2024-02-09 10:09:19 -0500" Modified="2024-02-13 22:55:57 -0500">
+                <BinderItem UUID="BCE954BA-B698-4DBB-BC16-043C3CB680A0" Type="Text" Created="2024-01-28 03:48:19 -0500" Modified="2024-03-10 16:47:27 -0500">
+                    <Title>Sandbox 1</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1540,209</TextSelection>
+                        <TextSelection>5577,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="85620696-EB47-4F8C-8ED0-C7586189F3DF" Type="Text" Created="2024-02-12 16:56:43 -0500" Modified="2024-02-12 16:59:04 -0500">
+                <BinderItem UUID="DEBC52ED-2AE2-4C27-AAEE-7D8C66E292CB" Type="Text" Created="2024-03-10 16:47:17 -0500" Modified="2024-03-10 16:47:31 -0500">
+                    <Title>Sandbox 2</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>960,0</TextSelection>
+                        <TextSelection>5577,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="AABE52B6-E206-4234-AFD7-6A11EF082098" Type="Text" Created="2024-02-08 10:12:14 -0500" Modified="2024-02-08 10:13:31 -0500">
-                    <Title>Instructions Modified</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,2540</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="BCE954BA-B698-4DBB-BC16-043C3CB680A0" Type="Text" Created="2024-01-28 03:48:19 -0500" Modified="2024-02-28 21:51:37 -0500">
+                <BinderItem UUID="EDB23780-61A0-4775-AE73-D25BCA742139" Type="Text" Created="2024-03-10 16:47:21 -0500" Modified="2024-03-10 16:47:37 -0500">
                     <Title>Sandbox 3</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1768,0</TextSelection>
+                        <TextSelection>5577,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="325DA814-2E5A-40EA-85CB-E56265BDBF84" Type="Text" Created="2024-02-07 10:43:22 -0500" Modified="2024-02-28 22:31:26 -0500">
+                <BinderItem UUID="325DA814-2E5A-40EA-85CB-E56265BDBF84" Type="Text" Created="2024-02-07 10:43:22 -0500" Modified="2024-03-09 22:41:51 -0500">
                     <Title>Sandbox 4</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>415,0</TextSelection>
+                        <TextSelection>980,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="6A7C3B2A-CD74-4A4A-9C8E-E2030A8467FC" Type="Text" Created="2024-02-07 20:49:13 -0500" Modified="2024-02-28 06:55:31 -0500">
@@ -3526,39 +3790,14 @@ Vaughn Group Office</Value>
                         <TextSelection Caret="1701">1140,561</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="EF61C5A4-93D6-4BEA-B7FC-6BA1C3200AFB" Type="Text" Created="2024-01-28 03:48:24 -0500" Modified="2024-02-06 08:34:24 -0500">
-                    <Title>SceneProfile</Title>
+                <BinderItem UUID="2ED3CA5A-2730-4A83-992D-77208615C8F0" Type="Text" Created="2024-03-09 22:54:17 -0500" Modified="2024-03-09 23:39:10 -0500">
+                    <Title>Sandbox 7</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>429,0</TextSelection>
+                        <TextSelection>4483,0</TextSelection>
                     </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="36F950B6-5E8D-4729-BC91-26E0A543E2A8" Type="Text" Created="2024-02-08 10:04:01 -0500" Modified="2024-02-09 10:50:14 -0500">
-                    <Title>Scene Creation Template</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,439</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection Caret="6393">0,6393</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="7ACB1E38-E710-4F0B-802C-80383FC9BB90" Type="Text" Created="2024-01-28 20:13:20 -0500" Modified="2024-02-20 05:36:41 -0500">
-                    <Title>Evan</Title>
-                    <MetaData>
-                        <LabelID>11</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>146,0</TextSelection>
-                    </TextSettings>
-                    <Keywords>
-                        <KeywordID>59</KeywordID>
-                        <KeywordID>61</KeywordID>
-                    </Keywords>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -3894,7 +4133,7 @@ Vaughn Group Office</Value>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>157,0</TextSelection>
+                                <TextSelection>53,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="8B952130-2E11-4C75-AA69-671F68E28BB6" Type="Text" Created="2024-02-12 08:10:57 -0500" Modified="2024-02-12 08:14:54 -0500">
@@ -3906,14 +4145,24 @@ Vaughn Group Office</Value>
                                 <TextSelection>511,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="413F346A-DD17-4486-84F5-2EFAB36D7732" Type="Text" Created="2024-02-29 07:48:23 -0500" Modified="2024-03-01 00:24:57 -0500">
+                        <BinderItem UUID="413F346A-DD17-4486-84F5-2EFAB36D7732" Type="Text" Created="2024-02-29 07:48:23 -0500" Modified="2024-03-03 20:31:26 -0500">
                             <Title>Replacments for oversued words &amp; phrases</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>96,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <NotesTextSelection Caret="33">0,33</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>65,0</TextSelection>
+                                <TextSelection>116,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7DEC321D-50E1-4B81-995E-95FCC21A6480" Type="Text" Created="2024-03-09 14:08:55 -0500" Modified="2024-03-09 17:37:39 -0500">
+                            <Title>Gemini</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="4467">0,4467</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3968,6 +4217,26 @@ Vaughn Group Office</Value>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>155,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4DF78A25-7D9F-4096-8E33-29275F998CBF" Type="Text" Created="2024-03-09 11:50:29 -0500" Modified="2024-03-09 12:13:58 -0500">
+                    <Title>Replace old Maggie chapter</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,748</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1646,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BDC3C649-E68B-4960-BEB9-D9E0321B482E" Type="Text" Created="2024-03-09 12:37:28 -0500" Modified="2024-03-09 13:43:34 -0500">
+                    <Title>New Outline.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection Caret="6248">0,6248</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>291,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -4035,7 +4304,7 @@ Vaughn Group Office</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="12649">0,12649</TextSelection>
+                                <TextSelection>10682,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>59</KeywordID>
@@ -4356,6 +4625,16 @@ Vaughn Group Office</Value>
                 </BinderItem>
                 <BinderItem UUID="9E22809A-0953-44A3-8D13-F9D092081489" Type="Text" Created="2024-02-12 06:39:42 -0500" Modified="2024-02-18 09:27:03 -0500">
                     <Title>Evan and Liz</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="808BE7FB-8BD1-4223-B1E0-8ACDE3FB10E2" Type="Text" Created="2024-03-10 16:37:02 -0500" Modified="2024-03-10 16:37:12 -0500">
+                    <Title>Evan's Health</Title>
                     <MetaData>
                         <LabelID>7</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -5094,13 +5373,6 @@ Vaughn Group Office</Value>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="50F90BB1-63FB-4AAF-A099-064E68E316EC" Type="Text" Created="2024-02-26 09:58:25 -0500" Modified="2024-02-26 10:06:45 -0500">
-                    <Title>TOC</Title>
-                    <MetaData/>
-                    <TextSettings>
-                        <TextSelection>142,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="F299D9FD-60C1-40F0-9147-DA51CCA25CFF" Type="Folder" Created="2023-08-23 16:12:51 -0500" Modified="2024-02-18 09:27:03 -0500">
@@ -5198,7 +5470,7 @@ Maggie</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6427,0</TextSelection>
+                                <TextSelection>6245,0</TextSelection>
                                 <Target Type="Words" ShowOverrun="Yes" ShowBuffer="Yes">1500</Target>
                             </TextSettings>
                             <Keywords>
@@ -5323,26 +5595,6 @@ Maggie</Value>
         <BinderItem UUID="F2DF7FDE-46C4-4962-97F3-128A46433573" Type="TrashFolder" Created="2018-11-06 11:57:53 -0500" Modified="2024-01-28 03:56:33 -0500">
             <Title>Trash</Title>
             <MetaData/>
-            <Children>
-                <BinderItem UUID="260224F4-6475-44F3-8949-9383F0AF8D78" Type="Text" Created="2024-02-28 15:32:04 -0500" Modified="2024-02-28 15:32:04 -0500">
-                    <Title>Old Scene</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1704,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="54034BEA-25EC-4AB1-8567-52783E6CF152" Type="Text" Created="2024-02-28 15:32:04 -0500" Modified="2024-02-28 15:32:04 -0500">
-                    <Title>Scene Segments</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -5351,7 +5603,7 @@ Maggie</Value>
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">solace</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">frankie</SearchSettings>
         </Collection>
         <Collection Type="Arbitrary" ID="84A7B044-F30D-4580-B1B2-0214DB9D304D" Color="0.841505 0.920714 0.990005">
             <Title>New Collection</Title>
@@ -5653,6 +5905,10 @@ Maggie</Value>
             <Title>Excitement</Title>
             <Color>0.639216 0.890196 0.949020</Color>
         </Keyword>
+        <Keyword ID="64">
+            <Title>Surprised</Title>
+            <Color>0.890196 0.941176 0.639216</Color>
+        </Keyword>
     </Keywords>
     <SectionTypes>
         <TypeDefinitions>
@@ -5718,6 +5974,7 @@ Maggie</Value>
             <Status ID="9">AI Draft</Status>
             <Status ID="2">First Draft</Status>
             <Status ID="0">Notes</Status>
+            <Status ID="1">In Progress</Status>
         </StatusItems>
     </StatusSettings>
     <CustomMetaDataSettings>
@@ -5750,6 +6007,8 @@ Maggie</Value>
                 <Option ID="12">Surprising</Option>
                 <Option ID="14">Excitement</Option>
                 <Option ID="15">Feel Good</Option>
+                <Option ID="16">High Drama</Option>
+                <Option ID="17">Sadness</Option>
             </ListOptions>
         </MetaDataField>
         <MetaDataField Type="List" ID="endingemotion">
@@ -5769,6 +6028,7 @@ Maggie</Value>
                 <Option ID="11">Stressful</Option>
                 <Option ID="12">Surprising</Option>
                 <Option ID="14">Feel Good</Option>
+                <Option ID="15">Sadness</Option>
             </ListOptions>
         </MetaDataField>
         <MetaDataField Type="List" ID="weather">
@@ -5819,13 +6079,13 @@ Maggie</Value>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-03-01 02:08:36 -0500"/>
+        <PreviousSession Words="505" Characters="2878" Date="2024-03-10 16:49:03 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-03-01 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>1</DraftCharCount>
-        <OtherWordCount>6</OtherWordCount>
-        <OtherCharCount>62</OtherCharCount>
+    <RecentWritingHistory Date="2024-03-10 00:00:00 -0500">
+        <DraftWordCount>1989</DraftWordCount>
+        <DraftCharCount>11335</DraftCharCount>
+        <OtherWordCount>-15342</OtherWordCount>
+        <OtherCharCount>-88922</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
     <UserProjectData>
