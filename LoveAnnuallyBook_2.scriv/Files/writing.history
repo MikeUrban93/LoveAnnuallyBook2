@@ -32,5 +32,7 @@
     <Day dwc="0" dcc="1" owc="6" occ="62">2024-03-01</Day>
     <Day dwc="74" dcc="357" owc="-911" occ="-5467">2024-03-03</Day>
     <Day dwc="775" dcc="4467" owc="9484" occ="55053">2024-03-09</Day>
-    <Day dwc="1989" dcc="11335" owc="-15342" occ="-88922">2024-03-10</Day>
+    <Day dwc="-2638" dcc="-14108" dtwc="33662" owc="-11242" occ="-65039" dtcc="195934">2024-03-10</Day>
+    <Day dwc="2297" dcc="13357" dtwc="35959" owc="-2251" occ="-12474" dtcc="209291">2024-03-11</Day>
+    <Day dwc="1973" dcc="11589" owc="723" occ="4295">2024-03-12</Day>
 </WritingHistory>
