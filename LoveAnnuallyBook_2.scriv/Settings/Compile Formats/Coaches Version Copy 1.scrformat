@@ -147,7 +147,7 @@
             <RTFBookmark>Yes</RTFBookmark>
             <BlankLineSeparator SkipStyles="Yes"/>
             <Titles>
-                <Prefix><![CDATA[Chapter "]]></Prefix>
+                <Prefix><![CDATA[Chapter <$n:chapter>: "]]></Prefix>
                 <Suffix><![CDATA["]]></Suffix>
             </Titles>
             <Formatting Override="No" EbooksUseBaseFormatting="No">
@@ -540,7 +540,7 @@
             <RTFBookmark>Yes</RTFBookmark>
             <BlankLineSeparator SkipStyles="Yes"/>
             <Titles>
-                <Prefix><![CDATA[Scene: "]]></Prefix>
+                <Prefix><![CDATA[Scene <$n>: "]]></Prefix>
                 <Suffix><![CDATA["]]></Suffix>
             </Titles>
             <Formatting Override="No" EbooksUseBaseFormatting="No" FlattenIndents="AfterEmptyLines">

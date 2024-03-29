@@ -1,11 +1,16 @@
 # Changelog
 
+#### 0.0.8.1- MAU `2024-03-29`
+1. Completed up to Chapter "The Scholarship Scheme: Execution"
+2. Added some chapter oultines, no Synopsis yet.
+3. Copied notes from phone.
+----
+
 #### 0.0.8.0- MAU `2024-03-11`
 1. Chapter up to and including: Scene #40: The Check is in the Mail.
 2. Timelines not applied yet.
 3. This is a savepoint before we split chapter 8 into chapters 8 and 9.
 ----
-
 
 #### 0.0.7.0- MAU `2024-03-10`
 1. Completed Draft 7, Including Timeline
